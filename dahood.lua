@@ -1,1 +1,6343 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _hqphwHPIXkQM = a; end)); return(function(m,...)local _;local f;local l;local r;local s;local d;local e=24915;local n=0;local a={};while n<378 do n=n+1;while n<0x26c and e%0x4606<0x2303 do n=n+1 e=(e-424)%27767 local t=n+e if(e%0x37f2)<=0x1bf9 then e=(e-0x114)%0xb918 while n<0x296 and e%0x2072<0x1039 do n=n+1 e=(e-638)%40107 local d=n+e if(e%0x2b72)<=0x15b9 then e=(e-0x386)%0xbb8c local e=82663 if not a[e]then a[e]=0x1 s=(not s)and _ENV or s;end elseif e%2~=0 then e=(e-0x28d)%0x240b local e=24313 if not a[e]then a[e]=0x1 s=getfenv and getfenv();end else e=(e*0x3f6)%0x9911 n=n+1 local e=42970 if not a[e]then a[e]=0x1 r=tonumber;end end end elseif e%2~=0 then e=(e*0x144)%0x6803 while n<0x314 and e%0x189c<0xc4e do n=n+1 e=(e*441)%30059 local s=n+e if(e%0x2cd0)>=0x1668 then e=(e*0x3c0)%0x3284 local e=54451 if not a[e]then a[e]=0x1 end elseif e%2~=0 then e=(e-0x280)%0xa966 local e=79151 if not a[e]then a[e]=0x1 f={};end else e=(e*0x26e)%0xaa32 n=n+1 local e=48336 if not a[e]then a[e]=0x1 _=string;end end end else e=(e*0x208)%0x8c3 n=n+1 while n<0x2a1 and e%0x18f6<0xc7b do n=n+1 e=(e+925)%41921 local t=n+e if(e%0x203a)>0x101d then e=(e-0x206)%0x9168 local e=84226 if not a[e]then a[e]=0x1 end elseif e%2~=0 then e=(e-0x284)%0xa77d local e=10733 if not a[e]then a[e]=0x1 l="\4\8\116\111\110\117\109\98\101\114\80\111\115\118\99\65\73\106\0\6\115\116\114\105\110\103\4\99\104\97\114\79\122\101\69\87\89\113\106\0\6\115\116\114\105\110\103\3\115\117\98\70\84\79\122\76\88\80\69\0\6\115\116\114\105\110\103\4\98\121\116\101\77\106\73\72\102\102\112\120\0\5\116\97\98\108\101\6\99\111\110\99\97\116\65\107\90\75\114\89\72\68\0\5\116\97\98\108\101\6\105\110\115\101\114\116\80\110\101\122\117\104\98\107\5";end else e=(e-0x1eb)%0x519 n=n+1 local e=88526 if not a[e]then a[e]=0x1 d=function(d)local e=0x01 local function a(n)e=e+n return d:sub(e-n,e-0x01)end while true do local n=a(0x01)if(n=="\5")then break end local e=_.byte(a(0x01))local e=a(e)if n=="\2"then e=f.PosvcAIj(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then s[e]=function(n,e)return m(8,nil,m,e,n)end elseif n=="\4"then e=s[e]elseif n=="\0"then e=s[e][a(_.byte(a(0x01)))];end local n=a(0x08)f[n]=e end end end end end end end e=(e+603)%32132 end d(l);local e={};for n=0x0,0xff do local a=f.OzeEWYqj(n);e[n]=a;e[a]=n;end local function t(n)return e[n];end local a=(function(l,_)local m,a=0x01,0x10 local n={{},{},{}}local s=-0x01 local e=0x01 local d=l while true do n[0x03][f.FTOzLXPE(_,e,(function()e=m+e return e-0x01 end)())]=(function()s=s+0x01 return s end)()if s==(0x0f)then s=""a=0x000 break end end local s=#_ while e<s+0x01 do n[0x02][a]=f.FTOzLXPE(_,e,(function()e=m+e return e-0x01 end)())a=a+0x01 if a%0x02==0x00 then a=0x00 f.Pnezuhbk(n[0x01],(t((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+d)%0x100)));d=l+d;end end return f.AkZKrYHD(n[0x01])end);d(a(254,"!%=53g(L{qbmeA/PWL"));d(a(94,"a_K%)t,4cf:5ypev:K):tfvyfy%tpy445,5c,5Ft::)4yc44K%5t,fe5:)vSf%:W%tptcKK)yf%ee4c)tye5f)Ke,5___eyKt5*K::)5v),cKe::4cv)f,ecf<fv)KeK45KK5pvpu4fptKe%c:%5:ptt*55ct,k_c:p)4:ct_5pi,,:t:e)ce5:h%:pet)_e5:)_vNf_)Gc2K:%%y44c_%:pteep:K%_p)cR_55ftp8p5tKpp5,tKv,y__AK5%t%3,:%)c:545K8fv,eupf_%,u.KepXet4__5yc):pff5%_y),p&)pK<c:fc%t:p_4c%:p%4e%_5pzF:,5)t_v4f:%:p%4:_tf:tyvpce%:ec,fKt,u*4_c:4):v,f_p)etcjK)54t5wtfK)pyf,:Yt5t4y}%t;v)ot:-))p445Ktyy,to4cp%5v%4v)_4R_%K-y)tpg):yK45p4pP,::,tQtfyeefK:_%tpe4f_fyy4_v5:#Kpp4feNp5Kh:5>55t_U,fyp5pec,K5yp4K_ccc%Kv:4f_e5c4554"));local e=(-3543+(function()local a,n=0,1;(function(e)e(e(e))end)(function(e)if a>105 then return e end a=a+1 n=(n*800)%16970 if(n%1460)<730 then n=(n+986)%13332 return e else return e(e(e))end return e(e(e))end)return n;end)())local z=f.pggKWmWw or f.VoIHAOtY;local se=(getfenv)or(function()return _ENV end);local d=3;local s=2;local g=1;local l=4;local function ne(o,...)local t=a(e,"g7smJz_GqO*I<%}aIz_}*z%<7_zsq7Iq}aGz<I}OmO_}*q%7HI}7ssJ<qmI*JzOG<_a%mO_Oq_%GssJsqyI<}OIaaGs*_7Oq7<_I*I}O*}}O7OzbqGsJ_GOI%.}<7qJ*JsO%*%}J7IOGaGs7zOO*<*I<JsG<_7%<7qzOG}I_aGsG7O*J<aYmazzsOs%K%7JIqq<qadm{_Uzs<}R_m%Gm*qarI_ams7zqqa/}_sOz%%7_mIGz*qasIqa_smz*O77*GJ*J<FUOJ%qqIs}m7<a7m}z<Om<*J}*G%}7Jm GO*}}7R<_JOO<GVmmmG_qs%*d<JmGIII<zsa__OI_sOG<}5zm<Gm**J*zqzsOyI%aJsI<}#qm7_II7}O7}J<qqIqqI<Oa_s%_J}amm_IOM%q7sJOqz<7a7<JHmsa__O%s7GyIH}}aIJ<OGIGazm7z}mJGIOa%_H%q%}sstzqOsI<}ss%_7*D<aaJm%qmI*}_sszsOzz<Om<Ga}mzIO>Jzs7JJaGaI_}%_G<*aamO_7O*}s*q}J7mJ*q7w*z}OI<IaqmJG/*=Gm*a%}7zJ<<J7}zzGJ<jaqmsG,m}G<*O}57GOGams<_qO}*ma%m__G*IGGI*}s7Ozo<qsszOGq<qbjJzJaI7}zsszJG%<7(7<mZ_s}_zO<smG<I=}s7JJOO7I%aGsGJ<*U<<bmmO;}JmG*I7}q7aO_X<^Ja}m}_O*0%GzI**}*sqmbqsI<aJ7*__*7%r*z%a7.JGG}a_z1qG*}ass*Wsm%_%*J%I_sIz}77*zm_}<PO_<}u7mq_aaJJ<_OOJqsI*ammmz}Oz<<JJO}%zamJJqaO%}%7}z%q}%sO*}J-zm<Gmq*OOImsam}_)%J}m7mGOqq*77}s%zm<m%s%q*qAzJzqm_G*O%suOJcIa7GzOG}<s.sc_GMOa<G;ImqGvIJG<IO}G7}zz%asq_}GG%GZIm*GsI_G}IO}OsjzG%}m7z%*<<a7mJI7sJOG%IJ}I_G<GaJ<*7}mz_<*mI*<O}mza_aG_PJ7mma*OIqI}J}z%z%amAsmsOq*GIaI}a%mq_J*q}J<am7qW<z*<I<a7sqzaO_<%!JJ%Is*<}q7GJ}qzaazJO_<%a*m5_O*qGG<<}s7Ozv%zYmJIG7Iz}_sQzIqJ*JsJzqq7Gsfz}vJ<GG*O%_am_}*_}}<a_sm%OI}<saz}_*qG*7a<f<JmG*a_z_qFIqaOsO7I*7%I<PmIGGIq%%7zz_q_Gq+ms}_szJ<<7KJ%GOGJ}*sJJaq}G*aGs%_+**}s7_JQ7zzmq IG}}__<<8mm_G*q<%}a*m}G_J}q_IOacsG**a}m*_qm%GG*q%a7_OdamsqzJq*%JOO<}5zm<Gm**}77qJaqO<GaJsI_s}4mzGIO7%*7}zOqmIJ}%<siIs%_JOIIs<7<JzG__q<a<SIm<*7Iy%>J_zzG}}Ia*msO#Oa*zzqOz<ma*m7*Olmm*_7Im}s7Ozzqzz*OO<za<mmIa}*aq_s*Ia7sqzJO9<L1m<*dJmz_<*m7%G_I_am7Izas_zIOs<OxpmGs}7G7<7_z7q7Iq}a_*<aazJs_I*G%G**}z7zJ<qmvs_zO<<a%%msGqm}GI*O}:7Gqa}OsnmzOa%z)<m}GJJAGq*I}s7OO}}qsIz*s}_mO*%7,qmaG_O%sm7%zsqO<6aGs}}zas7m{%J}Gq*a}_G<I<a<ms_7*G*a}}7}_J*}<Ia}}Imzz_q%<JJ}OG%%aGmqqs**}}sYJIOm<m}zsaGUO%<%2IJzGOIIaGIqaOsmz*O77*_J*J%7COJ%_zI%}zsGz}q*<FO_%mc7mq_a}IJIGz*%}}7}m_G_IJOq%qFmm*G7a<z7GGIIaGsIzmOI<zhzm7G}maO***}77q*m}}s__GJI<q sm<_<z}}<k%z_m*<7a*s}_*Os<GkamG_%_:}}7GzOqJGm%GmW_GO%IOKsmGsIOq*<Im}}7}zzq<7O_m*J%7u7JsGsJGqJIs}OswO%%%7IJ}OJ<}{*J%qsJOq_IJ}Iss*%aqmR_7*D%*rqJ%qJJIqqI_}%sJ*qaGmGGzzG%y)}J*GGJ%q}Iq}as_*IaOJ7_G*II<7_z7G*G*a*s}zGsI_GO_<%hJGa%I7<J7GOI*}*spa_m__7Oq<az**z%O7qJG__I7az7az<O7%zO%%arqmaG_}}zsqaII%zsaz*OOIOPIm*G7*%%%Isaq7%zJqItJ_}OO%m/s7qGII7}17*JaGsIIawmq_J*7%G*m}zT}JzG<a*JaOz*qQ7mz_7*O<}7_ssG}*%}%Iqamsmz*O77G_a**%_7mJOqzJIqoIG}}szz<Omy<J7mIG}*_%%7JO}}%msm7OJ<%H*m*GGq%%%77JmGIIaqG<JassO_N%qms_Oqa%a7mJzG%<7qO<%aJsI_s}}Jm_<IHI}7*zmqa<z%IsJ_q*m<%a}mGU<JqGG*}}zz%<qa}mdJIOG%z7J%G77JsGOIPzVq<<qa7mz_}mm_qOa%_/%JJGIIssOsmz}q}<za<GG<aKGmOqJIsa7IGaGsszOOM7J_m*m}7<mJzG_<7}77azIqqz}OG<O4bmG<s&}z/Ga*aqmIq}as_z%OJ<IzIGOGmIm%}7zJ<<_s<z_qO%maIsJ_%*O%_7qzG7*z*qzI<amG%<_!<s__GI7%O7%JaG*<sas<7a*s<_mO*Jz_O*7}s7s}Gs_zsqO<kJ*qa%I:7sr_I*a%O7_JIqazGOO<saOmdIJ.%mOGz*OamaOJ%qVI*}Zs%GzOG_I*u%G+}JzG<ImY}_7zIO}<_a%mJJIzIzOa3aa7OOz*J%Gm*JOz<Jzqz<m*G}s7sJOqy^Iz%OJ<qkGmmG7mIG_*_%%7JIs}Gs%zGq<<<)I<a+*m*G7*qssqzIIass)zzO%_m*_<}Nzm<I_7OJ}G*Ipa*%%JGO;%_T%mOGz*z}q*a}G7*z7qqs_zGO*<OO%%sKOJcGG*}}zm<Omq%<*aqsa__a9maqJqm}_7az<q<<Oqa%za*m7_q}<mGGa*a}5s_zOq<Iqa7s*JaOq%<7GJ7Gs*IGaJ}qJIIassO_R<GGJ_<*m%%smJqGaI_<%%%%IGsq7OI7Gs_zOI<<I%}<ss7z<qq<<cq<}kqmOGH*Gs7qJIqass<sJsI_mO_<%yJqq%m7sJ}7*GqqzI<am_a<aaOm7Gs*sOJ7*zJmOIJa^m7z_q}<aaaa7G<*G%I<%JzqJIa}Isa_IJ}<I77J7_%Iz}77}zJG}<MaJm_GsmmqzO}%zx<smmsmm<q%Gaq_%G<*%7ss7JsIG<_<Gz<_Iqm377?J7*_Iz<qImrIJ%GsI_a_IqaJsmz*O77zGqq*%<fIJsG}*}qm<s}}szz<%amO_JOO%Ia_JOGz<J}GsIammmz}Oz<<J}Oa}*5*JqqJI7<*s%zmO_<zO*%qhzm<GmamJaqq<Ja*Ys_sqa<Ga%%m>*m}Gz*<mYqmIaqI<sa_s%_J}}m%qsJmO}*}}z7<mmJsJz%q}G+%G%q<I%ssm7z7<G%G%z_<GIO%77s7s_I_<z}IzI_*_I0jfamI*zIJI*<I#*JzG7Iza7IG}}sszOOPmz_m*<_}*m%*77JqGaO_z<_Jz}I*<OB.mGIm7mm%GzI_}_%qz}OqG%aqmJGzO*%s7mJmmzIJ}q7IzzJq%saaJG_OzI%a7qJJquIJ}}7azJO}<*VGm%LOJ_GJ*I}sO(IaaOsO_qO<<Ja%m_lIJzG_*%}JGN<DazsazqOs_q*<%m2*J7<I7Jz*__IIaOm7_IOzIlE<mOG7II%asJ}*7az_q%<JaImsIs}h%*7xJzG<ImJO_qzIO*<_a%mJIq7Is<GmIO}Gsz_Z_I<aam<IJsm__%*JJmq_I%aDs*sqzJqIMzsIGq__%_haz7G<<)}Js}_mq<%NaqmIG7*}%_7_zmJJILamsqs7Oa<OV_m*_}***R7%z_Os<Ja*m!_OO_<I<q7<Gb*<}J7}J<GIO%a7s7szO*<z!JJ3mqJmqJ*}}z7<O_aamm_*OJ%J777G_<*a%}ssJqs7_}q<<ma*G}}7asmOGa*%}Is_m7OzIOI%mq_<Oq<% *m}Gq*O**7IJ<qaI}Om<Ia}mz_<aGmaqOI<qs<^}%sJzI}zs}GJqm%GxGJ}GJI<a*IIaOs_z%OJ7m_I*%%s7_z__qIza%7aaJmmzaO_<%z(*J%J7IJ7qO<GImsq_qqIG_Oq<a!_J}GJ*I}s7<zJqGI}azqm<JHmJz(IJ*G_*%}J_G<7}<s7_mG}%7a%J<_aImGIIq}_7%zJ<}s*z**s<qF7JOG7IzG<I7}q7az_q%<JaIms_<*G%GA}Jz<<7aJIO*I%;7mO5tm<_I*s%O__*<}*sJJaq<<}U*<I+_m__%*JJsGGI%}G7<z<OIza*m<*17mqIG7IJ*GzIOa7sszJGO<%HJJjzmOI}m7<}s7%J%qJIIJqq}<m/Im%GG_aG_Im}77qJa%Osq_%_<<a=qJzGzIsGq*a}m7*z7%Is*_amtGsOI%sKOq_}=7<JO_sI<a<mJ_<Gs<}t_Jk_aJzqmI;}G7}*GR7m7J%O_%*7zmaGy*OG}I_}Os zGazs__OOq_%*I%q1aJ_<J7OzaGzI}Rsm%_GOq%7*_%%77JqGasJzsOIz}Oa<OEkmG<++*J*GG*aamkI_mqI<%.Jmo__mOGy*G%}m%J<qmI*YmIIzaO_<%{ImIGs*O}T7}J}qzI<aJs*_mOq}aIIm%GJ*I}s7OzIqG<Jz<s<_mO*aq^qJ0G_*%}J7aG}qO<AaGzz_zO%%m7<%JGq*a}_sIzJqI<s7O}z_GO}%zZ<JmGaI79q%Jz_q%<JaIms_I*daG<mJzG<Im}*s7zIqa<<_JmJ_I*s}I7.JqG}Iz}<sGq_O7<qaaJq_%*z%IsJ%<qUIG}}mmz<Om<*s7aJ_a*_%%7JJIqGIO79m}z}Oz<<tmm*Gm*qaa7qJ%qJIIassO_mOG}}ssm<Gm**}77qzIq_<aazsI_JOO%q.Gm}Gz*<}J7*z7qq<7a_sa_J*7aJLOJHGG<m}z7%zmqI<7a<zI__O%%JsTJsG*Iw}IJ*zzq<<ms7m7_OOaa_<sJJG<Is}OsFz%q}%GO}mm_<*7}74aJ_G%%JaIsszIO=<Oa}Jz_<Iz}G77JIGaI*}%sJzI*J%_kcmI_}*<%<7mJ*q7<a}as*z%Oz<I)JmOOH*%%}7OJ<qGI*aIsqG7*%<%rOmIG_*O}P7GJ}+<I<azs*__Oq%7b_J%m}*I}s7Oz_qG<Mazm}_aO*%mUqJ%G_*%}JmIzzqO<saGm5_z*I%m7<z7GqIm}_s*zJqI<saOms_G*f%z76JmG<I7fqs%z_qa<Ja%msG**:aGsBJzG}Im}<s7zOqa<_m}mJ_%*s%I7+JqG}<zz)smz*O7<}aamG_%*J%<7sJOqKIq}}szz<Om<<Z7mq_a*O}J7JJIqs)azOO*<GaGmq_qm%GG*q%a7_I_aJ7<zIOI%mOG<}wzm<GI**}77q_77OI%azsI_JOO%lRGm}{}*<}z7*z7qqIaa_s%7kOI%mUOJsGGI7}zs?Gaq*<7aqmJ__O}%J7I*_GOIz}G7azzq<<mujmz_q*w%_77JJG<Is}IsxzII*<za<mm_}*7%OraJ_G}IJ}Issz*Od<Ga}m__%*m%*77JIqzI_}%sJIiUAmz_aOq%s*z%<7mJ*qzIq}as_z%s%<IusmOG)*G%}7z_<aaI*a7sqzaO_<}6JmIIm*O})7GzMqzI%ams*_sOq<aD_m}GJ*I}s7OzzqGI}azsa__O*%7nq*%%IsJ}G7<zsqO<QJOm7__O<%m+*qmGIIz}_7%zJ<}m7_zOa%O%7%q5%JmG*I7sa7az_q%<J7sms_O*S}O_sJzGaIm}}s7zqqa}_HJmJ_}*s%<7-JqG}%zaqsmz}O7<qaamq_%<Ja_7sJ}qBIq}}sGz<Im%Jj7m}_a*_%%7_JIqs<qa2s<z}O*<<QOm*G7IJ%a7IJ%qOIIaJsO_0z_<}wOm<GG**}_7q_amOI%aOsI_sOO%z8Gz}qs*<}O7*zsqq<Ja_J%_qOI%OcOJCGGIm}z7<_<q*<Gaqmz__*J%J-IJOGOI_}GsJzzq}<ma*mq_q*J%_7sJJq7Is1OmszGOJ<za<mm_%*7aq<JJ_qJIJ}<ssz<O3}G*smzGJ*m%*77JIGaI_assJ_sOs%tQcma_}*z}I7mz7q7Ia}asqz%OJ%OMsmaGe*%%}7<J<qm<za7sIzaO<<%!JmIGsIq}67*J}qzI<ams*_7*G<aE_m%Gz*I}s7OzmO4I}azs<__OI%7Fqma<qI0}z7IzsqOEGa*sa_zO<%mJ<JJG}*a}_7%OGa*s}_q*sO**7%G+<JmG*s7z7sszOq%<JaIOz%q7m%*7sJzG<ImzGqs<<aG<qa%mJ_I*s%O79sGI%Iq}asmz*O7m__J*%_%*J%I7sGqqPIG}}mG)*Om<%27m<_a*_%%mJJ<qsI<a6s*z}O}<<smzsG7*<%a7_J%qzII7sJz_uO<<}{_m<GJ**r7msJaq<I%aJsI_mOO%d7}m}G**<}q7*zGqq%7F_s%_*OI%O)OJhGG<}O*7<zOq*<Gaqmz__*am7MIJOGOIG}G7}zz*<<*a*mq_q*_%_7sJJGI<%}OsGzGOf<z5mmm_**J%q7zJ_GaIJ}%ss_OOa<GnJmzGJ*m}p77zqO7I_amsJ_mOs<aP:mGG7*z}77mJaq7I}}as_7<OJ<a5sm%G&*<%}mzq}qmIaa7sqzaOq<%sJzqGs*a}L7qJ}qGI<7mJJ_7Oa<ar_m%G_*I}smsz2q%I}aIs<_*O*}m77maG%*%}I7IzsqO}VZ*s}_<O<%*f*JGGq<7Ps7%z<qI<OaOm9_GI}q*&<JIG*IO}qsJz_q%z}aIm*_O*s%G7_JzG<I}}*sqzqO7<_aamJGI*O%O7GJGq_Izamsm_**%<q9_m_Gz*J}s7sJOqaIGaJsz_sOm%7j7mqGG*_}s7JzHqsIaaZJG_zOz%s-mm*G7*I%am_DsqJ<sass*_pO*<}szOqGmIs}77qJaqOI%aJm%_s*d%HC}m}G%*<azsqz7O9Iaa%s%_JOIas7zJ{Ga*}}%7<zOq*%m77sa_aO%%I)IJsGO%)aG7}z}q<<<a*m__qOa%%P%J%GIIJ}OsOzGq}_%a<mI_**m%q77J_q%m7}Is*zOOq<GQ_mzG<*}%*7OJqqGI_azsJzIO_<OnGmGGz*z}J7mJ*q%Iqazs__mOJ%sQsmOqs*G}77zzsqmI*a7sqG7O_%02JmIGs*O}/7G_mqzI<amsI_7Oq<a3OJ7GJ*I}s7<z*qGI}azGJ<<2}mmGGIG<O7_z}qvzzqI< aGs}<J}m%_7<J7Gq*as}q_<q}%m7G7zF%*xGJaG7_m}%7_z<ma<*a<<G&dms_O*EJGq-*}}*sG}*s7zqqa<%a%mJ_IIJ}z7cJqG}IG}<smz**7<*aamG_%*z%I7sJOOs<}}}s_z<OG<*27mqq7I}%%7_JIqzIOaLsGz}Oq<<R_m*G7*q%a7_J%OqIIamsO_mOG<aKzm<O?**}77qz6q_I%aJs<_mOO%WRGJ7qs*<}m7*Isa7s<zqO<%q}eJ>_**s}m7mJO7<zmq*<7a*sa__O%}_saJsGOI,}q7}zzq<<maIm7_qOa%Gk%JJGIIm}Is:zGq}<q>7mm_**7Jqq7*a}Isq}}mOzOOV<GJ}*G%If%maGJI<}qsszsJJ<}Uss}_zOIq}7qJ7qG_*azsG}as_z%OJ%7lsmOGi*G{J7zJ<qmI*a7sqza*q%}UJm<Gs**}57GJ}OG<}ams<_7O*<a;_m%GJ*%}s7<z4qGI}azs<_mO}%7pOmaGO*%}z7Izs*m<taGs}__O<%mX*JsG**a}_7%zGOm<saOmj*IpGJq_%*z}_7_J<sszqq%<JaIO7IW* %G8}Jzq+Im}*s7_*ss<_a}mJ_%*s%O7?JGsGIz}}smz*O7<qaaJ_%7*J%<7sJ*q)IO}}szz%Om<*h7mO_a*_%%7zzzqsIOacs*_OOz<<;mq_}CfIJ;qsO%aP7<_Iq}%sO*%z-zm<Gma*J%GO<q}Isa_Gs}_GOO%#6G*}%q?%Jaq_zJq<Iaa_s%Isa<ma_}JmGI*}}z7<<7}amO_<msGnO%%J5IqO%}sJmGq*I_{zsq_<*J_I*m%_2%JJ}s7mz_qzz*Oq<za<mmI7j_J<_s*I}as*zJqzI}Om<aa}mz_<}GJmqJ*O}7sszsqqz}OJ<O4omG<%}<%%7mJ*q7<q}as_z%OG<a smOG=a*JGqaI7q_<sa7sqza}ms}Gq*,}J7sJ7qmz7qaI<ams**JaOm%JO*<}K7GJIG%Izq*<7azs<_mbqm_GaJsGq*%}J7II7%j<sz%OJ<IKsmOGQsGIG*a}_se_sqI<saOG_%iB<mOzs*<}<sJz<_sI}a_m>zamz_%*)%GY}Om}7sszqsJ_sqa<_a%G<%J7_mIGaIa%77}__qqz%Oz<qaam_IziOm<G_J<q<IG}}szI4vzsI_a*I%a:GJaGOIO}zmsammsz}Oz<<zzOa%s7JJIqa_%}_sG_Gq}_m*7<}Pzm<Iz7<J*GII*<Os<_DO*%JO<%G#Gm}Gz#sJqG%<zaGm7sOm;_%OI%syOqm%a5azGG%I_a}s__*sa__O%%JmsJsGOI;}GIGzzq<<ma*m7_qOaa_<sJJGIIs}OsU_Gq}<I_mmm_**7a}^aJGG%IJ}Is_qzOF<Ga}zI_<*J%*77}7GaI_}%sJzIOs<Osn_s_}*z%<7mJ*O7Iqias}z%OJ<IesmOGq*Ga>7IJ<qzI*a<sqzaO_<%7}mIGs*O}s7Gz-qz<s&zs*_7Oq%I-_m}GJ*<}s7%G<qGI}azmq_mOI%7{<_IG_*%}JJ7zsq*<!aG<G_zO<%m:*J7Gq*aV_JqzJqI<saOm8GGO}az7mJmG*I7}q7az}q%%_{sms_I*(}sj}JzG<Imass7zqqa<qa%m__I*q}t7;JGG}<O}<sJz*Os<qpm_s_%*J%Is_JOq7IGasz7z<Om<*sGmqGp*_}a*GJIqmIOaasGz}Oz}<OOm*Gs*q}y7_z7qJ<%0asO_sOG%mYzm<Gm<*a47qz7q_IaaJmz_s*I}s!GJ7GzI7}m7*z7*q<za_mR_JO}%s7mJfqOI%}zs6zmqa<7aqsaq_*s%J-aJsG%I?a77}zz7m<maIm7_<Oa%qR%zJ%QIs}Os^zqq}<_a<_m_}*7%q+azsG%I*}ImJ_<O)<qa}Jm_<*m%*m7J<GaIG}%szzIO_<O7sm%_}*G%<sMJ*q7Iq}am<z%Oz<I0JmOGs*G}}7}J<qmI*aasq_KO_a%GamIGs*O}s7GzGqz}<aqs*_7Oq%s _JJGJ*I}m7Oz:qGIaazs<_mO*}aBqmaG_IaGG7IzsqO<*aGs}_zI<qqd*J7Gq*a}_s_zJO7}JaOmt_GII%zA%JmGII7}<JIz_q%<J7qms_** }O*7JzG<Im}as7zqqa%qsJmJ_<*s})7TJGG}%zassmzIO7<Oaam}_%I_}J7sJ<q0IO}}szz<Om%s47mO_a*O%%7_JI*s%maVsqz}O_<<1Om*G7Iq%a7GJ%q_IIaJsO_JIm<}8zm<q}**}s7q_amII%aOsI__OO%JNGzl<7*<}O7*zqqqIaa_J%qHOI%qHOJ_GGI_}zs}_qq*<Oaqm7__O%%J>Iz%GOI_}Gs_zzq}<m7*J__q*z%_7mJJG<IseOmvzGOJ<zEsmm_}*7%}sJJ_qsIJL7ssz*OB<%a}mOOq*m%*77z}GaIG}%sqqGOs<O0wz7_}*_%<sz%%q7I%}asOz%OJ<IkqL7G#*%%}7zJ<qJI*assqza*G<%fJmIG_*O}37GJ}<_I<aqs*_mOq%6j_m%OS*I}z7Oz;qGI}azms_GO*%7jqJIG_*}}J7%zsq%}<aGs}_z*q%mLIJ7GqI=}_7%zJq<<saOm/_G*s%z=<JmG%IO}q7az_%%mm_}OI%%5OJ_G<JqqsIm}*s7OI%zmqz}*7%>*z%%7;JGG}f*z*q<<}OJ<Iaam__%7sJ1qOJOqyIG}}mmz<Om<*M7I<_a*G%%7JJIqsIO7xsaz}O_<<NJm*Gm*qaasUJ%q_IIamsO_7OG<}uqm<Gz**}77qz7q_%%lmsI_JOO%s/GJ7Gz*<}q7*zJqqIaa_s%_J*%}*=OJJGGIr}z7<zm**G_aqmm__*7%JLaJsOO}<}Gsmzzq%<maIm7qq*}%_7mJJG<Is}*snzGOm<z smmGf*7%*3aJ_OqIJ}asszaOd<Oa}JzG%*m%%77J*GaI*}%sJG_Os<OW.mq_}*z%<7JJ}q7Iq}asO__OJ<Irsq}%}7mJ%G_I:}q7}7ssI_GO_<%:JOv}n7zJaGqIs}*s9amsI_JO%<aQ_m%}J7%JIqG<JqGI}azs<_OO*%7Nqz7IJ*%}J7Iz_qO<NaGJ?_GO<%J3*JsGq*a}_7%_GqI<saOms_GOa%z4<JIG*I7}q7az_q%<JsImJ_O*R%G7RJzGaIm}*sOzqqa<_a}mJ_I*s%OsmJGG}Iz}am7z*O7<qJzOa%Iiqs7GIIIamsIm7q%<zaas}Vmmq_a*_%%7JJIqsIOamsaz}Oz<<zm*O}J77zmGaI<asI}azsO_/OGm<_*ImG_I*}77qJa<}ms_7q<%n>qmO_IO(}J7IzG_*Isa*mmaqs%_JOI%svOJ8GG}}}qs7zmq*<7_qO^<akaJGQ}J_GOIW}Gq_<*amsqa%mO_qOa%_zzIO}q7mzGqa<Was<q{zmm_**77IGG*G}a7zJ}O_I}Ks<*7Pmz_<*mm7q^I*}I7*J7Om*}azmI_zO<%<azJIG<IqazIIaOs_z%OJ7s_G*%<P7mmaq}I7azs%aJsOzaO_<%z<m}Gm*O}Z7G*Gqq<qams*_7}}mq_IIJ}J7*zJq%*ma;mqz*sa_OO*%7/qqG%Ix}z3qaI*q<<GaGs}_zasmq_%Iz}Gs77qs&zqqI<saOO%<q7sm%haJ<G*I7}q_<IGaJms_J*_%}oJm<j}JzG<Ims}s7zqqa%qOImJ_<*s}I7&JGG}%zYssmzIO7<Oaam}_%I_}z7sJIqUI}}}szz<Om%_^7mI_a*_%%7JJI*s%7a+s*z}Oq<<Bam*G7<J%a7OJ%qqIIassO_4Im<}tGm<Gm**}z7qzmIsI%aJsI*sOO%7jGm}U}*<}*7*zsqqIaa_mmszOI%qAOJ<GG*a}zsmzmq}}%aqsa__*O%Jn<JsG%%<}G7}zz<<<maIm7qqzJ%_7JJJq7IsamsSz%az<zKmmm***7%O3aJ_G%Iq7GsszOOyVGa}m__<<mqa77JaGaI<}%s}zIIsJz::m}_}*<%<7JJ*Omzz}asaz%OO<IVsmOGPs}%}7<J<q<I*amsq_zIq<%eImIqq*O}77GJaqz<y7as*_7Oq}z;_m}GJ*aU}7OzQqGa}azs%_mI*q_TqJ_G_Im}Jszzs*O<OaGm__z*m%mXaJ7GqIq}_s_zJq%<saOm=qGIJ%z7zJmqmI7am7aG_*J<JZ_msG7*0%*6}JzqIImams7_mqa%Va%m*qG*s}m7LqGG}I_}<smz*OzaJaam__%}J%I7mJOq_7}}}s%z<%m<*Fsmq_a*_}7JSJIqsIOmpsGzaOz}<Gam*G<*q}_7_J}qJ<%qasO_%OG%GYzm<Gm**_q7qz*q_<*aJs%_sOamGAGJOGz}<}m7Iz7qqIaa*zO_JOI%sJOJ?Gq*}vz%7zmOz<7aasa_aO%aJ<BJsqJIpas7}_zq<%7<Om7_*Oa7_0%JzGII%}OsJqmq}<za<Gm_**s%qs7%OG%Ia}ImmzOOw<G7}Iz_<*}%*7<JqqmI_8%m}zIO}<O1OmGGI*za<7*J*q}Iqaqs__IOJ<I7JmOGI*G}I7zJ}qm<<a*sq_IO_%}QJmIGs<OaG7Gz*qz<qams}_7Oq%I^_J*GJ*%}s7Ozr*GGmazmO_m*G%77GmaO_a%}JsqzsO_<x)Js}qz*a%m7GJ7qz*a}<7%zJOq<sxGmL_OO}%z!<_mqZI7a_7a_Jq%%maIzsqm*j}zL}zmG<<7}*J7_7qa%Ja%Js_I*q%O7p_cG}<7}<m7z*Om<qaaqa_%*a%I7%JOq<IGi}%*z<O}<*b<mqqs*_}msIJIq%IOs}sGzaOz<%hmm}O%*q%a7_qIqJI<ass%q<OG<}XzG<Gm*I}77qaaq_I}aJm__sOO%YLG}}Gz*<}msNz7qqIaa<m7_JO%%s77J5Gq*}}G7<zGI_<7aqsa_}O%%z;IJs}aIQ}G7}zGq<<ma*m7_OOa%_,%JzGIIs}OsyzIq}<za<m__a*7%qfaI_}a7%zOO_z<*7<Ga}mzIai}zmm7*O}<sz_sOs<aIsm<_z*Iq}7OJI7_z7q7Iq}aq%<shqms_G*G}_**}G7zJ<qm(%z<*7*#ymm<GO*O}_*O}(7GJ}q%I<ams*GmO}<anGm%GG*I}s7OzbqqI}a_s<_JO*%m4qJaGG*%}z7Iz_qO<{aGJBG7O<%Jk*JsGq*a}_sa_mqI<JaOms_GO}%zr<z_G*IJ}q7az_q%<JaImq_O*7%G77JzG%Im}*sszqqa<_a}mJ_I*s%*7MJGG}Iz}<smz*O7%*aam__%*JGJ7sJOqeIG}}szz<OOm7^7mq_aIG%%7zJIqsIOaJzmz}Oz<<7Jm*Gs*q%a*aJ%qJIIamsO_.OG<}f<m<Gm**}s7qz7q_<m7_sI_sOO%qBGmaGz*%}m7}G%qqIaa_mz_JO<%so%_<GG*}}zs%zmqI<7aq<q__O}%Jl%JsGOIU}G<}zzq}<ma*m7_qOa%_*_JJG}Is}<s;zGq}<zqmmm_I*7%IvaJqG%I*zsssz*OD%qa}m__<*m%*7zGJGaI_}%mzzIOm<OYD%v_}*G%<7GJ*q7Iq}a%_z%OG<I.mmOGE*G%}z_J<qzI*amsq_dO_<%izmIGs*O}77GJ}qzI<aOs*_7Oq%sr%m%GJ*IJGqGI7}Os*z*OP__Oa%7wqma}_7aJ%qO<_q<<GaGs}_zommqG}*q%%7%z<s.__qI<saOG7%z7sm}mO*a}O7JzmmaG}}?saGJzIqO8OJ*77J%G<Im}*qz<7NssGza*(%:r_%<7mJGG}Izmaq}%mO7<qaam_G<*J%I7szIa*IG}aszzaOm<*U7mqqI*_%}7JJ<qsIIaSmG_zOz<%cmJdG7*q%asq_OqJI<assI_&OG<}7GzqGm*<}77<Jaq_I%a*m7_sOO%Hjam}G_*<}J7*zzIJIaa_s%_<OI%m2OJJ*m*}}z7<zaq*<saqJ78mO%%GoIJmGOI,}GsJI<q<<_a*m%_q*3%_B%JJGa%}}OsfzGO*<za%mm_}<%%qWaJ_q*IJ}<ss_Is%<Gj7mzG7*m%*77JqOmI_}}sJz}Os<*VomG_a*z%<7mJIq7Iq}asG_GOJ<I2sm<GJ*G%}7zOJ}q7IzzsI_zO_<%EJG}Iq7IJ7qJImqq<zams*_7%ImG_G*a%zD}z_G}<sq*<_azs<_m}*JLGI*q}*7_zmqOzzO7<RaGs}II97maGO*J}7smza7a}}sJzIOs<OZD_G7J#az7G*I7}q_zIaaIsqJ7OI%I7mJIz7*%}z7aJ}smzqqa<_a%mJ_I}I7O7s}77GJ}qzI<amm*)Gysma_%*J%Iza**}GszzGOO%7aGsau7mq_a*_a<7JJIqs%O*zsG_;Oz<<nmm%G7*}j77_JaqJIaass*_xOq<}EO_qGm**}77<JaqGI%aqzG_sOO%^7im}G_*<emO_z7qIIaaqs%_IOI}J*_J+G<*}}_7<zmq*<7Gasa_OO%%O&IJJGOI_ZO7}zqq<<}a*ms_q*n%_77GoGIIs}OsIzGqa<za<IJ_**J%q7sJ_G%IJ}IOqzOOm<G;imz_<*ma*<_JqqsI_}asJz<Os}O_*mGGs*z%a7mJ}q7%qR_s__sOJ<}Wsm}G>*G%a7zzsqmI*a7sqzaI_}sTJJ7Gs*a}W7OJ}*z%sammn_7O}<aT*m%GJ*a}s7az&qII}aIs<qm*q%7Y}maG<*%}}7Izs%<<Ka}s}_IO<%J;*zm7z*a}}7%z%qI<saOze7<O}%}p<JqG*II}qs%}}q%<<aIJI_O*7%G7GJzqB%a}*s7zq*q<_a}mJ_a<}%O7uJGOqIz}%sm_<s}<qCGm_Gm*J%I7sJOI7IGaGsz_7Om%7W7mq*)*_}_7JzJqs<7a{sG7%Oz%zpmm}G7I7%a7_<mqJ<JassI_LOG<}!zm%Gm**}77OJaq_I%a_s}_sOO%d-*J*Gz*<}m_G<Ca%mszI_a%O5aJ_Gq*}*OI7as7<zmq*7__IOJ%q}_JsGIIG}%PJ_Wq}I*qa<Ga*m7_q}JJJqsI7GIIs}Osi_/q}<za<zm*J*7%OyaJ_G%I_}ImJ_hOT<Oa}mq_<*m%*m7z7GaIq}%s_zIOJ<Os{m*_}*G%<7zJ*qsIqazmJz%Oz<It*mOG7*G}r7zz *aI*a7sq_GO_<}cJmI%I*O}77GJ}qzI<ams*_<Oq%?&_m%GJ*I}s7Oz7qGI}azs%_mO*%7YOJ7G_*%}J7}zGqO<DaGO}%G+zJ7G}JJqO*a}_7%O*%*7q7O*s<q&sm}q7I_O*sJJ%OmG_R7mmaIms_O*S%%:}JzG<Im7Es7zqqa<_a%mJ_IIJaJ7FJqG}I_}<smz**m%<aamq_%*_%I7sJOqwII}}sqz<Om<*y7mq_a<m%%7zJIqzIOa7sGz}*z<<Hmm*Gs*q%a7_J}qGIIassO_mOI<}dzm<}G7mJJqmzsq%I%aJsI*zMqm}Gz*m%qsV}_sGz7qqIaJqOs%saamGGIOm}I7mzzq<Iq}}<saqsa__IB%J6IJsG<IJ}G7}zz2/s<z%O<_I*7%_x%JJ<as7}<szzGq}<zma*s%_7-J*77J_G%IJ}Iss%O2_FGV7J7_<*m%*_GI7}Js%z%Om<%x_7<_OI7%m*q%%7mJ*q77Cass*z%OJ<IJq*I%a7J}77<J<qmI*JGq%<sX*m<G__%GJ*O}c7GJ}qzI<}m_O_JOI<aU_m%%G7*zz7<zzqGI}azqa<aaIm}GqJsGO*%}J7I<J}*sJa*sa_zO<%m_mJJG%*a}_7%I*aGm7_q*s_**s%z2<Jm}G7sz<qGzqq%<JaIms_O*V%GJ}JG7_J<qmI*a7sqGam<mG_}*s%O75Iz}ms<}as_z*O7<qGsOa%I*J%I7sJO}_IG}}sz_}%}<*67mqGG*_%%7J_IO%IOa6sGz}Oz%}!mm*qG*q}.7_J%qJIIasJO_aOG<a;zm%Gm*a}7mq_Pq_I}aJs<_sOa%bsGJ}Gz*%}m7Iz7OqIaa_mJ_JO%%s3OJ9GG*}4z%7zmq<<7a*sa_IO%aJG=JsGII6}O7}_sq<}mSIm7_*Oa%qA%zJGIIs}}s;zGq}<Ga<mz_*Im}_!aJGG%Iz}IsszOOu%<a}m__<*J%*7mJqGa%s}%s_zIOm<OR4mG_}*}%<7JJ*qsIqa7s__am7<I,JmOGO*G%}7zJ<7<I*aJsq_7O_<%LJJ%va*O}J7GzGqzI<ams}%*Oq%7>_*sGJ*<}smO<qqG<Jazm7_m*m%7Rq<aG_IJ}J7%zsqO<08Gm__z*m%mW}J7Ga*a}_mqzJO7<saam&_}O}%z7zJmq7I7}*7az_q%%J:%msGD*.%IL}J<G<Im}}s7zaqa<Ia%mI_IIJ}a7EJaG}<J}<smz*I7G%aam}_%*<%I7}JOq9_7}}s}z<OO<*R7mq_a*<%%7<JIqJIOassGGoO}<<;<m*q?*q%a7__%OJIIaIsO_OOG%*Mzm<qq**}I7qz_q_I%aJsIG<OO%OHGJAGz*}}ms<zsqq<Oa_mz_JOI%ssOazGGIq}zs_zmO<<7^*}*__*q%J7*JsGOIo&GsmzzOG<mtzm7GsOa%_7OJJqGIsa7sYzGq}<z4_mmGz*7%*MaJqG%<_}<ss_zOB%_a}mz_<<m}J77zJGa<s}%mGzIOs%O{eJJ_}*%%<7mJ*q7}I}amsz%*7<I3smOG:az%}7aJ<qmI*amsqza*7<%MamIGz*O}L7GJ}O}I<a%s*_IOq%*B_m%Ot*I}<7OzjqG<qazm}GIO*%<>qJGG_*%}JmIz<qO<IaGmO_z*}%m7<J*GqII}_s<zJqI<s7O}z_G**%z7qJmqJI7}qJqz_O*<J-Jms_O*5%G7sJzqqIm}<s7z*qa%qDJmJGq*s}q75JGG}%zaasm_GO7%zaaJO_%*J}a7szGqU<w}}szz<Om%}h7Jz_aIJ%%7JJIqs<maZmsz}Oz<<Yzm*G7J7%assJ%qGIIassO_r_m<}7Mm<G}**}%7qJaO*I%aasI_sOO%I+Gz}Os*<}a7*z_qq%Ea_s%G_OI%}MOJ7GGI*}zm<_mq*<%aqmI__*_%J7%zJGOI%}Gs%zzq<<m7*mO_q*<%_7*JJqOIs}OIOzGO<<zYhmm_**7%q%JJ_qIIJaOsszOO^<GeamzG**m}_77z_GaI_amsJ_qOs<I9kmO_}<z%}7mzGq7<z}asaz%*_}mUsJGG2I_%}7zJ<*m<Ja7m_za*J<%NamIOs<7}8s_J}OsI<a<s*Gmmz<a7_m%G%*I}s7Oz5%WI}{_s<_GO*%7HqmaOm*%az7I_mqO<NaGs}_GO<}7F*zsGqI7}_7%_!qI%7aOmJ_GO}%z4<z}G*<V}qs}z_q%<J7IJ}_O*a%G7%JzqzIm}*mGzqO}<_/OmJG**saO*7JGq%IzaIsm_mO7<qq<m_G%*J}=7sJOqTIGa}sz_<Om%*27m%_a*_}*7Jz<qsIaaVsGz}Oz}MCmJ<G7*<%a7_J%qJ<zasmI_=*O<}7sm<GmIG}7sIJaq*I%aJsI_s*s%)7*m}qq*<a77*z7mqIaK*s%GmOI%sHOJ:aO*}a_7<_Gq*<maqma_<O%}J8IJzGO<7}G7}zaq<%ma*m__qOa%_V%JGGI<s}OmhzGOm<zR<m*_*I7%q7_J_qGIJ}Is%zO*n<G!mmz_<*m%*7sJqqaI_a%sJ_KOs%O_JmGG}*z%}7mzzq7I<7<s_zaOJ%}3sm*G0*G%a7zJ<qmIIa7sqzaO_%<bJmIGsIIqI7GJ}qzI%ams*_7Oq}*(_m%GJ*<}s7IzcqG%Oazs%_mO*%7YqmaO_Is}J7<zsq*<0a*s}qzI7%m4IJ7GO*a}q7%z*zm<sa<mo_GO}%_M<J*G*I7z<7az_q%<zaIms_O*>}q>}JzG<Im}*s7zqqam*a%mJ_I*J%O7bJGG}sO}<smz*OJ<qaam__%7q%I7sJOqJIG}}szz<CG<*87mqGJ*_%%7JJIa_IOaZsG_JOz<<-mm*qz*q}17_zkqJI<assO_7OG<}5zm%Gm**}77qzmq_I%aJs}_}OO%nWGqI}Js7z_GaOma%mm_*O<%s<%%z7_JnGG*}J_qz<C}<mT_<GJ%Ja}m_GG*G%%Im}I7}zzq<wq_q*_%z*s}mw%JJGI;Gz<qz<O%Gmm_<*q%}azz7Ga*IG%IJ}Iss_qO!<Ga}mI%m*m%I77JIGaIG}%sJzIO_azH8mG_}*q%<7JJ*q7IO}as_z%Oz<IhsmOO/z<%}7GJ<qmI*azsqG7sO<%yGmIGz*O}07G_}m*I<a_s*_JOq%mC_z%sO*I}z7OzmqGIaazmssJO*%mnqJ%G_*}}J7}zsq%}<aGs}_z**%m2IJ7q*Js}_7azJq%<saOm8_%Lz%zC}JmqqI7}O7az_q%<qsGms_O*X}zQ}J_G<Imzms7z*qa<Ga%mJ_I*s}J7wJOG}Iz}<smz*O7<Oaam__%*z%I7sJOqsaG}aszz<Om.sA7mq_a*G%%7JJIOJ<GarsGz}O%<<jmm*qm<m%a7_J%I*IIassOq_O*<} zm<GO**}s7qq*q_<7s3sI_sOO%_WGmaGz*<}J7*z7qq<Wa_s%_J*%_zwOJCGGwI}z7<zm**_7aqsa__O%%JmzJsqI<%}GsSzz*I<ma*m7_qI<%_F%JJG%Is}IsM_O*d<za%mm<G*7%qia__q_IJ}<ssz*Oxa7a}JGGO*m%%77JaGaI_}%sJzaOs<*2hm*_}*G%<mmaaq7I*}as_z%a%<I7J%JGX**%}qGJ<qmI*77m<zaOO<%SGmI}I*OassIJ}qOI<zSs*_7Oq}a7am%Gq*I}_7OG*qG%8u%s<_OO*7IXqmaG_*%az7Iz_qO<_aGmQ_z*}}ai*J_Gq%a}_7%zJO%zzaOm__GaI%z)<JmO*aG}qszz_Om<JszmsGIIJ%G7_Jz%<Im}*s7zqOI<_#mmJGm*s%I7?_GO*Izassm_bO7!%aaJqqz*J}m7s*_q0IG}}JzG_Om%sk7J?_aI}%%7Jz}qsIaa)saz}OG<<sm}aG7*}%a7<J%IGII;J%q_(O}<};}m<Gm**ams<Jaq}I%mIsI_sOO%B7qm}G}*<}J7*z7qq%7w*s%_}OIm_XOJrGG<}}*7<z%q*<Iaqmm__*a}GwIJ%GOs3}G7}zzO}%Ia*m%_q<q%_b%JJq%Ja}Os%zGIG<za<mm_**_%q7OJ_q*IJ}%ss_I*q<G6Omz%C*m%*77_qq%I_aqsJ__Os<%V{JOGs*z}q7mGmq7Iq}amqGmOJ%qts_sGZ*G%}sG_sqm<qa7z7zaO_<%xJz7GsIJ}!szJ}qzI<am}<_7*7<aU_m%Gz*I}JI<zhO7I}aqs<_mO*%7q_maq7*%}J7IzsqO%sP%s}G7O<:GA*J7Gq*aaK7%_7qI<*aOm/_GIDa7P<z7G*}z}q7az_O7<OaIm}_O}7%GvaJzO<_q}*m7zqOJ<__<mJG%kz%Os7JG*zIz}<smz*O%<qvam__a*J%%7sGOqzIGa}szOqOm}JD7_qGm*_}%7JqOqsh_a zGG7Oz%<YmGJG7%<%asq_zqJ<<asG%_pOG<}szzzGmII}7sOJa%sI%aJ%I_s*I%P7sm}Gz*<}mzaz7OIIa4_s%_JOI%sD<JPqq*}aq7<zJq*<zszsaGsO%,OWIJmGOIsq*7}_7q<<Ga*m7_q*zO}:%z7GI<z}Os7zGOz<za<JJ_**7%q7eJ_G%IJ}ImmzOOl<Gd7mz_<*m%*ssJqGaI_azsJzIOs<O77mG_}*z}m7mJ*q7IqLes_z%OJ%J1smOGK*G}a7zJ<qm<za7sqzaO_%}!JmIGsIz}b7GJ}qIqJammq_7*J<aoGm%GG*I}ss*z!qGI}azs<_mO*%77OmaG_*%}_7IzsqO<Qfqs}_zO<%_1*J7GqIz*}7%_mqI%saOm7_GOa%zu<zJG*I7}qssz_q%<Jn7a*_OI{%G7qJzG%Im}Is7zq*L<_a%mJ_}*s%O7wzOm}Iza%sm*IO7<qaam_qJ*J}%7sz_q^IG}}sz_}Om%<=7mO_a*G%%7Jz*qs<IaXsGz}Oz<<smm}G7II%a7*J%O_II7ssa_+**<}7qm<<}**}G}^JaOII%VqsI_mOO%7yGm}q_*<}m7*_mqqIaa_s%I7OI}zAOzzGG*a}zm<zIq*%Jaqmm__Xq%JsIJ<GO<m}Gm7zz}G<mF?aO_qIJ%_7}JJG<Is}*sozGOa<za<mmG<*7%qKaJ_<*IJa}ss_}O=<qa}zzGa*m}%77JOGa}}}%JJ_JOs%<K&J*_}ci%<7O7sq7<%}amJz%Oz<IlGmOGWIq%}7zJ<OzI*a7sqza*G<%UJmIq/*O}U7GJ}O_I<ams*G Oq<ax_m%qz*I}s7O_7qGI}azs<GJO*%7LqJaG_*%}J7IO7qO%maGJm_zO%%m7<z<Gq<s}_OzzJqI<sKImq_GIs%z7_JmG*I7a*mOz_*s<Jzqms_O*raG7*JzO7Imaas7qOqa<_77mJqs*s}<7oJGG}<GhzsmGsO7J_aam__%*Jzs7s_ZqN<}}}m%z<Omz<;7J%_aI%%%7JJIqs%za/mIz}Oz<<Xzm*G7*%%as*J%qzIIaJsOq8**<}7*m<qG**mm7qJaOOI%YIsI_sOO%zTG_}qa*<a*7**7qqaaa_z%GOOI}OKO_}GG<q}zJ<_<q*%qaqG*__IG%JmIJ<GO<G}GsOzz}*<ms*J=_qI_%_smJJ%<Is}OmszG*m<z7mmm_<*7%qsGJ_OmIJ}IsszIO,}Gvzmzqm*m}a77zaGa<qaasJGJOss}#rmG_}*z}77m_7q7%7}asqz%*J<aZsJaG0u<%}s<J<*m7Ja7maza*I<%7ImIqJ*I}Hm!J}IsI<ams*_7*m<a7%m%q%*I}J7O_uO}I})Is<OyO*}qSqzaG%*%aI7I_qqOszaGJ}_aO<}*6*zqGq<s}_sa_}qI%IaOzq_GO}%zS<<*G*<q}qmqz_qa<J7IJ7_OIq%GszJz*qIma<m:zq*O<__zmJ_I*s%O7GJGOOIz}<smz}O7aq7sm_qq*Jz_7s*<qd}Ga}szGGOm7qC7zs_a%_aG7J__qs7saQq%z}OG_aomz_G7*}%a7_J%OJ<}asJJ_9I*<}s7m<Gm<G}7m1Ja*7I%azsIqsIJ%b7am}q<*<s<7*_mOqIa7ds%GqOI%s.OJ2qz*}pM7<zmq*<GaqzaqyO%}aEII%GO7}}GJ}z<q<%}a*Ga_qah%_m%z%GI<%}Oq<zG-m<zs<J*_*I<%q7%J_*<IJ7Is}zO*I<GX}mz*n*m}T%OJqOII_aJsJz<Os<*9>mGGa*z%<7mzIq7Iq}am_OmOJ}_dsz<Gd<m%}7z_sqm%sa7JmzaOG<%sJzzGs<7}xs}J}<}I<dzJG_7Is<aJmm%GJ*I}ssIz *sI}azs<_OO*b7sJmaO7*%za7I_}qO%177s}qRO<s7W*JqGq%aaa7%_aqIs}aOq7_G<}}J6<z}G*Ia}qmJz_I%%OaIJ%_OI{%GJsJzqsGI}*m%zq*7<_a}mJ_<*s%Os7JGG}Izamsmz*O7%q7sm_qq*Ja}7s_zquIGBGszGJOm}z!7mO_a<_}a7J_mqs%/a3zmz}*G%%fmzJG7}7%a7_J%qJ%GasJJ_?OG<}.Om<*m<;}7mmJaH7I%J<sIOs*}%ossm}<m*<a%7*q7JzIa77s%I%OI%GDOJ_ma*}?77<zJq*<saqmR__O%}zcIJsGOII}G7}zzO<%_a*J<_q<s%_sOJJGI<a}OmqzG*O<za%mmq*I_%qsGJ_OJIJ7Gss_IO_<G7qmz<s*m%*77JqOsI_hqsJzIOs<%{:_GGa*zaG7m<zq77a}az__*OJ}_LsqGGuSO%}JzYOqm%za7q7za2G<% _%}Gs<z}f7aJ}qzI<4mm%_7Im<asOm%O{*I}s7}zwOaI}7As<_JO*a77Imaq}*%aI7IOIqO%s7Js}GaO<av=*J7Gq*a}I7%_aqI<saOmG_G<}}sY<z}G*s<}qq_z_I%%saIJ%_O}}%GJsJz*<<<}*m<zqaI<_m7mJOIIJ%OsIJGq<Iz,}smq*O*<q7*m_G%*Jca7sGOm%IGPOsz_IOms<Y7m*7s*_aO7JzVqsIOaYmG}*Oz}G(mz%G7<J%a7_zaqJ%masJJ_fOq<}7GJIGm<s}7q}Jaq_I%sJmO_sI7%CqJm}*O*<azmJz7*KIa_<s%_JOIwsdIJ8qa*}s_7<_%q*%mMOsaG}O%m7SIJsGO%-_m7}_%q<%Ia*zI_qI7JqS%z}GIIO}Os6zGq}%7a<JI_*II%q77J_O%Iz}Im*zO*q<Gm_mzq<*q%*sOJqOGI_JqsJz%mz<O7*mGGG*z%<7mJ*I_Iq9Gs_GGOJ<<UszOGz*Ga_7z_mqm}_a7m*_OO_}G#JG}Gs*O}-7G_Iqz%Gams*_7O<<am_J%GJ<_}sOJzl*qI}szm7_mIz%7z_maOB*%7JsIzs*J<Xz!s}q*O<%z*%J7OJ*aaz7%zJqI%sT<m;qsO}aqW<zaG*I7aa7a_}q%%aaImm_O<D}Ij}z%G<<*}*_*zq*7}ma%J}_I}*%O7DJGG}Iq}<m}z*O7<qB_m_O%*%%Is%JOaIIG7Oszq<*J<*7<mqI%*_7s7JGIOIIOMIsG<*OzsmXm_*qO*qa*7_zIqJ<JaszO_GOG}OvzJ<Gm%m}7Jq.<q_%qaJm*_saI%-AO}7Gz<q}msGz7qqIab_qm_JI_%ss<JwOm*}}zsGzm*s<77msa_GO%}_7JJsO7IuJ77}zzq<<mLGm7q3Oa%Gc%J_GI}saOsB_aq}msa<J%_*Imaz{az}G%D}}IsszOOE%1a}J%_<*J%*7mJq*aGm}%m<zIa7<OmzmGqU}P%<sIJ*%}Iq}as_G%Oq<I7*mOqq*Gpq7zz}q*I*xIsq__O_<%FJmIq4*Oaq7G_qqzI}amJ*_JOq}G6_zzGJI7}smO_JqG%_azJJ_maz%7(*}sG_<G}J7IzsqO<(aGaJ_zIJ%msJJ7GO*a>_s_zJ*m<s70m)GqO}}G77JmOJI7JJ7az_q%<J{Gmsq7*4a7p}J_G<%m}}s7GPqa%*a%_I_I*s}O7Z_7G}I_}<smz*O7%GaaJ}_%I}%I7mJO*cmm}}m%z<*G<*zJmqq7Im%%s}JI*_IOa5sGz}OI<<7}m*GG*q%a7_J%OaIIi<sOG*OG}O.zm<G<**aO7q_Oq_I}aJJIGOOO}q?GzsGz7_}mJ*_Jqq%Ga__O_JIz%ssOJaGG<_}zmRzmqI<7a}aG__IG%J7_JsG*IN}q7}zzO%<ma*m7G<Oa%_v%JJ<%IsV7sdG7q}<_a<zmG<*7aidaz<G%}7}IJs_zO:%aa}J%_<I_%*smJ%Ga%-}%sGzIOs<O{PJ7_}I%%<s%J*qmIqQamIz%*%<I7*mO*s*Ga6sIJ<O}I*_JsqzaO_%m<<mIq}*O}s7GJaqzI%ams*GsOq<a!_z7GJ*I}s7OdGqG%GazJq_mOI%7sqJmG_<_}JmmzsO*<xeOJs_zIG%mJOJ7Gq*a}_mGzJ*J<s7JmF_OO}az77JmOmI7k77aG7q%%_8%msqJ*3}mB}JzG<ImaJs7GJqa<_a%mG_I%sas7b_mG}km}<Jmz*<7%qaazs_%I%%Is<JOIfIO}}J7z<T}<*z+mq_a_O%%s%JIO}IOa7sGG(*a<<7<m*IG*q%a7__%OaII3IsOGOOG%*UzJ<qJ**az7qz7q_%_aJm%_<OO}OUGqiGz*<}mm*z_qq%qa_J__J7G%s5OOIGG<O}zm!zmq*<7aqm}__I_%Js_JsG*I4aOmszz*z<mJam7_qOaa_P}JJOJIs:ss{%mq}<zMqmmqz*7}<-aJ_G%IJYmssGsO=}sa}m__<Iz%a77_7Ga2I}%sJzIIsJz8fzE_}I}%<s:J*q7sz}amaz%O_<ITmmOqs*}%}s}J<%qI*a7sqGaO}<%7%mIqI*OzJ7GJ}OII<t}s*_sOq<ak_Jaq_*Ia}7Oz<qGI}azs<_qO*}<iqzIG_*}}J7I__qO%OaGJO_zO%%m7<}TGq<q}_zazJqI<s7OmJ_GIG%zszJmOqI7a*m_z_*q<JGsms_O*,%G7OJzOzIm(zs7zOqa%q7JmJqJ*ss}7BJGG}%z!ssmGmO7}7aazJ_%I_}*7s_Jqfm7}}szz<Om%}67z7_a<7%%7zJIOJ7aacJ)z}}*<<Qmm*O7I7%asaJ%O%IIm_sOqY*}<}s#m<qO**c}7qJa*sI%v%sIG%OO%7jGzxqa*<a<7*OmqqIaa_J%_IOI}IfOzOGG%J}zm<zzq*%<aqJz__<*%JBIz_GO<O}GmOzzq%<ma*ms_qOa%_&}JJGIIs}O");local n=0;f.oBIDzgnf(function()f.TAaUFMBn()n=n+1 end)local function e(a,e)if e then return n end;n=a+n;end local a,n,h=m(0,m,e,t,f.MjIHffpx);local function _()local n,a=f.MjIHffpx(t,e(1,3),e(5,6)+2);e(2);return(a*256)+n;end;local c=true;local c=0 local function k()local s=n();local e=n();local d=1;local s=(a(e,1,20)*(2^32))+s;local n=a(e,21,31);local e=((-1)^a(e,32));if(n==0)then if(s==c)then return e*0;else n=1;d=0;end;elseif(n==2047)then return(s==0)and(e*(1/0))or(e*(0/0));end;return f.rFnhMZYf(e,n-1023)*(d+(s/(2^52)));end;local u=n;local function b(n)local a;if(not n)then n=u();if(n==0)then return'';end;end;a=f.FTOzLXPE(t,e(1,3),e(5,6)+n-1);e(n)local e=""for n=(1+c),#a do e=e..f.FTOzLXPE(a,n,n)end return e;end;local u=#f.JjiXbnMg(r('\49.\48'))~=1 local e=n;local function ae(...)return{...},f.w_bMUzGJ('#',...)end local function ne()local e={};local c={};local t={};local r={c,t,nil,e};local e=n()local m={}for s=1,e do local a=h();local e;if(a==0)then e=(h()~=#{});elseif(a==2)then local n=k();if u and f.wGMalhqX(f.JjiXbnMg(n),'.(\48+)$')then n=f.vDLrORJk(n);end e=n;elseif(a==3)then e=b();end;m[s]=e;end;for e=1,n()do t[e-(#{1})]=ne();end;for f=1,n()do local e=h();if(a(e,1,1)==0)then local t=a(e,2,3);local z=a(e,4,6);local e={_(),_(),nil,nil};if(t==0)then e[d]=_();e[l]=_();elseif(t==#{1})then e[d]=n();elseif(t==o[2])then e[d]=n()-(2^16)elseif(t==o[3])then e[d]=n()-(2^16)e[l]=_();end;if(a(z,1,1)==1)then e[s]=m[e[s]]end if(a(z,2,2)==1)then e[d]=m[e[d]]end if(a(z,3,3)==1)then e[l]=m[e[l]]end c[f]=e;end end;r[3]=h();return r;end;local function ee(a,e,n)local s=e;local s=n;return r(f.wGMalhqX(f.wGMalhqX(({f.oBIDzgnf(a)})[2],e),n))end local function b(y,h,t)local function se(...)local _,k,u,ne,o,n,r,ee,j,p,c,a;local e=0;while-1<e do if e>=3 then if 5>e then if e==4 then p=f.w_bMUzGJ('#',...)-1;c={};else ee={};j={...};end else if 4<=e then for n=40,96 do if 6~=e then a=m(7);break;end;e=-2;break;end;else e=-2;end end else if 0<e then if e~=2 then u=m(6,68,3,86,y);o=ae ne=0;else n=-41;r=-1;end else _=m(6,44,1,14,y);k=m(6,35,2,30,y);end end e=e+1;end;for e=0,p do if(e>=u)then ee[e-u]=j[e+1];else a[e]=j[e+1];end;end;local e=p-u+1 local e;local m;local function u(...)while true do end end while true do if n<-40 then n=n+42 end e=_[n];m=e[g];if 103<m then if 155<m then if 182>m then if m<169 then if m<162 then if m>=159 then if m>159 then if 156~=m then repeat if m>160 then local e=e[s];do return z(a,e,r)end;break;end;local m,h;for f=0,6 do if f>2 then if f<=4 then if f~=3 then m=e[s];h=a[e[d]];a[m+1]=h;a[m]=h[e[l]];n=n+1;e=_[n];else a[e[s]]=t[e[d]];n=n+1;e=_[n];end else if 3<f then for l=35,95 do if f>5 then m=e[s]a[m]=a[m](z(a,m+1,e[d]))break;end;a(e[s],e[d]);n=n+1;e=_[n];break;end;else m=e[s]a[m]=a[m](z(a,m+1,e[d]))end end else if f<=0 then m=e[s];h=a[e[d]];a[m+1]=h;a[m]=h[e[l]];n=n+1;e=_[n];else if-2~=f then for l=19,71 do if 1<f then m=e[s]a[m]=a[m](z(a,m+1,e[d]))n=n+1;e=_[n];break;end;a(e[s],e[d]);n=n+1;e=_[n];break;end;else a(e[s],e[d]);n=n+1;e=_[n];end end end end until true;else local m,h;for f=0,6 do if f>2 then if f<=4 then if f~=3 then m=e[s];h=a[e[d]];a[m+1]=h;a[m]=h[e[l]];n=n+1;e=_[n];else a[e[s]]=t[e[d]];n=n+1;e=_[n];end else if 3<f then for l=35,95 do if f>5 then m=e[s]a[m]=a[m](z(a,m+1,e[d]))break;end;a(e[s],e[d]);n=n+1;e=_[n];break;end;else m=e[s]a[m]=a[m](z(a,m+1,e[d]))end end else if f<=0 then m=e[s];h=a[e[d]];a[m+1]=h;a[m]=h[e[l]];n=n+1;e=_[n];else if-2~=f then for l=19,71 do if 1<f then m=e[s]a[m]=a[m](z(a,m+1,e[d]))n=n+1;e=_[n];break;end;a(e[s],e[d]);n=n+1;e=_[n];break;end;else a(e[s],e[d]);n=n+1;e=_[n];end end end end end else local f,r,h,b,c,o,u,m;for m=0,6 do if m<3 then if m>0 then if-2~=m then repeat if m~=1 then a(e[s],e[d]);n=n+1;e=_[n];break;end;f=e[s];r=a[e[d]];a[f+1]=r;a[f]=r[e[l]];n=n+1;e=_[n];until true;else a(e[s],e[d]);n=n+1;e=_[n];end else a[e[s]]=t[e[d]];n=n+1;e=_[n];end else if m<5 then if m==4 then a[e[s]]=t[e[d]];n=n+1;e=_[n];else f=e[s]a[f](z(a,f+1,e[d]))n=n+1;e=_[n];end else if m>1 then repeat if m~=6 then f=e[s];r=a[e[d]];a[f+1]=r;a[f]=r[e[l]];n=n+1;e=_[n];break;end;m=0;while m>-1 do if m<3 then if m>0 then if 1~=m then c=d;else b=s;end else h=e;end else if m<=4 then if-1<m then repeat if 3~=m then u=h[b];break;end;o=h[c];until true;else o=h[c];end else if 5<m then m=-2;else a(u,o);end end end m=m+1 end until true;else m=0;while m>-1 do if m<3 then if m>0 then if 1~=m then c=d;else b=s;end else h=e;end else if m<=4 then if-1<m then repeat if 3~=m then u=h[b];break;end;o=h[c];until true;else o=h[c];end else if 5<m then m=-2;else a(u,o);end end end m=m+1 end end end end end end else if 157>m then if not a[e[s]]then n=n+1;else n=e[d];end;else if 153<m then for f=45,68 do if m~=158 then local _,m,l,t,z;local n=0;while n>-1 do if 3>n then if 0<n then if-3<=n then repeat if 1<n then l=d;break;end;m=s;until true;else m=s;end else _=e;end else if 5<=n then if 6~=n then a(z,t);else n=-2;end else if-1<=n then repeat if 4>n then t=_[l];break;end;z=_[m];until true;else t=_[l];end end end n=n+1 end break;end;local m,u,c,k,f,b;for c=0,6 do if 2>=c then if 0<c then if-2~=c then for m=20,69 do if 1~=c then a[e[s]]=t[e[d]];n=n+1;e=_[n];break;end;a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];break;end;else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end else a[e[s]]=t[e[d]];n=n+1;e=_[n];end else if c>=5 then if 5~=c then m=e[s]b={a[m](z(a,m+1,r))};f=0;for e=m,e[l]do f=f+1;a[e]=b[f];end else m=e[s]b,k=o(a[m](a[m+1]))r=k+m-1 f=0;for e=m,r do f=f+1;a[e]=b[f];end;n=n+1;e=_[n];end else if c~=1 then repeat if 4~=c then a[e[s]]=h[e[d]];n=n+1;e=_[n];break;end;m=e[s];u=a[e[d]];a[m+1]=u;a[m]=u[e[l]];n=n+1;e=_[n];until true;else m=e[s];u=a[e[d]];a[m+1]=u;a[m]=u[e[l]];n=n+1;e=_[n];end end end end break;end;else local _,t,m,l,z;local n=0;while n>-1 do if 3>n then if 0<n then if-3<=n then repeat if 1<n then m=d;break;end;t=s;until true;else t=s;end else _=e;end else if 5<=n then if 6~=n then a(z,l);else n=-2;end else if-1<=n then repeat if 4>n then l=_[m];break;end;z=_[t];until true;else l=_[m];end end end n=n+1 end end end end else if m>=165 then if m<167 then if 165~=m then local s=e[s];local n=a[e[d]];a[s+1]=n;a[s]=n[e[l]];else if(a[e[s]]~=e[l])then n=n+1;else n=e[d];end;end else if 168~=m then a[e[s]]=a[e[d]]/e[l];else local e=e[s]a[e]=a[e](a[e+1])end end else if 162>=m then local z;for m=0,6 do if m>2 then if m>4 then if m>4 then for t=18,84 do if m~=5 then a(e[s],e[d]);break;end;a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];break;end;else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end else if m>3 then z=e[s]a[z]=a[z]()n=n+1;e=_[n];else a[e[s]]=t[e[d]];n=n+1;e=_[n];end end else if 0>=m then a[e[s]]=t[e[d]];n=n+1;e=_[n];else if m~=0 then repeat if 2>m then a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];break;end;a(e[s],e[d]);n=n+1;e=_[n];until true;else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end end end end else if 164==m then local m;a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]]-a[e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]]*a[e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]]+a[e[l]];n=n+1;e=_[n];m=e[s];do return a[m](z(a,m+1,e[d]))end;n=n+1;e=_[n];m=e[s];do return z(a,m,r)end;n=n+1;e=_[n];do return end;else a[e[s]]=b(k[e[d]],nil,t);end end end end else if m<=174 then if 172<=m then if 172>=m then local n=e[s]local d={a[n](a[n+1])};local s=0;for e=n,e[l]do s=s+1;a[e]=d[s];end else if 173==m then local _=e[s];local d={};for e=1,#c do local e=c[e];for n=0,#e do local n=e[n];local s=n[1];local e=n[2];if s==a and e>=_ then d[e]=s[e];n[1]=d;end;end;end;else for m=0,6 do if 2<m then if m<=4 then if m>2 then repeat if 4~=m then a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];break;end;a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];until true;else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end else if m<6 then a[e[s]]=a[e[d]]-a[e[l]];n=n+1;e=_[n];else a[e[s]]=t[e[d]];end end else if 0>=m then a[e[s]]=t[e[d]];n=n+1;e=_[n];else if m>-2 then repeat if m~=2 then a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];break;end;a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];until true;else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end end end end end end else if 169>=m then a[e[s]]=(not a[e[d]]);else if 167<=m then repeat if 171>m then local m;for z=0,6 do if z<=2 then if 0<z then if z>=-2 then repeat if z>1 then a[e[s]]=t[e[d]];n=n+1;e=_[n];break;end;m=e[s]a[m]=a[m](a[m+1])n=n+1;e=_[n];until true;else a[e[s]]=t[e[d]];n=n+1;e=_[n];end else a[e[s]]=a[e[d]];n=n+1;e=_[n];end else if 5>z then if 3<z then a[e[s]]=a[e[d]];n=n+1;e=_[n];else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end else if 6>z then m=e[s]a[m]=a[m](a[m+1])n=n+1;e=_[n];else a[e[s]]=t[e[d]];end end end end break;end;local m,z;for f=0,4 do if f<=1 then if f>-3 then for l=38,84 do if 0<f then m=e[s]a[m]=a[m]()n=n+1;e=_[n];break;end;a[e[s]]=t[e[d]];n=n+1;e=_[n];break;end;else a[e[s]]=t[e[d]];n=n+1;e=_[n];end else if f>=3 then if 2<f then repeat if 3~=f then m=e[s];z=a[e[d]];a[m+1]=z;a[m]=z[e[l]];break;end;a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];until true;else m=e[s];z=a[e[d]];a[m+1]=z;a[m]=z[e[l]];end else a[e[s]]=h[e[d]];n=n+1;e=_[n];end end end until true;else local m;for z=0,6 do if z<=2 then if 0<z then if z>=-2 then repeat if z>1 then a[e[s]]=t[e[d]];n=n+1;e=_[n];break;end;m=e[s]a[m]=a[m](a[m+1])n=n+1;e=_[n];until true;else a[e[s]]=t[e[d]];n=n+1;e=_[n];end else a[e[s]]=a[e[d]];n=n+1;e=_[n];end else if 5>z then if 3<z then a[e[s]]=a[e[d]];n=n+1;e=_[n];else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end else if 6>z then m=e[s]a[m]=a[m](a[m+1])n=n+1;e=_[n];else a[e[s]]=t[e[d]];end end end end end end end else if 178>m then if m<176 then for m=0,6 do if m<3 then if m<=0 then a(e[s],e[d]);n=n+1;e=_[n];else if 2>m then a(e[s],e[d]);n=n+1;e=_[n];else a[e[s]]={};n=n+1;e=_[n];end end else if 4>=m then if m~=-1 then for z=47,71 do if m~=4 then a[e[s]]=t[e[d]];n=n+1;e=_[n];break;end;a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];break;end;else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end else if m~=6 then a(e[s],e[d]);n=n+1;e=_[n];else a(e[s],e[d]);end end end end else if m~=172 then for n=13,90 do if m>176 then t[e[d]]=a[e[s]];break;end;a[e[s]]=a[e[d]];break;end;else a[e[s]]=a[e[d]];end end else if m>179 then if 181>m then local l;h[e[d]]=a[e[s]];n=n+1;e=_[n];a[e[s]]=t[e[d]];n=n+1;e=_[n];a(e[s],e[d]);n=n+1;e=_[n];a[e[s]]=a[e[d]];n=n+1;e=_[n];l=e[s]a[l](z(a,l+1,e[d]))n=n+1;e=_[n];do return end;else a[e[s]]=a[e[d]][e[l]];end else if 179==m then a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]]-a[e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]]*a[e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]]+a[e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];else a[e[s]]();end end end end end else if 195>m then if m<=187 then if m>184 then if m<=185 then a[e[s]]={};else if 187==m then local z;for m=0,6 do if 2<m then if m<=4 then if m>0 then repeat if 3<m then a[e[s]]=t[e[d]];n=n+1;e=_[n];break;end;z=e[s]a[z]=a[z](a[z+1])n=n+1;e=_[n];until true;else a[e[s]]=t[e[d]];n=n+1;e=_[n];end else if m>=3 then repeat if m~=6 then a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];break;end;a[e[s]]=a[e[d]];until true;else a[e[s]]=a[e[d]];end end else if 0>=m then a[e[s]]=t[e[d]];n=n+1;e=_[n];else if-2<m then for t=33,95 do if m~=1 then a[e[s]]=a[e[d]];n=n+1;e=_[n];break;end;a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];break;end;else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end end end end else local n=e[s]a[n]=a[n](z(a,n+1,e[d]))end end else if m<183 then a[e[s]]=a[e[d]][e[l]];else if m~=182 then for t=24,64 do if m~=183 then a[e[s]]=#a[e[d]];break;end;local m,f;for t=0,6 do if 3<=t then if t>=5 then if 4~=t then repeat if t>5 then a[e[s]]={};break;end;a(e[s],e[d]);n=n+1;e=_[n];until true;else a(e[s],e[d]);n=n+1;e=_[n];end else if 3~=t then m=e[s];f=a[e[d]];a[m+1]=f;a[m]=f[e[l]];n=n+1;e=_[n];else m=e[s]a[m]=a[m](z(a,m+1,e[d]))n=n+1;e=_[n];end end else if 0>=t then m=e[s]a[m](z(a,m+1,e[d]))n=n+1;e=_[n];else if 2==t then a(e[s],e[d]);n=n+1;e=_[n];else m=e[s];f=a[e[d]];a[m+1]=f;a[m]=f[e[l]];n=n+1;e=_[n];end end end end break;end;else local m,f;for t=0,6 do if 3<=t then if t>=5 then if 4~=t then repeat if t>5 then a[e[s]]={};break;end;a(e[s],e[d]);n=n+1;e=_[n];until true;else a(e[s],e[d]);n=n+1;e=_[n];end else if 3~=t then m=e[s];f=a[e[d]];a[m+1]=f;a[m]=f[e[l]];n=n+1;e=_[n];else m=e[s]a[m]=a[m](z(a,m+1,e[d]))n=n+1;e=_[n];end end else if 0>=t then m=e[s]a[m](z(a,m+1,e[d]))n=n+1;e=_[n];else if 2==t then a(e[s],e[d]);n=n+1;e=_[n];else m=e[s];f=a[e[d]];a[m+1]=f;a[m]=f[e[l]];n=n+1;e=_[n];end end end end end end end else if 191>m then if m<189 then local m,t;a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];m=e[s];t=a[e[d]];a[m+1]=t;a[m]=t[e[l]];n=n+1;e=_[n];a(e[s],e[d]);n=n+1;e=_[n];m=e[s]a[m]=a[m](z(a,m+1,e[d]))else if 190>m then a[e[s]][e[d]]=e[l];else a[e[s]]=a[e[d]]+e[l];end end else if m>=193 then if m>193 then local e=e[s];local n=a[e];for e=e+1,r do f.Pnezuhbk(n,a[e])end;else if(a[e[s]]==a[e[l]])then n=n+1;else n=e[d];end;end else if 188<=m then repeat if 192~=m then a[e[s]]=a[e[d]]+a[e[l]];break;end;local z,c,o,h,u,r,m,t,f;a(e[s],e[d]);n=n+1;e=_[n];m=0;while m>-1 do if 3>=m then if m<=1 then if m~=1 then z=e;else c=s;end else if-2<m then for e=48,81 do if m>2 then h=a;break;end;o=d;break;end;else h=a;end end else if 5>=m then if 4~=m then r=z[c];else u=h[z[o]];end else if 5<=m then repeat if 7~=m then a[r]=u;break;end;m=-2;until true;else m=-2;end end end m=m+1 end n=n+1;e=_[n];a[e[s]]();n=n+1;e=_[n];a[e[s]]=(e[d]~=0);n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];t=e[s];f=a[e[d]];a[t+1]=f;a[t]=f[e[l]];until true;else local f,c,u,z,o,r,m,t,h;a(e[s],e[d]);n=n+1;e=_[n];m=0;while m>-1 do if 3>=m then if m<=1 then if m~=1 then f=e;else c=s;end else if-2<m then for e=48,81 do if m>2 then z=a;break;end;u=d;break;end;else z=a;end end else if 5>=m then if 4~=m then r=f[c];else o=z[f[u]];end else if 5<=m then repeat if 7~=m then a[r]=o;break;end;m=-2;until true;else m=-2;end end end m=m+1 end n=n+1;e=_[n];a[e[s]]();n=n+1;e=_[n];a[e[s]]=(e[d]~=0);n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];t=e[s];h=a[e[d]];a[t+1]=h;a[t]=h[e[l]];end end end end else if 200<m then if 204<=m then if 206<=m then if 204<m then repeat if 206<m then if(e[s]<a[e[l]])then n=n+1;else n=e[d];end;break;end;if(a[e[s]]<a[e[l]])then n=e[d];else n=n+1;end;until true;else if(a[e[s]]<a[e[l]])then n=e[d];else n=n+1;end;end else if 202<m then for z=20,64 do if m~=205 then for m=0,6 do if 2>=m then if m>=1 then if 2==m then a[e[s]]=a[e[d]]*e[l];n=n+1;e=_[n];else a[e[s]]=a[e[d]]+a[e[l]];n=n+1;e=_[n];end else a[e[s]]=a[e[d]]*a[e[l]];n=n+1;e=_[n];end else if 5<=m then if m>1 then repeat if 6~=m then a[e[s]]=t[e[d]];n=n+1;e=_[n];break;end;a[e[s]]=a[e[d]][e[l]];until true;else a[e[s]]=t[e[d]];n=n+1;e=_[n];end else if m>=-1 then repeat if 3<m then a[e[s]]=a[e[d]]%e[l];n=n+1;e=_[n];break;end;a[e[s]]=a[e[d]]+a[e[l]];n=n+1;e=_[n];until true;else a[e[s]]=a[e[d]]+a[e[l]];n=n+1;e=_[n];end end end end break;end;if(a[e[s]]==a[e[l]])then n=n+1;else n=e[d];end;break;end;else for m=0,6 do if 2>=m then if m>=1 then if 2==m then a[e[s]]=a[e[d]]*e[l];n=n+1;e=_[n];else a[e[s]]=a[e[d]]+a[e[l]];n=n+1;e=_[n];end else a[e[s]]=a[e[d]]*a[e[l]];n=n+1;e=_[n];end else if 5<=m then if m>1 then repeat if 6~=m then a[e[s]]=t[e[d]];n=n+1;e=_[n];break;end;a[e[s]]=a[e[d]][e[l]];until true;else a[e[s]]=t[e[d]];n=n+1;e=_[n];end else if m>=-1 then repeat if 3<m then a[e[s]]=a[e[d]]%e[l];n=n+1;e=_[n];break;end;a[e[s]]=a[e[d]]+a[e[l]];n=n+1;e=_[n];until true;else a[e[s]]=a[e[d]]+a[e[l]];n=n+1;e=_[n];end end end end end end else if 201<m then if 200<m then for f=36,53 do if 203>m then local m,f;for h=0,6 do if 2<h then if h<=4 then if 1~=h then for l=15,67 do if 4~=h then a(e[s],e[d]);n=n+1;e=_[n];break;end;m=e[s]a[m]=a[m](z(a,m+1,e[d]))n=n+1;e=_[n];break;end;else m=e[s]a[m]=a[m](z(a,m+1,e[d]))n=n+1;e=_[n];end else if 3~=h then repeat if 6>h then a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];break;end;m=e[s];f=a[e[d]];a[m+1]=f;a[m]=f[e[l]];until true;else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end end else if 0>=h then a[e[s]][e[d]]=a[e[l]];n=n+1;e=_[n];else if h~=-2 then for z=16,70 do if 1~=h then m=e[s];f=a[e[d]];a[m+1]=f;a[m]=f[e[l]];n=n+1;e=_[n];break;end;a[e[s]]=t[e[d]];n=n+1;e=_[n];break;end;else m=e[s];f=a[e[d]];a[m+1]=f;a[m]=f[e[l]];n=n+1;e=_[n];end end end end break;end;a[e[s]]=a[e[d]]/e[l];break;end;else local m,h;for f=0,6 do if 2<f then if f<=4 then if 1~=f then for l=15,67 do if 4~=f then a(e[s],e[d]);n=n+1;e=_[n];break;end;m=e[s]a[m]=a[m](z(a,m+1,e[d]))n=n+1;e=_[n];break;end;else m=e[s]a[m]=a[m](z(a,m+1,e[d]))n=n+1;e=_[n];end else if 3~=f then repeat if 6>f then a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];break;end;m=e[s];h=a[e[d]];a[m+1]=h;a[m]=h[e[l]];until true;else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end end else if 0>=f then a[e[s]][e[d]]=a[e[l]];n=n+1;e=_[n];else if f~=-2 then for z=16,70 do if 1~=f then m=e[s];h=a[e[d]];a[m+1]=h;a[m]=h[e[l]];n=n+1;e=_[n];break;end;a[e[s]]=t[e[d]];n=n+1;e=_[n];break;end;else m=e[s];h=a[e[d]];a[m+1]=h;a[m]=h[e[l]];n=n+1;e=_[n];end end end end end else for e=e[s],e[d]do a[e]=nil;end;end end else if m<198 then if m>195 then if m>192 then for z=44,79 do if m~=196 then local z;for m=0,6 do if m>=3 then if 4>=m then if 1<=m then for z=20,80 do if 4>m then a[e[s]]=a[e[d]]+e[l];n=n+1;e=_[n];break;end;a[e[s]]=t[e[d]];n=n+1;e=_[n];break;end;else a[e[s]]=a[e[d]]+e[l];n=n+1;e=_[n];end else if 5==m then a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];else a[e[s]]=a[e[d]]+e[l];end end else if 1>m then a[e[s]]=#a[e[d]];n=n+1;e=_[n];else if m~=2 then a[e[s]]=a[e[d]]*a[e[l]];n=n+1;e=_[n];else z=e[s]a[z]=a[z](a[z+1])n=n+1;e=_[n];end end end end break;end;do return a[e[s]]end break;end;else local z;for m=0,6 do if m>=3 then if 4>=m then if 1<=m then for z=20,80 do if 4>m then a[e[s]]=a[e[d]]+e[l];n=n+1;e=_[n];break;end;a[e[s]]=t[e[d]];n=n+1;e=_[n];break;end;else a[e[s]]=a[e[d]]+e[l];n=n+1;e=_[n];end else if 5==m then a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];else a[e[s]]=a[e[d]]+e[l];end end else if 1>m then a[e[s]]=#a[e[d]];n=n+1;e=_[n];else if m~=2 then a[e[s]]=a[e[d]]*a[e[l]];n=n+1;e=_[n];else z=e[s]a[z]=a[z](a[z+1])n=n+1;e=_[n];end end end end end else local m,h;for f=0,5 do if 2>=f then if 0<f then if f~=1 then a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];else a[e[s]]=t[e[d]];n=n+1;e=_[n];end else m=e[s]a[m](z(a,m+1,e[d]))n=n+1;e=_[n];end else if 3>=f then a[e[s]][e[d]]=a[e[l]];n=n+1;e=_[n];else if 2<=f then for z=34,86 do if f>4 then m=e[s];h=a[e[d]];a[m+1]=h;a[m]=h[e[l]];break;end;a[e[s]]=t[e[d]];n=n+1;e=_[n];break;end;else m=e[s];h=a[e[d]];a[m+1]=h;a[m]=h[e[l]];end end end end end else if m>198 then if m==199 then local m,t;a[e[s]][e[d]]=a[e[l]];n=n+1;e=_[n];m=e[s]a[m](z(a,m+1,e[d]))n=n+1;e=_[n];m=e[s];t=a[e[d]];a[m+1]=t;a[m]=t[e[l]];n=n+1;e=_[n];a(e[s],e[d]);n=n+1;e=_[n];a[e[s]]={};n=n+1;e=_[n];a[e[s]][e[d]]=e[l];n=n+1;e=_[n];a[e[s]][e[d]]=e[l];else local r=k[e[d]];local z;local m={};z=f.acqwMYAi({},{__index=function(n,e)local e=m[e];return e[1][e[2]];end,__newindex=function(a,e,n)local e=m[e]e[1][e[2]]=n;end;});for s=1,e[l]do n=n+1;local e=_[n];if e[g]==17 then m[s-1]={a,e[d]};else m[s-1]={h,e[d]};end;c[#c+1]=m;end;a[e[s]]=b(r,z,t);end else local t,f,o,h,u,c,r,m;for m=0,6 do if m>=3 then if 4<m then if 4<=m then repeat if m~=5 then t=e[s]a[t](z(a,t+1,e[d]))break;end;a[e[s]]=(e[d]~=0);n=n+1;e=_[n];until true;else a[e[s]]=(e[d]~=0);n=n+1;e=_[n];end else if 2<m then for h=29,62 do if 4>m then t=e[s]a[t](z(a,t+1,e[d]))n=n+1;e=_[n];break;end;t=e[s];f=a[e[d]];a[t+1]=f;a[t]=f[e[l]];n=n+1;e=_[n];break;end;else t=e[s];f=a[e[d]];a[t+1]=f;a[t]=f[e[l]];n=n+1;e=_[n];end end else if 0>=m then t=e[s]a[t](z(a,t+1,e[d]))n=n+1;e=_[n];else if-1<=m then for z=40,71 do if 1~=m then m=0;while m>-1 do if m<3 then if m>=1 then if m>-1 then repeat if m~=1 then u=d;break;end;h=s;until true;else h=s;end else o=e;end else if 4<m then if m>=3 then for e=37,87 do if m~=6 then a(r,c);break;end;m=-2;break;end;else a(r,c);end else if m>-1 then for e=33,55 do if m>3 then r=o[h];break;end;c=o[u];break;end;else r=o[h];end end end m=m+1 end n=n+1;e=_[n];break;end;t=e[s];f=a[e[d]];a[t+1]=f;a[t]=f[e[l]];n=n+1;e=_[n];break;end;else t=e[s];f=a[e[d]];a[t+1]=f;a[t]=f[e[l]];n=n+1;e=_[n];end end end end end end end end end else if m<=129 then if 116<m then if m>=123 then if m>=126 then if m>127 then if m>127 then repeat if 129>m then local f;for m=0,6 do if 3<=m then if m>=5 then if m>=3 then for t=28,55 do if m~=5 then a[e[s]]=h[e[d]];break;end;a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];break;end;else a[e[s]]=h[e[d]];end else if 3==m then f=e[s]a[f]=a[f](z(a,f+1,e[d]))n=n+1;e=_[n];else a[e[s]]=t[e[d]];n=n+1;e=_[n];end end else if 0>=m then a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];else if m>=-2 then repeat if 1<m then a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];break;end;a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];until true;else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end end end end break;end;for e=e[s],e[d]do a[e]=nil;end;until true;else local f;for m=0,6 do if 3<=m then if m>=5 then if m>=3 then for t=28,55 do if m~=5 then a[e[s]]=h[e[d]];break;end;a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];break;end;else a[e[s]]=h[e[d]];end else if 3==m then f=e[s]a[f]=a[f](z(a,f+1,e[d]))n=n+1;e=_[n];else a[e[s]]=t[e[d]];n=n+1;e=_[n];end end else if 0>=m then a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];else if m>=-2 then repeat if 1<m then a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];break;end;a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];until true;else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end end end end end else if 122<=m then for l=18,67 do if 127>m then local l,m,z;for t=0,4 do if t<=1 then if-4~=t then repeat if 0<t then a(e[s],e[d]);n=n+1;e=_[n];break;end;a[e[s]]={};n=n+1;e=_[n];until true;else a[e[s]]={};n=n+1;e=_[n];end else if t>=3 then if 3<t then l=e[s];m=a[l]z=a[l+2];if(z>0)then if(m>a[l+1])then n=e[d];else a[l+3]=m;end elseif(m<a[l+1])then n=e[d];else a[l+3]=m;end else a(e[s],e[d]);n=n+1;e=_[n];end else a[e[s]]=a[e[d]];n=n+1;e=_[n];end end end break;end;if a[e[s]]then n=n+1;else n=e[d];end;break;end;else local l,t,z;for m=0,4 do if m<=1 then if-4~=m then repeat if 0<m then a(e[s],e[d]);n=n+1;e=_[n];break;end;a[e[s]]={};n=n+1;e=_[n];until true;else a[e[s]]={};n=n+1;e=_[n];end else if m>=3 then if 3<m then l=e[s];t=a[l]z=a[l+2];if(z>0)then if(t>a[l+1])then n=e[d];else a[l+3]=t;end elseif(t<a[l+1])then n=e[d];else a[l+3]=t;end else a(e[s],e[d]);n=n+1;e=_[n];end else a[e[s]]=a[e[d]];n=n+1;e=_[n];end end end end end else if 123>=m then for m=0,1 do if 0==m then a[e[s]][e[d]]=e[l];n=n+1;e=_[n];else a[e[s]][e[d]]=e[l];end end else if m==124 then local n=e[s];local s=a[e[d]];a[n+1]=s;a[n]=s[e[l]];else local m;a[e[s]]=e[d]*a[e[l]];n=n+1;e=_[n];a[e[s]]=e[d]-a[e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]]*a[e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]]+a[e[l]];n=n+1;e=_[n];m=e[s];do return a[m](z(a,m+1,e[d]))end;n=n+1;e=_[n];m=e[s];do return z(a,m,r)end;n=n+1;e=_[n];do return end;end end end else if 119>=m then if m>117 then if m>=114 then for n=26,58 do if 119~=m then do return a[e[s]]end break;end;local d=e[d];local n=a[d]for e=d+1,e[l]do n=n..a[e];end;a[e[s]]=n;break;end;else local d=e[d];local n=a[d]for e=d+1,e[l]do n=n..a[e];end;a[e[s]]=n;end else local n=e[s];local s=a[n];for e=n+1,e[d]do f.Pnezuhbk(s,a[e])end;end else if 121>m then a[e[s]]=a[e[d]]-e[l];else if m~=121 then local m;a[e[s]]=t[e[d]];n=n+1;e=_[n];m=e[s]a[m]=a[m]()n=n+1;e=_[n];a[e[s]][e[d]]=a[e[l]];n=n+1;e=_[n];a[e[s]]=t[e[d]];n=n+1;e=_[n];a(e[s],e[d]);n=n+1;e=_[n];if not a[e[s]]then n=n+1;else n=e[d];end;else local s=e[s];local _=a[s]local l=a[s+2];if(l>0)then if(_>a[s+1])then n=e[d];else a[s+3]=_;end elseif(_<a[s+1])then n=e[d];else a[s+3]=_;end end end end end else if m<=109 then if m>=107 then if 108<=m then if m>=107 then repeat if 108<m then local m,r,h;for z=0,5 do if z<3 then if 0>=z then m=e[s]a[m](a[m+1])n=n+1;e=_[n];else if 0<z then repeat if 1<z then m=e[s];r=a[e[d]];a[m+1]=r;a[m]=r[e[l]];n=n+1;e=_[n];break;end;a[e[s]]=t[e[d]];n=n+1;e=_[n];until true;else a[e[s]]=t[e[d]];n=n+1;e=_[n];end end else if 3<z then if 0<=z then for l=36,57 do if z<5 then a(e[s],e[d]);n=n+1;e=_[n];break;end;m=e[s];h=a[m];for e=m+1,e[d]do f.Pnezuhbk(h,a[e])end;break;end;else m=e[s];h=a[m];for e=m+1,e[d]do f.Pnezuhbk(h,a[e])end;end else a[e[s]]={};n=n+1;e=_[n];end end end break;end;local s=e[s];local _=a[s]local l=a[s+2];if(l>0)then if(_>a[s+1])then n=e[d];else a[s+3]=_;end elseif(_<a[s+1])then n=e[d];else a[s+3]=_;end until true;else local m,r,h;for z=0,5 do if z<3 then if 0>=z then m=e[s]a[m](a[m+1])n=n+1;e=_[n];else if 0<z then repeat if 1<z then m=e[s];r=a[e[d]];a[m+1]=r;a[m]=r[e[l]];n=n+1;e=_[n];break;end;a[e[s]]=t[e[d]];n=n+1;e=_[n];until true;else a[e[s]]=t[e[d]];n=n+1;e=_[n];end end else if 3<z then if 0<=z then for l=36,57 do if z<5 then a(e[s],e[d]);n=n+1;e=_[n];break;end;m=e[s];h=a[m];for e=m+1,e[d]do f.Pnezuhbk(h,a[e])end;break;end;else m=e[s];h=a[m];for e=m+1,e[d]do f.Pnezuhbk(h,a[e])end;end else a[e[s]]={};n=n+1;e=_[n];end end end end else local e=e[s]local s,n=o(a[e](a[e+1]))r=n+e-1 local n=0;for e=e,r do n=n+1;a[e]=s[n];end;end else if 105>m then local s=e[s];local l=a[s+2];local _=a[s]+l;a[s]=_;if(l>0)then if(_<=a[s+1])then n=e[d];a[s+3]=_;end elseif(_>=a[s+1])then n=e[d];a[s+3]=_;end else if m<106 then a[e[s]]=(e[d]~=0);else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=h[e[d]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]]-a[e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];end end end else if m>=113 then if 114>=m then if 113<m then local m,t;for f=0,3 do if 2>f then if f>-3 then repeat if 0~=f then m=e[s]a[m]=a[m](z(a,m+1,e[d]))n=n+1;e=_[n];break;end;a(e[s],e[d]);n=n+1;e=_[n];until true;else a(e[s],e[d]);n=n+1;e=_[n];end else if 0<=f then for z=19,91 do if 3>f then a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];break;end;m=e[s];t=a[e[d]];a[m+1]=t;a[m]=t[e[l]];break;end;else m=e[s];t=a[e[d]];a[m+1]=t;a[m]=t[e[l]];end end end else local e=e[s];do return z(a,e,r)end;end else if 114<m then for _=42,66 do if 116~=m then if(e[s]<a[e[l]])then n=e[d];else n=n+1;end;break;end;a[e[s]]=h[e[d]];break;end;else a[e[s]]=h[e[d]];end end else if 110<m then if m>=110 then repeat if 112~=m then local s=e[s]local d={a[s](a[s+1])};local n=0;for e=s,e[l]do n=n+1;a[e]=d[n];end break;end;local m;a[e[s]][e[d]]=e[l];n=n+1;e=_[n];a[e[s]][e[d]]=e[l];n=n+1;e=_[n];m=e[s]a[m](z(a,m+1,e[d]))n=n+1;e=_[n];a[e[s]]=t[e[d]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]][e[d]]=a[e[l]];n=n+1;e=_[n];a[e[s]]=t[e[d]];until true;else local s=e[s]local d={a[s](a[s+1])};local n=0;for e=s,e[l]do n=n+1;a[e]=d[n];end end else local n=e[s]local s,e=o(a[n](z(a,n+1,e[d])))r=e+n-1 local e=0;for n=n,r do e=e+1;a[n]=s[e];end;end end end end else if 143<=m then if 148>=m then if 145>=m then if m<=143 then a[e[s]]=a[e[d]]-e[l];else if 144==m then a[e[s]]=h[e[d]];n=n+1;e=_[n];a[e[s]]=e[d]/a[e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]]*a[e[l]];n=n+1;e=_[n];a[e[s]]=h[e[d]];n=n+1;e=_[n];a[e[s]]=e[d]/a[e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]]*a[e[l]];n=n+1;e=_[n];a[e[s]]=t[e[d]];else a[e[s]]=a[e[d]]%e[l];end end else if m>=147 then if m~=148 then a[e[s]]=t[e[d]];else local n=e[s];do return a[n](z(a,n+1,e[d]))end;end else local m,h,c,t,f;m=e[s]h,c=o(a[m](z(a,m+1,e[d])))r=c+m-1 t=0;for e=m,r do t=t+1;a[e]=h[t];end;n=n+1;e=_[n];m=e[s]a[m]=a[m](z(a,m+1,r))n=n+1;e=_[n];m=e[s]a[m]=a[m]()n=n+1;e=_[n];m=e[s];f=a[e[d]];a[m+1]=f;a[m]=f[e[l]];n=n+1;e=_[n];a[e[s]]={};n=n+1;e=_[n];a[e[s]][e[d]]=e[l];n=n+1;e=_[n];a[e[s]][e[d]]=e[l];end end else if m<=151 then if 150>m then a[e[s]]=a[e[d]]%e[l];else if 149<=m then repeat if 151>m then a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=t[e[d]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=t[e[d]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=t[e[d]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];break;end;a[e[s]][e[d]]=a[e[l]];until true;else a[e[s]][e[d]]=a[e[l]];end end else if 154>m then if m>152 then a[e[s]]=h[e[d]];else if(e[s]<a[e[l]])then n=e[d];else n=n+1;end;end else if m>150 then repeat if 155>m then local m;a[e[s]]=a[e[d]]*a[e[l]];n=n+1;e=_[n];m=e[s]a[m]=a[m](a[m+1])n=n+1;e=_[n];a[e[s]]=e[d]*a[e[l]];n=n+1;e=_[n];a[e[s]]=e[d]-a[e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]]*a[e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]]+a[e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];break;end;local f,c,r,u,h,o,b,m;a[e[s]]=t[e[d]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=t[e[d]];n=n+1;e=_[n];f=e[s];c=a[e[d]];a[f+1]=c;a[f]=c[e[l]];n=n+1;e=_[n];m=0;while m>-1 do if 3>m then if 0<m then if m>=-3 then repeat if 1<m then h=d;break;end;u=s;until true;else h=d;end else r=e;end else if 4>=m then if m>=-1 then repeat if 4>m then o=r[h];break;end;b=r[u];until true;else o=r[h];end else if 2~=m then repeat if 5~=m then m=-2;break;end;a(b,o);until true;else m=-2;end end end m=m+1 end n=n+1;e=_[n];f=e[s]a[f]=a[f](z(a,f+1,e[d]))n=n+1;e=_[n];a[e[s]]=t[e[d]];until true;else local m;a[e[s]]=a[e[d]]*a[e[l]];n=n+1;e=_[n];m=e[s]a[m]=a[m](a[m+1])n=n+1;e=_[n];a[e[s]]=e[d]*a[e[l]];n=n+1;e=_[n];a[e[s]]=e[d]-a[e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]]*a[e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]]+a[e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];end end end end else if m>=136 then if 139<=m then if 140<m then if 137<m then for t=14,71 do if m~=141 then a[e[s]]=#a[e[d]];break;end;a[e[s]]=h[e[d]];n=n+1;e=_[n];a[e[s]]=a[e[d]][a[e[l]]];n=n+1;e=_[n];a[e[s]]=h[e[d]];n=n+1;e=_[n];a[e[s]]=h[e[d]];n=n+1;e=_[n];a[e[s]]=a[e[d]][a[e[l]]];n=n+1;e=_[n];a[e[s]]=h[e[d]];n=n+1;e=_[n];a[e[s]]=a[e[d]][a[e[l]]];break;end;else a[e[s]]=#a[e[d]];end else if m>139 then local m;a[e[s]][e[d]]=a[e[l]];n=n+1;e=_[n];m=e[s]a[m](z(a,m+1,e[d]))n=n+1;e=_[n];a[e[s]]=t[e[d]];n=n+1;e=_[n];a[e[s]][e[d]]=e[l];n=n+1;e=_[n];a[e[s]]=t[e[d]];n=n+1;e=_[n];a[e[s]][e[d]]=e[l];n=n+1;e=_[n];a[e[s]]=t[e[d]];else a[e[s]]=e[d]-a[e[l]];end end else if m>=137 then if m>=134 then for _=38,74 do if m<138 then if(e[s]<a[e[l]])then n=n+1;else n=e[d];end;break;end;local s=e[s]local d={a[s](z(a,s+1,e[d]))};local n=0;for e=s,e[l]do n=n+1;a[e]=d[n];end break;end;else if(e[s]<a[e[l]])then n=n+1;else n=e[d];end;end else local r=k[e[d]];local z;local m={};z=f.acqwMYAi({},{__index=function(n,e)local e=m[e];return e[1][e[2]];end,__newindex=function(a,e,n)local e=m[e]e[1][e[2]]=n;end;});for s=1,e[l]do n=n+1;local e=_[n];if e[g]==17 then m[s-1]={a,e[d]};else m[s-1]={h,e[d]};end;c[#c+1]=m;end;a[e[s]]=b(r,z,t);end end else if 132>=m then if m>130 then if m>129 then for f=36,69 do if 131~=m then for m=0,6 do if 3<=m then if m>=5 then if m~=2 then for l=48,55 do if m~=5 then a[e[s]]=t[e[d]];break;end;a[e[s]]=h[e[d]];n=n+1;e=_[n];break;end;else a[e[s]]=t[e[d]];end else if 1~=m then repeat if 3<m then a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];break;end;a[e[s]]=a[e[d]]-a[e[l]];n=n+1;e=_[n];until true;else a[e[s]]=a[e[d]]-a[e[l]];n=n+1;e=_[n];end end else if m<=0 then a[e[s]]=h[e[d]];n=n+1;e=_[n];else if 1<m then a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end end end end break;end;local n=e[s]local s,e=o(a[n](z(a,n+1,e[d])))r=e+n-1 local e=0;for n=n,r do e=e+1;a[n]=s[e];end;break;end;else for m=0,6 do if 3<=m then if m>=5 then if m~=2 then for l=48,55 do if m~=5 then a[e[s]]=t[e[d]];break;end;a[e[s]]=h[e[d]];n=n+1;e=_[n];break;end;else a[e[s]]=t[e[d]];end else if 1~=m then repeat if 3<m then a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];break;end;a[e[s]]=a[e[d]]-a[e[l]];n=n+1;e=_[n];until true;else a[e[s]]=a[e[d]]-a[e[l]];n=n+1;e=_[n];end end else if m<=0 then a[e[s]]=h[e[d]];n=n+1;e=_[n];else if 1<m then a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end end end end end else local t;for m=0,6 do if m<=2 then if m<1 then t=e[s]a[t]=a[t](z(a,t+1,e[d]))n=n+1;e=_[n];else if-3<=m then for t=33,54 do if m>1 then a[e[s]]=h[e[d]];n=n+1;e=_[n];break;end;a[e[s]][e[d]]=a[e[l]];n=n+1;e=_[n];break;end;else a[e[s]][e[d]]=a[e[l]];n=n+1;e=_[n];end end else if 5<=m then if 6>m then a[e[s]]=h[e[d]];n=n+1;e=_[n];else a[e[s]]=a[e[d]][a[e[l]]];end else if 1<=m then repeat if m~=4 then a[e[s]]=a[e[d]][a[e[l]]];n=n+1;e=_[n];break;end;a[e[s]][e[d]]=a[e[l]];n=n+1;e=_[n];until true;else a[e[s]]=a[e[d]][a[e[l]]];n=n+1;e=_[n];end end end end end else if 134<=m then if 135>m then local s=e[s]local d={a[s](z(a,s+1,r))};local n=0;for e=s,e[l]do n=n+1;a[e]=d[n];end else local n=e[s]a[n]=a[n](z(a,n+1,e[d]))end else local r,z,h,_,t,f,m;local n=0;while n>-1 do if n>2 then if n>=5 then if 6==n then n=-2;else a[f]=m;end else if 3<n then m=a[t];for e=1+t,_[h]do m=m..a[e];end;else f=_[r];end end else if 1<=n then if n>0 then repeat if 1<n then t=_[z];break;end;_=e;until true;else _=e;end else r=s;z=d;h=l;end end n=n+1 end end end end end end end else if 52>m then if m>25 then if 38>=m then if m>31 then if m>34 then if m<37 then if m<36 then a[e[s]]=a[e[d]]*e[l];else t[e[d]]=a[e[s]];end else if m~=35 then for f=39,67 do if 38>m then a[e[s]]=e[d]/a[e[l]];break;end;local f,u,r,c,o,l,m;h[e[d]]=a[e[s]];n=n+1;e=_[n];a[e[s]]=t[e[d]];n=n+1;e=_[n];l=0;while l>-1 do if 3>l then if l>=1 then if-1<l then repeat if l~=1 then r=d;break;end;u=s;until true;else r=d;end else f=e;end else if l>=5 then if l~=3 then for e=45,70 do if l>5 then l=-2;break;end;a(o,c);break;end;else a(o,c);end else if l==3 then c=f[r];else o=f[u];end end end l=l+1 end n=n+1;e=_[n];a[e[s]]=a[e[d]];n=n+1;e=_[n];m=e[s]a[m](z(a,m+1,e[d]))n=n+1;e=_[n];do return end;break;end;else local c,u,o,f,m,l,r;h[e[d]]=a[e[s]];n=n+1;e=_[n];a[e[s]]=t[e[d]];n=n+1;e=_[n];l=0;while l>-1 do if 3>l then if l>=1 then if-1<l then repeat if l~=1 then o=d;break;end;u=s;until true;else o=d;end else c=e;end else if l>=5 then if l~=3 then for e=45,70 do if l>5 then l=-2;break;end;a(m,f);break;end;else a(m,f);end else if l==3 then f=c[o];else m=c[u];end end end l=l+1 end n=n+1;e=_[n];a[e[s]]=a[e[d]];n=n+1;e=_[n];r=e[s]a[r](z(a,r+1,e[d]))n=n+1;e=_[n];do return end;end end else if m>32 then if 34>m then local n=e[s];do return a[n](z(a,n+1,e[d]))end;else if not a[e[s]]then n=n+1;else n=e[d];end;end else a[e[s]]=t[e[d]];end end else if 29<=m then if m>29 then if m==30 then a[e[s]]=a[e[d]]*a[e[l]];else a[e[s]]=a[e[d]]+a[e[l]];end else a[e[s]]=e[d]*a[e[l]];end else if m<27 then for m=0,1 do if m>-3 then repeat if 0~=m then a[e[s]][e[d]]=e[l];break;end;a[e[s]][e[d]]=e[l];n=n+1;e=_[n];until true;else a[e[s]][e[d]]=e[l];n=n+1;e=_[n];end end else if m~=24 then for n=48,67 do if m~=27 then local _=e[s];local d={};for e=1,#c do local e=c[e];for n=0,#e do local n=e[n];local s=n[1];local e=n[2];if s==a and e>=_ then d[e]=s[e];n[1]=d;end;end;end;break;end;a[e[s]]=a[e[d]]+e[l];break;end;else a[e[s]]=a[e[d]]+e[l];end end end end else if m>=45 then if 47<m then if m>49 then if 47~=m then repeat if m>50 then local e=e[s]local s,n=o(a[e](a[e+1]))r=n+e-1 local n=0;for e=e,r do n=n+1;a[e]=s[n];end;break;end;n=e[d];until true;else local e=e[s]local s,n=o(a[e](a[e+1]))r=n+e-1 local n=0;for e=e,r do n=n+1;a[e]=s[n];end;end else if 44<=m then for n=36,88 do if 48<m then a[e[s]]=a[e[d]]*a[e[l]];break;end;do return end;break;end;else do return end;end end else if 45>=m then local s=e[s];local l=a[s+2];local _=a[s]+l;a[s]=_;if(l>0)then if(_<=a[s+1])then n=e[d];a[s+3]=_;end elseif(_>=a[s+1])then n=e[d];a[s+3]=_;end else if m>45 then repeat if 47~=m then a[e[s]]=(not a[e[d]]);break;end;local e=e[s]a[e]=a[e](a[e+1])until true;else local e=e[s]a[e]=a[e](a[e+1])end end end else if 42<=m then if 43<=m then if 42<m then for t=42,59 do if m~=44 then local m,f;for t=0,4 do if 2<=t then if 2>=t then a(e[s],e[d]);n=n+1;e=_[n];else if 2<=t then repeat if 4~=t then m=e[s]a[m]=a[m](z(a,m+1,e[d]))n=n+1;e=_[n];break;end;if not a[e[s]]then n=n+1;else n=e[d];end;until true;else m=e[s]a[m]=a[m](z(a,m+1,e[d]))n=n+1;e=_[n];end end else if t>=-1 then repeat if 0<t then m=e[s];f=a[e[d]];a[m+1]=f;a[m]=f[e[l]];n=n+1;e=_[n];break;end;a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];until true;else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end end end break;end;n=e[d];break;end;else n=e[d];end else local e=e[s]a[e]=a[e]()end else if 40<=m then if 41>m then local m,f;for t=0,6 do if t>=3 then if 4>=t then if t>-1 then repeat if 4~=t then a(e[s],e[d]);n=n+1;e=_[n];break;end;a[e[s]]={};n=n+1;e=_[n];until true;else a(e[s],e[d]);n=n+1;e=_[n];end else if 5<t then a[e[s]][e[d]]=e[l];else a[e[s]][e[d]]=e[l];n=n+1;e=_[n];end end else if 0<t then if t>=-3 then repeat if t<2 then m=e[s]a[m](z(a,m+1,e[d]))n=n+1;e=_[n];break;end;m=e[s];f=a[e[d]];a[m+1]=f;a[m]=f[e[l]];n=n+1;e=_[n];until true;else m=e[s];f=a[e[d]];a[m+1]=f;a[m]=f[e[l]];n=n+1;e=_[n];end else a[e[s]][e[d]]=a[e[l]];n=n+1;e=_[n];end end end else local c,j,g,u,k,b,m,f,y,p,h;m=0;while m>-1 do if 3>=m then if 2>m then if m==0 then c=e;else j=s;end else if m>0 then repeat if 3>m then g=d;break;end;u=a;until true;else u=a;end end else if 5<m then if m>2 then repeat if 6~=m then m=-2;break;end;a[b]=k;until true;else a[b]=k;end else if 5==m then b=c[j];else k=u[c[g]];end end end m=m+1 end n=n+1;e=_[n];f=e[s]a[f]=a[f](a[f+1])n=n+1;e=_[n];a[e[s]]=t[e[d]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]];n=n+1;e=_[n];f=e[s]y,p=o(a[f](a[f+1]))r=p+f-1 h=0;for e=f,r do h=h+1;a[e]=y[h];end;n=n+1;e=_[n];f=e[s]a[f]=a[f](z(a,f+1,r))end else local f,h,c,o,p,b,u,m,k,r;for m=0,6 do if m>2 then if m>=5 then if 6>m then f=e[s]k={a[f](a[f+1])};r=0;for e=f,e[l]do r=r+1;a[e]=k[r];end n=n+1;e=_[n];else n=e[d];end else if 0~=m then for t=32,75 do if m>3 then f=e[s];h=a[e[d]];a[f+1]=h;a[f]=h[e[l]];n=n+1;e=_[n];break;end;f=e[s]a[f]=a[f](z(a,f+1,e[d]))n=n+1;e=_[n];break;end;else f=e[s]a[f]=a[f](z(a,f+1,e[d]))n=n+1;e=_[n];end end else if 0>=m then a[e[s]]=t[e[d]];n=n+1;e=_[n];else if-3<=m then for t=13,73 do if 2>m then f=e[s];h=a[e[d]];a[f+1]=h;a[f]=h[e[l]];n=n+1;e=_[n];break;end;m=0;while m>-1 do if 3>m then if m>0 then if-3<m then for e=13,71 do if 2>m then o=s;break;end;p=d;break;end;else o=s;end else c=e;end else if 5<=m then if m>=4 then repeat if 5~=m then m=-2;break;end;a(u,b);until true;else m=-2;end else if-1~=m then for e=30,57 do if m<4 then b=c[p];break;end;u=c[o];break;end;else u=c[o];end end end m=m+1 end n=n+1;e=_[n];break;end;else f=e[s];h=a[e[d]];a[f+1]=h;a[f]=h[e[l]];n=n+1;e=_[n];end end end end end end end end else if 13>m then if m>=6 then if m>8 then if 10>=m then if m>5 then repeat if m~=10 then local m,f,r,t;a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=h[e[d]];n=n+1;e=_[n];m=e[s];f=a[e[d]];a[m+1]=f;a[m]=f[e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];m=e[s]r={a[m](z(a,m+1,e[d]))};t=0;for e=m,e[l]do t=t+1;a[e]=r[t];end n=n+1;e=_[n];if a[e[s]]then n=n+1;else n=e[d];end;break;end;a[e[s]]=a[e[d]]*e[l];until true;else local m,f,r,t;a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=h[e[d]];n=n+1;e=_[n];m=e[s];f=a[e[d]];a[m+1]=f;a[m]=f[e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];m=e[s]r={a[m](z(a,m+1,e[d]))};t=0;for e=m,e[l]do t=t+1;a[e]=r[t];end n=n+1;e=_[n];if a[e[s]]then n=n+1;else n=e[d];end;end else if 7<m then for f=17,64 do if 11~=m then local m;a[e[s]]=t[e[d]];n=n+1;e=_[n];a[e[s]][e[d]]=a[e[l]];n=n+1;e=_[n];a[e[s]]=t[e[d]];n=n+1;e=_[n];a(e[s],e[d]);n=n+1;e=_[n];a[e[s]]=a[e[d]];n=n+1;e=_[n];m=e[s]a[m](z(a,m+1,e[d]))n=n+1;e=_[n];do return end;break;end;h[e[d]]=a[e[s]];break;end;else local m;a[e[s]]=t[e[d]];n=n+1;e=_[n];a[e[s]][e[d]]=a[e[l]];n=n+1;e=_[n];a[e[s]]=t[e[d]];n=n+1;e=_[n];a(e[s],e[d]);n=n+1;e=_[n];a[e[s]]=a[e[d]];n=n+1;e=_[n];m=e[s]a[m](z(a,m+1,e[d]))n=n+1;e=_[n];do return end;end end else if 7<=m then if m~=3 then for t=46,73 do if 7<m then local m,f;for t=0,4 do if t>=2 then if t>2 then if 1~=t then repeat if t~=4 then m=e[s]a[m]=a[m](z(a,m+1,e[d]))n=n+1;e=_[n];break;end;if not a[e[s]]then n=n+1;else n=e[d];end;until true;else m=e[s]a[m]=a[m](z(a,m+1,e[d]))n=n+1;e=_[n];end else a(e[s],e[d]);n=n+1;e=_[n];end else if t~=-1 then repeat if 1>t then a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];break;end;m=e[s];f=a[e[d]];a[m+1]=f;a[m]=f[e[l]];n=n+1;e=_[n];until true;else m=e[s];f=a[e[d]];a[m+1]=f;a[m]=f[e[l]];n=n+1;e=_[n];end end end break;end;local e=e[s]a[e]=a[e]()break;end;else local m,f;for t=0,4 do if t>=2 then if t>2 then if 1~=t then repeat if t~=4 then m=e[s]a[m]=a[m](z(a,m+1,e[d]))n=n+1;e=_[n];break;end;if not a[e[s]]then n=n+1;else n=e[d];end;until true;else m=e[s]a[m]=a[m](z(a,m+1,e[d]))n=n+1;e=_[n];end else a(e[s],e[d]);n=n+1;e=_[n];end else if t~=-1 then repeat if 1>t then a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];break;end;m=e[s];f=a[e[d]];a[m+1]=f;a[m]=f[e[l]];n=n+1;e=_[n];until true;else m=e[s];f=a[e[d]];a[m+1]=f;a[m]=f[e[l]];n=n+1;e=_[n];end end end end else local f,h,r,o,c,u,m;a[e[s]]=t[e[d]];n=n+1;e=_[n];f=e[s]a[f]=a[f]()n=n+1;e=_[n];a[e[s]][e[d]]=a[e[l]];n=n+1;e=_[n];a[e[s]]=t[e[d]];n=n+1;e=_[n];m=0;while m>-1 do if m>=3 then if m>=5 then if m~=5 then m=-2;else a(u,c);end else if m<4 then c=h[o];else u=h[r];end end else if m<=0 then h=e;else if m~=-3 then for e=43,54 do if 2~=m then r=s;break;end;o=d;break;end;else r=s;end end end m=m+1 end n=n+1;e=_[n];a[e[s]]=a[e[d]];n=n+1;e=_[n];f=e[s]a[f](z(a,f+1,e[d]))end end else if m<3 then if 1>m then a[e[s]]=a[e[d]]/a[e[l]];else if 0<m then repeat if m>1 then if(a[e[s]]~=e[l])then n=n+1;else n=e[d];end;break;end;do return end;until true;else if(a[e[s]]~=e[l])then n=n+1;else n=e[d];end;end end else if m<=3 then local n=e[s];local s=a[n];for e=n+1,e[d]do f.Pnezuhbk(s,a[e])end;else if 2<=m then repeat if 5>m then local _=e[s];local l=e[l];local s=_+2 local _={a[_](a[_+1],a[s])};for e=1,l do a[s+e]=_[e];end;local _=_[1]if _ then a[s]=_ n=e[d];else n=n+1;end;break;end;local m,u,c,h;for f=0,6 do if 3<=f then if 5<=f then if f>=3 then for l=13,62 do if 5~=f then m=e[s]u,c=o(a[m](z(a,m+1,e[d])))r=c+m-1 h=0;for e=m,r do h=h+1;a[e]=u[h];end;break;end;a(e[s],e[d]);n=n+1;e=_[n];break;end;else m=e[s]u,c=o(a[m](z(a,m+1,e[d])))r=c+m-1 h=0;for e=m,r do h=h+1;a[e]=u[h];end;end else if f~=0 then repeat if f>3 then a(e[s],e[d]);n=n+1;e=_[n];break;end;a(e[s],e[d]);n=n+1;e=_[n];until true;else a(e[s],e[d]);n=n+1;e=_[n];end end else if 0<f then if f>=-2 then repeat if 2>f then a[e[s]]=t[e[d]];n=n+1;e=_[n];break;end;a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];until true;else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end else m=e[s]a[m]=a[m](z(a,m+1,e[d]))n=n+1;e=_[n];end end end until true;else local s=e[s];local l=e[l];local _=s+2 local s={a[s](a[s+1],a[_])};for e=1,l do a[_+e]=s[e];end;local s=s[1]if s then a[_]=s n=e[d];else n=n+1;end;end end end end else if 18>=m then if m>15 then if m>=17 then if 15<m then for t=16,79 do if m~=18 then a[e[s]]=a[e[d]];break;end;local m,t;m=e[s]a[m]=a[m](z(a,m+1,e[d]))n=n+1;e=_[n];a[e[s]]={};n=n+1;e=_[n];m=e[s];t=a[e[d]];a[m+1]=t;a[m]=t[e[l]];n=n+1;e=_[n];a(e[s],e[d]);n=n+1;e=_[n];m=e[s]a[m]=a[m](z(a,m+1,e[d]))n=n+1;e=_[n];a[e[s]][e[d]]=a[e[l]];break;end;else a[e[s]]=a[e[d]];end else a[e[s]]=a[e[d]][a[e[l]]];end else if 14<=m then if m==15 then local t,z;for m=0,5 do if m<3 then if m>=1 then if m>=-1 then repeat if 1~=m then a[e[s]]={};n=n+1;e=_[n];break;end;a(e[s],e[d]);n=n+1;e=_[n];until true;else a[e[s]]={};n=n+1;e=_[n];end else t=e[s];z=a[e[d]];a[t+1]=z;a[t]=z[e[l]];n=n+1;e=_[n];end else if m<=3 then a[e[s]][e[d]]=e[l];n=n+1;e=_[n];else if m~=0 then for t=26,92 do if m>4 then a[e[s]][e[d]]=e[l];break;end;a[e[s]][e[d]]=e[l];n=n+1;e=_[n];break;end;else a[e[s]][e[d]]=e[l];end end end end else a[e[s]]=a[e[d]][a[e[l]]];end else local m,f,t;a(e[s],e[d]);n=n+1;e=_[n];a[e[s]]=a[e[d]];n=n+1;e=_[n];m=e[d];f=a[m]for e=m+1,e[l]do f=f..a[e];end;a[e[s]]=f;n=n+1;e=_[n];t=e[s]a[t](z(a,t+1,e[d]))n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]][e[d]]=e[l];n=n+1;e=_[n];t=e[s];m=a[e[d]];a[t+1]=m;a[t]=m[e[l]];end end else if m<22 then if 19<m then if m~=17 then repeat if 21~=m then local n=e[s]a[n](z(a,n+1,e[d]))break;end;local e=e[s];local n=a[e];for e=e+1,r do f.Pnezuhbk(n,a[e])end;until true;else local e=e[s];local n=a[e];for e=e+1,r do f.Pnezuhbk(n,a[e])end;end else local t,h,o,c,u,f,r,m;a[e[s]][e[d]]=a[e[l]];n=n+1;e=_[n];t=e[s]a[t](z(a,t+1,e[d]))n=n+1;e=_[n];t=e[s];h=a[e[d]];a[t+1]=h;a[t]=h[e[l]];n=n+1;e=_[n];m=0;while m>-1 do if 2>=m then if m>=1 then if m~=0 then for e=21,90 do if m<2 then c=s;break;end;u=d;break;end;else c=s;end else o=e;end else if m<=4 then if 4~=m then f=o[u];else r=o[c];end else if m~=4 then for e=10,62 do if m<6 then a(r,f);break;end;m=-2;break;end;else a(r,f);end end end m=m+1 end n=n+1;e=_[n];a[e[s]]={};n=n+1;e=_[n];a[e[s]][e[d]]=e[l];n=n+1;e=_[n];a[e[s]][e[d]]=e[l];end else if 23<m then if 20<m then repeat if 24~=m then for m=0,2 do if 1<=m then if m~=1 then a[e[s]][e[d]]=e[l];else a[e[s]][e[d]]=e[l];n=n+1;e=_[n];end else a[e[s]][e[d]]=e[l];n=n+1;e=_[n];end end break;end;local e=e[s]a[e]=a[e](z(a,e+1,r))until true;else local e=e[s]a[e]=a[e](z(a,e+1,r))end else if m>=19 then for _=32,52 do if 23~=m then local n=e[s]a[n](z(a,n+1,e[d]))break;end;if(a[e[s]]<a[e[l]])then n=e[d];else n=n+1;end;break;end;else if(a[e[s]]<a[e[l]])then n=e[d];else n=n+1;end;end end end end end end else if 77<m then if 90>=m then if m<=83 then if 81>m then if 78>=m then local m;m=e[s]a[m]=a[m](z(a,m+1,r))n=n+1;e=_[n];a[e[s]]=h[e[d]];n=n+1;e=_[n];a[e[s]]=a[e[d]]*a[e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]]+a[e[l]];n=n+1;e=_[n];a[e[s]]=t[e[d]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=t[e[d]];else if m==80 then local m;a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]]/e[l];n=n+1;e=_[n];a[e[s]]=h[e[d]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]]/e[l];n=n+1;e=_[n];m=e[s]a[m]=a[m](z(a,m+1,e[d]))else a[e[s]]=e[d]*a[e[l]];end end else if m>81 then if 80<m then repeat if 83>m then local m,t;for f=0,6 do if 2<f then if f>4 then if f~=2 then repeat if f~=6 then m=e[s];t=a[e[d]];a[m+1]=t;a[m]=t[e[l]];n=n+1;e=_[n];break;end;a(e[s],e[d]);until true;else a(e[s],e[d]);end else if-1~=f then repeat if 3<f then m=e[s]a[m]=a[m](z(a,m+1,e[d]))n=n+1;e=_[n];break;end;a(e[s],e[d]);n=n+1;e=_[n];until true;else a(e[s],e[d]);n=n+1;e=_[n];end end else if f<1 then m=e[s]a[m](z(a,m+1,e[d]))n=n+1;e=_[n];else if 0~=f then repeat if 1<f then m=e[s];t=a[e[d]];a[m+1]=t;a[m]=t[e[l]];n=n+1;e=_[n];break;end;a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];until true;else m=e[s];t=a[e[d]];a[m+1]=t;a[m]=t[e[l]];n=n+1;e=_[n];end end end end break;end;a[e[s]]=a[e[d]]/a[e[l]];until true;else a[e[s]]=a[e[d]]/a[e[l]];end else local t,f;for m=0,6 do if 2<m then if m>4 then if m>1 then for t=39,86 do if 6>m then a[e[s]][e[d]]=e[l];n=n+1;e=_[n];break;end;a[e[s]][e[d]]=e[l];break;end;else a[e[s]][e[d]]=e[l];n=n+1;e=_[n];end else if m>3 then a[e[s]]={};n=n+1;e=_[n];else a(e[s],e[d]);n=n+1;e=_[n];end end else if m<=0 then a[e[s]][e[d]]=a[e[l]];n=n+1;e=_[n];else if 1<m then t=e[s];f=a[e[d]];a[t+1]=f;a[t]=f[e[l]];n=n+1;e=_[n];else t=e[s]a[t](z(a,t+1,e[d]))n=n+1;e=_[n];end end end end end end else if m<87 then if m>84 then if m>=81 then repeat if 85<m then local m;for f=0,6 do if 2<f then if f<=4 then if 0~=f then repeat if 3~=f then a[e[s]][e[d]]=e[l];n=n+1;e=_[n];break;end;m=e[s]a[m]=a[m]()n=n+1;e=_[n];until true;else a[e[s]][e[d]]=e[l];n=n+1;e=_[n];end else if f==5 then a[e[s]]=t[e[d]];n=n+1;e=_[n];else m=e[s]a[m]=a[m]()end end else if 1>f then a[e[s]][e[d]]=a[e[l]];n=n+1;e=_[n];else if 2~=f then m=e[s]a[m](z(a,m+1,e[d]))n=n+1;e=_[n];else a[e[s]]=t[e[d]];n=n+1;e=_[n];end end end end break;end;local z;for m=0,6 do if m>2 then if 4>=m then if m>=2 then repeat if 4~=m then a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];break;end;a(e[s],e[d]);n=n+1;e=_[n];until true;else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end else if 5~=m then a[e[s]][e[d]]=a[e[l]];else z=e[s]a[z]=a[z](a[z+1])n=n+1;e=_[n];end end else if m<=0 then a[e[s]][e[d]]=a[e[l]];n=n+1;e=_[n];else if m>-2 then repeat if m~=2 then a[e[s]][e[d]]=e[l];n=n+1;e=_[n];break;end;a[e[s]]=t[e[d]];n=n+1;e=_[n];until true;else a[e[s]]=t[e[d]];n=n+1;e=_[n];end end end end until true;else local m;for f=0,6 do if 2<f then if f<=4 then if 0~=f then repeat if 3~=f then a[e[s]][e[d]]=e[l];n=n+1;e=_[n];break;end;m=e[s]a[m]=a[m]()n=n+1;e=_[n];until true;else a[e[s]][e[d]]=e[l];n=n+1;e=_[n];end else if f==5 then a[e[s]]=t[e[d]];n=n+1;e=_[n];else m=e[s]a[m]=a[m]()end end else if 1>f then a[e[s]][e[d]]=a[e[l]];n=n+1;e=_[n];else if 2~=f then m=e[s]a[m](z(a,m+1,e[d]))n=n+1;e=_[n];else a[e[s]]=t[e[d]];n=n+1;e=_[n];end end end end end else a[e[s]]=t[e[d]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]]-a[e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]]*a[e[l]];end else if m<=88 then if 85<m then repeat if 87~=m then a[e[s]]();break;end;a[e[s]][e[d]]=e[l];until true;else a[e[s]]();end else if m~=87 then for t=34,66 do if 89~=m then local m,t;m=e[s];t=a[e[d]];a[m+1]=t;a[m]=t[e[l]];n=n+1;e=_[n];a(e[s],e[d]);n=n+1;e=_[n];m=e[s]a[m]=a[m](z(a,m+1,e[d]))n=n+1;e=_[n];a[e[s]][e[d]]=a[e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];m=e[s];t=a[e[d]];a[m+1]=t;a[m]=t[e[l]];n=n+1;e=_[n];a(e[s],e[d]);break;end;a[e[s]]=a[e[d]]-a[e[l]];break;end;else a[e[s]]=a[e[d]]-a[e[l]];end end end end else if 97<=m then if m<=99 then if 97<m then if 97<m then repeat if 99~=m then a[e[s]]={};break;end;local m;a(e[s],e[d]);n=n+1;e=_[n];m=e[s]a[m]=a[m](a[m+1])n=n+1;e=_[n];a[e[s]][e[d]]=e[l];n=n+1;e=_[n];a[e[s]][e[d]]=e[l];n=n+1;e=_[n];a[e[s]][e[d]]=e[l];n=n+1;e=_[n];a[e[s]]=t[e[d]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];until true;else a[e[s]]={};end else local m,f;for t=0,6 do if t<=2 then if 0<t then if-3~=t then repeat if 1~=t then m=e[s];f=a[e[d]];a[m+1]=f;a[m]=f[e[l]];n=n+1;e=_[n];break;end;m=e[s]a[m](z(a,m+1,e[d]))n=n+1;e=_[n];until true;else m=e[s]a[m](z(a,m+1,e[d]))n=n+1;e=_[n];end else a[e[s]][e[d]]=a[e[l]];n=n+1;e=_[n];end else if t<=4 then if t==4 then a[e[s]]={};n=n+1;e=_[n];else a(e[s],e[d]);n=n+1;e=_[n];end else if t>3 then repeat if t~=6 then a[e[s]][e[d]]=e[l];n=n+1;e=_[n];break;end;a[e[s]][e[d]]=e[l];until true;else a[e[s]][e[d]]=e[l];n=n+1;e=_[n];end end end end end else if 102<=m then if m>99 then repeat if 102~=m then if a[e[s]]then n=n+1;else n=e[d];end;break;end;local m,f;a[e[s]]=t[e[d]];n=n+1;e=_[n];m=e[s];f=a[e[d]];a[m+1]=f;a[m]=f[e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];m=e[s]a[m](z(a,m+1,e[d]))n=n+1;e=_[n];a[e[s]]=t[e[d]];n=n+1;e=_[n];m=e[s];f=a[e[d]];a[m+1]=f;a[m]=f[e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];until true;else local m,f;a[e[s]]=t[e[d]];n=n+1;e=_[n];m=e[s];f=a[e[d]];a[m+1]=f;a[m]=f[e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];m=e[s]a[m](z(a,m+1,e[d]))n=n+1;e=_[n];a[e[s]]=t[e[d]];n=n+1;e=_[n];m=e[s];f=a[e[d]];a[m+1]=f;a[m]=f[e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];end else if 101~=m then a[e[s]][e[d]]=a[e[l]];else local m;for f=0,6 do if 3>f then if 0<f then if f==2 then m=e[s]a[m]=a[m](z(a,m+1,e[d]))n=n+1;e=_[n];else a[e[s]]=a[e[d]]/e[l];n=n+1;e=_[n];end else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end else if 5>f then if 4>f then a[e[s]]=t[e[d]];n=n+1;e=_[n];else m=e[s]a[m]=a[m]()n=n+1;e=_[n];end else if 6==f then a[e[s]]=a[e[d]]-a[e[l]];else a[e[s]]=h[e[d]];n=n+1;e=_[n];end end end end end end end else if 93<m then if 94>=m then a[e[s]]=e[d]-a[e[l]];else if m>93 then repeat if 95~=m then local s=e[s];local l=e[l];local _=s+2 local s={a[s](a[s+1],a[_])};for e=1,l do a[_+e]=s[e];end;local s=s[1]if s then a[_]=s n=e[d];else n=n+1;end;break;end;a[e[s]]=e[d]/a[e[l]];until true;else a[e[s]]=e[d]/a[e[l]];end end else if 91<m then if m>89 then for z=43,82 do if 93~=m then for m=0,6 do if m<=2 then if 0<m then if m~=0 then repeat if m<2 then a[e[s]]=a[e[d]]-a[e[l]];n=n+1;e=_[n];break;end;a[e[s]]=t[e[d]];n=n+1;e=_[n];until true;else a[e[s]]=t[e[d]];n=n+1;e=_[n];end else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end else if 5<=m then if m<6 then a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];else a[e[s]]=a[e[d]]*a[e[l]];end else if-1<=m then for z=34,52 do if 3<m then a[e[s]]=t[e[d]];n=n+1;e=_[n];break;end;a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];break;end;else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end end end end break;end;local m;a[e[s]]=t[e[d]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]]*a[e[l]];n=n+1;e=_[n];m=e[s]a[m]=a[m](a[m+1])n=n+1;e=_[n];a[e[s]]=e[d]*a[e[l]];n=n+1;e=_[n];a[e[s]]=e[d]-a[e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]]*a[e[l]];break;end;else local m;a[e[s]]=t[e[d]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]]*a[e[l]];n=n+1;e=_[n];m=e[s]a[m]=a[m](a[m+1])n=n+1;e=_[n];a[e[s]]=e[d]*a[e[l]];n=n+1;e=_[n];a[e[s]]=e[d]-a[e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]]*a[e[l]];end else local c,o,u,r,b,k,m,f,h;for m=0,6 do if m>2 then if 5>m then if-1~=m then for t=41,93 do if 3~=m then a[e[s]]=a[e[d]];n=n+1;e=_[n];break;end;f=e[s];h=a[e[d]];a[f+1]=h;a[f]=h[e[l]];n=n+1;e=_[n];break;end;else a[e[s]]=a[e[d]];n=n+1;e=_[n];end else if m~=5 then a[e[s]]=t[e[d]];else f=e[s]a[f](z(a,f+1,e[d]))n=n+1;e=_[n];end end else if 1>m then m=0;while m>-1 do if 3>=m then if m<2 then if-2~=m then repeat if 0~=m then o=s;break;end;c=e;until true;else o=s;end else if m~=0 then for e=11,63 do if m>2 then r=a;break;end;u=d;break;end;else r=a;end end else if m>5 then if 2~=m then for e=41,58 do if m~=7 then a[k]=b;break;end;m=-2;break;end;else m=-2;end else if m>4 then k=c[o];else b=r[c[u]];end end end m=m+1 end n=n+1;e=_[n];else if 0<m then for l=47,67 do if 2~=m then f=e[s]a[f](z(a,f+1,e[d]))n=n+1;e=_[n];break;end;a[e[s]]=t[e[d]];n=n+1;e=_[n];break;end;else f=e[s]a[f](z(a,f+1,e[d]))n=n+1;e=_[n];end end end end end end end end else if m<65 then if 58>m then if 55<=m then if 55<m then if m~=55 then for f=24,79 do if 57>m then for m=0,3 do if m<2 then if m~=1 then a[e[s]]=(e[d]~=0);n=n+1;e=_[n];else t[e[d]]=a[e[s]];n=n+1;e=_[n];end else if m>2 then if(a[e[s]]~=e[l])then n=n+1;else n=e[d];end;else a[e[s]]=t[e[d]];n=n+1;e=_[n];end end end break;end;local m,t;a[e[s]][e[d]]=e[l];n=n+1;e=_[n];a[e[s]][e[d]]=e[l];n=n+1;e=_[n];m=e[s]a[m]=a[m](z(a,m+1,e[d]))n=n+1;e=_[n];a[e[s]]={};n=n+1;e=_[n];m=e[s];t=a[e[d]];a[m+1]=t;a[m]=t[e[l]];n=n+1;e=_[n];a(e[s],e[d]);n=n+1;e=_[n];m=e[s]a[m]=a[m](z(a,m+1,e[d]))break;end;else for m=0,3 do if m<2 then if m~=1 then a[e[s]]=(e[d]~=0);n=n+1;e=_[n];else t[e[d]]=a[e[s]];n=n+1;e=_[n];end else if m>2 then if(a[e[s]]~=e[l])then n=n+1;else n=e[d];end;else a[e[s]]=t[e[d]];n=n+1;e=_[n];end end end end else a[e[s]]=(e[d]~=0);end else if 53>m then a[e[s]]=b(k[e[d]],nil,t);else if m>=51 then repeat if m~=53 then local t,f;for m=0,6 do if m>2 then if 4>=m then if 1<=m then for l=16,81 do if 3<m then a[e[s]]={};n=n+1;e=_[n];break;end;a(e[s],e[d]);n=n+1;e=_[n];break;end;else a[e[s]]={};n=n+1;e=_[n];end else if 2<m then repeat if m<6 then a[e[s]][e[d]]=e[l];n=n+1;e=_[n];break;end;a[e[s]][e[d]]=a[e[l]];until true;else a[e[s]][e[d]]=e[l];n=n+1;e=_[n];end end else if 0>=m then a[e[s]][e[d]]=a[e[l]];n=n+1;e=_[n];else if-3~=m then repeat if 2>m then t=e[s]a[t](z(a,t+1,e[d]))n=n+1;e=_[n];break;end;t=e[s];f=a[e[d]];a[t+1]=f;a[t]=f[e[l]];n=n+1;e=_[n];until true;else t=e[s];f=a[e[d]];a[t+1]=f;a[t]=f[e[l]];n=n+1;e=_[n];end end end end break;end;local m,t;m=e[s]a[m](z(a,m+1,e[d]))n=n+1;e=_[n];m=e[s];t=a[e[d]];a[m+1]=t;a[m]=t[e[l]];n=n+1;e=_[n];a(e[s],e[d]);n=n+1;e=_[n];a[e[s]]={};n=n+1;e=_[n];a[e[s]][e[d]]=e[l];n=n+1;e=_[n];a[e[s]][e[d]]=e[l];n=n+1;e=_[n];a[e[s]][e[d]]=e[l];until true;else local m,t;m=e[s]a[m](z(a,m+1,e[d]))n=n+1;e=_[n];m=e[s];t=a[e[d]];a[m+1]=t;a[m]=t[e[l]];n=n+1;e=_[n];a(e[s],e[d]);n=n+1;e=_[n];a[e[s]]={};n=n+1;e=_[n];a[e[s]][e[d]]=e[l];n=n+1;e=_[n];a[e[s]][e[d]]=e[l];n=n+1;e=_[n];a[e[s]][e[d]]=e[l];end end end else if m<=60 then if m<=58 then for m=0,4 do if m>1 then if 2<m then if m==4 then if(a[e[s]]==a[e[l]])then n=n+1;else n=e[d];end;else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end else if m~=-2 then for z=30,57 do if 1~=m then a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];break;end;a[e[s]]=t[e[d]];n=n+1;e=_[n];break;end;else a[e[s]]=t[e[d]];n=n+1;e=_[n];end end end else if m>59 then local m;a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]]+a[e[l]];n=n+1;e=_[n];m=e[s]a[m]=a[m](z(a,m+1,e[d]))n=n+1;e=_[n];a[e[s]][e[d]]=a[e[l]];n=n+1;e=_[n];do return end;else local m,f;a[e[s]]=t[e[d]];n=n+1;e=_[n];m=e[s];f=a[e[d]];a[m+1]=f;a[m]=f[e[l]];n=n+1;e=_[n];a(e[s],e[d]);n=n+1;e=_[n];m=e[s]a[m]=a[m](z(a,m+1,e[d]))n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];m=e[s];f=a[e[d]];a[m+1]=f;a[m]=f[e[l]];end end else if m>=63 then if m~=59 then for f=39,56 do if m>63 then for m=0,2 do if m<1 then a[e[s]][e[d]]=e[l];n=n+1;e=_[n];else if-1<=m then repeat if m~=2 then a[e[s]][e[d]]=e[l];n=n+1;e=_[n];break;end;a[e[s]][e[d]]=e[l];until true;else a[e[s]][e[d]]=e[l];end end end break;end;local m,f;m=e[s]a[m](z(a,m+1,e[d]))n=n+1;e=_[n];a(e[s],e[d]);n=n+1;e=_[n];a[e[s]]=t[e[d]];n=n+1;e=_[n];a[e[s]]=t[e[d]];n=n+1;e=_[n];m=e[s];f=a[e[d]];a[m+1]=f;a[m]=f[e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]];n=n+1;e=_[n];a(e[s],e[d]);break;end;else local m,f;m=e[s]a[m](z(a,m+1,e[d]))n=n+1;e=_[n];a(e[s],e[d]);n=n+1;e=_[n];a[e[s]]=t[e[d]];n=n+1;e=_[n];a[e[s]]=t[e[d]];n=n+1;e=_[n];m=e[s];f=a[e[d]];a[m+1]=f;a[m]=f[e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]];n=n+1;e=_[n];a(e[s],e[d]);end else if 62==m then local m;a[e[s]]=t[e[d]];n=n+1;e=_[n];a(e[s],e[d]);n=n+1;e=_[n];m=e[s]a[m](a[m+1])n=n+1;e=_[n];a[e[s]]=h[e[d]];n=n+1;e=_[n];a[e[s]][e[d]]=e[l];n=n+1;e=_[n];do return end;else local m,f;for t=0,2 do if t<=0 then m=e[s]a[m](z(a,m+1,e[d]))n=n+1;e=_[n];else if t>-1 then for z=22,82 do if 1<t then m=e[s];f=a[e[d]];a[m+1]=f;a[m]=f[e[l]];break;end;a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];break;end;else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end end end end end end end else if m<71 then if 68>m then if 65<m then if 63<m then repeat if 66~=m then local s=e[s]local d={a[s](z(a,s+1,r))};local n=0;for e=s,e[l]do n=n+1;a[e]=d[n];end break;end;for m=0,6 do if 2>=m then if m>=1 then if m>0 then repeat if 2>m then a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];break;end;a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];until true;else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end else if 5<=m then if 5~=m then a[e[s]]=t[e[d]];else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end else if m~=0 then repeat if m>3 then a[e[s]]=t[e[d]];n=n+1;e=_[n];break;end;a[e[s]]=a[e[d]]-a[e[l]];n=n+1;e=_[n];until true;else a[e[s]]=a[e[d]]-a[e[l]];n=n+1;e=_[n];end end end end until true;else for m=0,6 do if 2>=m then if m>=1 then if m>0 then repeat if 2>m then a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];break;end;a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];until true;else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end else if 5<=m then if 5~=m then a[e[s]]=t[e[d]];else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end else if m~=0 then repeat if m>3 then a[e[s]]=t[e[d]];n=n+1;e=_[n];break;end;a[e[s]]=a[e[d]]-a[e[l]];n=n+1;e=_[n];until true;else a[e[s]]=a[e[d]]-a[e[l]];n=n+1;e=_[n];end end end end end else local e=e[s]a[e](a[e+1])end else if m>=69 then if m~=67 then repeat if 70~=m then local l;for m=0,1 do if m~=1 then a[e[s]]=a[e[d]];n=n+1;e=_[n];else l=e[s]a[l](z(a,l+1,e[d]))end end break;end;local m,h;for f=0,6 do if f>=3 then if f<=4 then if f>-1 then for z=22,64 do if f~=3 then a[e[s]]=t[e[d]];n=n+1;e=_[n];break;end;m=e[s];h=a[e[d]];a[m+1]=h;a[m]=h[e[l]];n=n+1;e=_[n];break;end;else a[e[s]]=t[e[d]];n=n+1;e=_[n];end else if 5<f then m=e[s]a[m]=a[m](z(a,m+1,e[d]))else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end end else if f<=0 then m=e[s];h=a[e[d]];a[m+1]=h;a[m]=h[e[l]];n=n+1;e=_[n];else if f==1 then a(e[s],e[d]);n=n+1;e=_[n];else m=e[s]a[m]=a[m](z(a,m+1,e[d]))n=n+1;e=_[n];end end end end until true;else local l;for m=0,1 do if m~=1 then a[e[s]]=a[e[d]];n=n+1;e=_[n];else l=e[s]a[l](z(a,l+1,e[d]))end end end else a(e[s],e[d]);end end else if m<74 then if 71>=m then local e=e[s]a[e](a[e+1])else if 73==m then local t;for m=0,6 do if 3>m then if 1<=m then if m>=-3 then for l=30,59 do if m~=1 then t=e[s]a[t]=a[t](z(a,t+1,e[d]))n=n+1;e=_[n];break;end;a[e[s]]=#a[e[d]];n=n+1;e=_[n];break;end;else t=e[s]a[t]=a[t](z(a,t+1,e[d]))n=n+1;e=_[n];end else a[e[s]]=h[e[d]];n=n+1;e=_[n];end else if 5>m then if-1<m then for l=26,62 do if 4>m then a[e[s]]=h[e[d]];n=n+1;e=_[n];break;end;a[e[s]]=#a[e[d]];n=n+1;e=_[n];break;end;else a[e[s]]=h[e[d]];n=n+1;e=_[n];end else if 2~=m then repeat if 6>m then a[e[s]]=a[e[d]]-e[l];n=n+1;e=_[n];break;end;a[e[s]]=a[e[d]]*a[e[l]];until true;else a[e[s]]=a[e[d]]-e[l];n=n+1;e=_[n];end end end end else local e=e[s]a[e]=a[e](z(a,e+1,r))end end else if 75<m then if 75<m then for f=18,95 do if m<77 then local f,h;for m=0,6 do if m<=2 then if m<1 then a[e[s]]=t[e[d]];n=n+1;e=_[n];else if m<2 then f=e[s];h=a[e[d]];a[f+1]=h;a[f]=h[e[l]];n=n+1;e=_[n];else a(e[s],e[d]);n=n+1;e=_[n];end end else if m<=4 then if m>2 then repeat if 4~=m then f=e[s]a[f]=a[f](z(a,f+1,e[d]))n=n+1;e=_[n];break;end;a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];until true;else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end else if m>4 then repeat if m~=6 then a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];break;end;if(a[e[s]]==a[e[l]])then n=n+1;else n=e[d];end;until true;else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end end end end break;end;local m,f;for t=0,2 do if t<1 then m=e[s]a[m](z(a,m+1,e[d]))n=n+1;e=_[n];else if-2<=t then repeat if 1<t then m=e[s];f=a[e[d]];a[m+1]=f;a[m]=f[e[l]];break;end;a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];until true;else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end end end break;end;else local m,f;for t=0,2 do if t<1 then m=e[s]a[m](z(a,m+1,e[d]))n=n+1;e=_[n];else if-2<=t then repeat if 1<t then m=e[s];f=a[e[d]];a[m+1]=f;a[m]=f[e[l]];break;end;a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];until true;else a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];end end end end else if m~=70 then for z=11,91 do if m<75 then h[e[d]]=a[e[s]];break;end;a[e[s]]=t[e[d]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=h[e[d]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]]/e[l];n=n+1;e=_[n];a[e[s]]=h[e[d]];break;end;else a[e[s]]=t[e[d]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=h[e[d]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]][e[l]];n=n+1;e=_[n];a[e[s]]=a[e[d]]/e[l];n=n+1;e=_[n];a[e[s]]=h[e[d]];end end end end end end end end n=1+n;end;end;return se end;local d=0xff;local t={};local l=(1);local s='';(function(n)local a=n local _=0x00 local e=0x00 a={(function(m)if _>0x21 then return m end _=_+1 e=(e+0x7f9-m)%0x2c return(e%0x03==0x0 and(function(a)if not n[a]then e=e+0x01 n[a]=(0xe5);end return true end)'OrnYF'and a[0x2](0x10b+m))or(e%0x03==0x1 and(function(a)if not n[a]then e=e+0x01 n[a]=(0x25);end return true end)'PPvly'and a[0x1](m+0x74))or(e%0x03==0x2 and(function(a)if not n[a]then e=e+0x01 n[a]=(0x74);d[2]=(d[2]*(ee(function()t()end,z(s))-ee(d[1],z(s))))+1;t[l]={};d=d[2];l=l+d;end return true end)'CeXbc'and a[0x3](m+0x111))or m end),(function(m)if _>0x20 then return m end _=_+1 e=(e+0xaeb-m)%0x38 return(e%0x03==0x2 and(function(a)if not n[a]then e=e+0x01 n[a]=(0xc4);end return true end)'cklGh'and a[0x3](0x33d+m))or(e%0x03==0x1 and(function(a)if not n[a]then e=e+0x01 n[a]=(0x90);s={s..'\58 a',s};t[l]=ne();l=l+((not f.kJWaQcCZ)and 1 or 0);s[1]='\58'..s[1];d[2]=0xff;end return true end)'xjB_M'and a[0x1](m+0x1b9))or(e%0x03==0x0 and(function(a)if not n[a]then e=e+0x01 n[a]=(0xdb);s='\37';d={function()d()end};s=s..'\100\43';end return true end)'JuSBe'and a[0x2](m+0x293))or m end),(function(s)if _>0x1f then return s end _=_+1 e=(e+0xe1c-s)%0x14 return(e%0x03==0x1 and(function(a)if not n[a]then e=e+0x01 n[a]=(0x39);end return true end)'TprTP'and a[0x1](0x393+s))or(e%0x03==0x0 and(function(a)if not n[a]then e=e+0x01 n[a]=(0xf7);t[l]=se();l=l+d;end return true end)'BvHkb'and a[0x2](s+0x3db))or(e%0x03==0x2 and(function(a)if not n[a]then e=e+0x01 n[a]=(0xc0);end return true end)'ldBQn'and a[0x3](s+0x30f))or s end)}a[0x2](0x250d)end){};local e=b(z(t));return e(...);end return ne((function()local n={}local e=0x01;local a;if f.kJWaQcCZ then a=f.kJWaQcCZ(ne)else a=''end if f.wGMalhqX(a,f.szLpJvPP)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(a,e,n,s,d,_)local _;if a>3 then if a<=5 then if a==4 then local a=s;local m,l,s=d(2);do return function()local d,e,n,_=e(n,a(a,a),a(a,a)+3);a(4);return(_*m)+(n*l)+(e*s)+d;end;end;else local a=s;do return function()local e=e(n,a(a,a),a(a,a));a(1);return e;end;end;end else if 7<=a then if a==8 then do return n(a,nil,n);end else do return setmetatable({},{['__\99\97\108\108']=function(e,d,a,s,n)if n then return e[n]elseif s then return e else e[d]=a end end})end end else do return d[n]end;end end else if a<2 then if-2<a then for _=30,74 do if a~=1 then do return e(1),e(4,d,s,n,e),e(5,d,s,n)end;break;end;do return function(n,e,a)if a then local e=(n/2^(e-1))%2^((a-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(n%(e+e)>=e)and 1 or 0;end;end;end;break;end;else do return e(1),e(4,d,s,n,e),e(5,d,s,n)end;end else if 0<=a then for _=19,59 do if a~=2 then do return e(1),e(4,d,s,n,e),e(5,d,s,n)end;break;end;do return 16777216,65536,256 end;break;end;else do return e(1),e(4,d,s,n,e),e(5,d,s,n)end;end end end end),...)
+
+--[[
+		
+
+███╗░░██╗███████╗██████╗░██╗░░░██╗██╗░░░░░░█████╗░░░░████████╗███████╗░█████╗░██╗░░██╗
+████╗░██║██╔════╝██╔══██╗██║░░░██║██║░░░░░██╔══██╗░░░╚══██╔══╝██╔════╝██╔══██╗██║░░██║
+██╔██╗██║█████╗░░██████╦╝██║░░░██║██║░░░░░███████║░░░░░░██║░░░█████╗░░██║░░╚═╝███████║
+██║╚████║██╔══╝░░██╔══██╗██║░░░██║██║░░░░░██╔══██║░░░░░░██║░░░██╔══╝░░██║░░██╗██╔══██║
+██║░╚███║███████╗██████╦╝╚██████╔╝███████╗██║░░██║██╗░░░██║░░░███████╗╚█████╔╝██║░░██║
+╚═╝░░╚══╝╚══════╝╚═════╝░░╚═════╝░╚══════╝╚═╝░░╚═╝╚═╝░░░╚═╝░░░╚══════╝░╚════╝░╚═╝░░╚═╝
+
+// Fixed by @finobe 28/05/24 :^) \\ 
+
+
+Enjoy skidding this terrific code from april btw
+
+fixed target aim blah blah
+]]
+
+
+if not LPH_OBFUSCATED then
+    getfenv().LPH_NO_VIRTUALIZE = function(...) return (...) end;
+end
+
+local font = Enum.Font.Ubuntu;
+local Library = {};
+local Library = {
+	Open = true;
+	Folders = {
+		main = "test";
+		configs = "test/Configs";
+	};
+	Accent = Color3.fromRGB(132,108,188);
+	Pages = {};
+	Sections = {};
+	Flags = {};
+	UnNamedFlags = 0;
+	ThemeObjects = {};
+	Instances = {};
+	Holder = nil;
+	PageHolder = nil;
+	Gradient = nil;
+	UIGradient = nil;
+	CopiedColor = Color3.new(1,1,1);
+	CopiedAlpha = 0;
+	AllowedCharacters = {
+		[1] = ' ',
+		[2] = '!',
+		[3] = '"',
+		[4] = '#',
+		[5] = '$',
+		[6] = '%',
+		[7] = '&',
+		[8] = "'",
+		[9] = '(',
+		[10] = ')',
+		[11] = '*',
+		[12] = '+',
+		[13] = ',',
+		[14] = '-',
+		[15] = '.',
+		[16] = '/',
+		[17] = '0',
+		[18] = '1',
+		[19] = '2',
+		[20] = '3',
+		[21] = '4',
+		[22] = '5',
+		[23] = '6',
+		[24] = '7',
+		[25] = '8',
+		[26] = '9',
+		[27] = ':',
+		[28] = ';',
+		[29] = '<',
+		[30] = '=',
+		[31] = '>',
+		[32] = '?',
+		[33] = '@',
+		[34] = 'A',
+		[35] = 'B',
+		[36] = 'C',
+		[37] = 'D',
+		[38] = 'E',
+		[39] = 'F',
+		[40] = 'G',
+		[41] = 'H',
+		[42] = 'I',
+		[43] = 'J',
+		[44] = 'K',
+		[45] = 'L',
+		[46] = 'M',
+		[47] = 'N',
+		[48] = 'O',
+		[49] = 'P',
+		[50] = 'Q',
+		[51] = 'R',
+		[52] = 'S',
+		[53] = 'T',
+		[54] = 'U',
+		[55] = 'V',
+		[56] = 'W',
+		[57] = 'X',
+		[58] = 'Y',
+		[59] = 'Z',
+		[60] = '[',
+		[61] = "\\",
+		[62] = ']',
+		[63] = '^',
+		[64] = '_',
+		[65] = '`',
+		[66] = 'a',
+		[67] = 'b',
+		[68] = 'c',
+		[69] = 'd',
+		[70] = 'e',
+		[71] = 'f',
+		[72] = 'g',
+		[73] = 'h',
+		[74] = 'i',
+		[75] = 'j',
+		[76] = 'k',
+		[77] = 'l',
+		[78] = 'm',
+		[79] = 'n',
+		[80] = 'o',
+		[81] = 'p',
+		[82] = 'q',
+		[83] = 'r',
+		[84] = 's',
+		[85] = 't',
+		[86] = 'u',
+		[87] = 'v',
+		[88] = 'w',
+		[89] = 'x',
+		[90] = 'y',
+		[91] = 'z',
+		[92] = '{',
+		[93] = '|',
+		[94] = '}',
+		[95] = '~'
+	};
+	ShiftCharacters = {
+		["1"] = "!",
+		["2"] = "@",
+		["3"] = "#",
+		["4"] = "$",
+		["5"] = "%",
+		["6"] = "^",
+		["7"] = "&",
+		["8"] = "*",
+		["9"] = "(",
+		["0"] = ")",
+		["-"] = "_",
+		["="] = "+",
+		["["] = "{",
+		["\\"] = "|",
+		[";"] = ":",
+		["'"] = "\"",
+		[","] = "<",
+		["."] = ">",
+		["/"] = "?",
+		["`"] = "~"
+	};
+	Keys = {
+		[Enum.KeyCode.LeftShift] = "LShift",
+		[Enum.KeyCode.RightShift] = "RShift",
+		[Enum.KeyCode.LeftControl] = "LCtrl",
+		[Enum.KeyCode.RightControl] = "RCtrl",
+		[Enum.KeyCode.LeftAlt] = "LAlt",
+		[Enum.KeyCode.RightAlt] = "RAlt",
+		[Enum.KeyCode.CapsLock] = "Caps",
+		[Enum.KeyCode.One] = "1",
+		[Enum.KeyCode.Two] = "2",
+		[Enum.KeyCode.Three] = "3",
+		[Enum.KeyCode.Four] = "4",
+		[Enum.KeyCode.Five] = "5",
+		[Enum.KeyCode.Six] = "6",
+		[Enum.KeyCode.Seven] = "7",
+		[Enum.KeyCode.Eight] = "8",
+		[Enum.KeyCode.Nine] = "9",
+		[Enum.KeyCode.Zero] = "0",
+		[Enum.KeyCode.KeypadOne] = "Num1",
+		[Enum.KeyCode.KeypadTwo] = "Num2",
+		[Enum.KeyCode.KeypadThree] = "Num3",
+		[Enum.KeyCode.KeypadFour] = "Num4",
+		[Enum.KeyCode.KeypadFive] = "Num5",
+		[Enum.KeyCode.KeypadSix] = "Num6",
+		[Enum.KeyCode.KeypadSeven] = "Num7",
+		[Enum.KeyCode.KeypadEight] = "Num8",
+		[Enum.KeyCode.KeypadNine] = "Num9",
+		[Enum.KeyCode.KeypadZero] = "Num0",
+		[Enum.KeyCode.Minus] = "-",
+		[Enum.KeyCode.Equals] = "=",
+		[Enum.KeyCode.Tilde] = "~",
+		[Enum.KeyCode.LeftBracket] = "[",
+		[Enum.KeyCode.RightBracket] = "]",
+		[Enum.KeyCode.RightParenthesis] = ")",
+		[Enum.KeyCode.LeftParenthesis] = "(",
+		[Enum.KeyCode.Semicolon] = ",",
+		[Enum.KeyCode.Quote] = "'",
+		[Enum.KeyCode.BackSlash] = "\\",
+		[Enum.KeyCode.Comma] = ",",
+		[Enum.KeyCode.Period] = ".",
+		[Enum.KeyCode.Slash] = "/",
+		[Enum.KeyCode.Asterisk] = "*",
+		[Enum.KeyCode.Plus] = "+",
+		[Enum.KeyCode.Period] = ".",
+		[Enum.KeyCode.Backquote] = "`",
+		[Enum.UserInputType.MouseButton1] = "MB1",
+		[Enum.UserInputType.MouseButton2] = "MB2",
+		[Enum.UserInputType.MouseButton3] = "MB3"
+	};
+	Connections = {};
+	Font = Enum.Font.Ubuntu;
+	FontSize = 9;
+	Notifs = {};
+	KeyList = nil;
+	UIKey = Enum.KeyCode.End;
+	ScreenGUI = nil;
+}
+
+local InputService = game:GetService("UserInputService");
+local TeleportService = game:GetService("TeleportService");
+local RunService = game:GetService("RunService");
+local Workspace = game:GetService("Workspace");
+local Lighting = game:GetService("Lighting");
+local Players = game:GetService("Players");
+local HttpService = game:GetService("HttpService");
+local StarterGui = game:GetService("StarterGui");
+local ReplicatedStorage = game:GetService("ReplicatedStorage");
+local TweenService = game:GetService("TweenService");
+local VirtualUser = game:GetService("VirtualUser");
+local PathFindingService = game:GetService("PathfindingService");
+
+local utility = {
+	Circle = nil, 
+	bodyParts = {}, 
+	target = nil, 
+	angle = 0, 
+	drawings = {}, 
+	folders = {}
+};
+local framework = {connections = {}};
+local Flags = {}; 
+local flags = Library.Flags;
+local ESP = {};
+local IgnoreList = {};
+local HitReg = {};
+local loadingTime = tick() 
+local Visuals = {   
+    ["Drawings"] = {},
+	["Bases"] = {},
+	["Base"] = {},
+	["Settings"] = { 
+		["Line"] = {
+		    Thickness = 1,
+		    Color = Color3.fromRGB(0, 255, 0)
+	    },
+		["Text"] = {
+			Size = 13,
+			Center = true,
+			Outline = true,
+			Font = Drawing.Fonts.Plex,
+			Color = Color3.fromRGB(255, 255, 255)
+		},
+		["Square"] = {
+			Thickness = 1,
+			Color = Color3.fromRGB(255, 255, 255),
+			Filled = false,
+		},
+		["Triangle"] = {
+			Color = Color3.fromRGB(255, 255, 255),
+			Filled = true,
+			Visible = false,
+			Thickness = 1,
+		},
+		["Image"] = {
+			Transparency = 1,
+			Data = game:HttpGet("https://raw.githubusercontent.com/portallol/luna/main/Gradient.png")
+		}
+	},
+}
+local Sparkles = game:GetObjects("rbxassetid://16883621036")[1]; Sparkles.Parent = ReplicatedStorage;
+local SparklesEffect = Sparkles.LevelParticle;
+local sfx = {["Bameware"] = "16910460773",["Skeet"] = "4753603610",["Bonk"] = "3765689841",["Lazer Beam"] = "130791043",["Windows XP Error"] = "160715357",["TF2 Hitsound"] = "3455144981",["TF2 Critical"] = "296102734",["TF2 Bat"] = "3333907347",['Bow Hit'] = "1053296915",['Bow'] = "3442683707",['OSU'] = "7147454322",['Minecraft Hit'] = "4018616850",['Steve'] = "5869422451",['1nn'] = "7349055654",['Rust'] = "3744371091",["TF2 Pan"] = "3431749479",["Neverlose"] = "8679627751",["Mario"] = "5709456554",};
+local sfx_names = {"Bameware", "Skeet", "Bonk", "Lazer Beam", "Windows XP Error", "TF2 Hitsound", "TF2 Critical", "TF2 Bat", "Bow Hit", "Bow", "OSU", "Minecraft Hit", "Steve", "1nn", "Rust", "TF2 Pan", "Neverlose", "Mario"};
+local LocalPlayer = Players.LocalPlayer; 
+local Mouse = LocalPlayer:GetMouse();
+local Camera = Workspace.Camera;
+local viewportSize = game.Workspace.Camera.ViewportSize;
+local hitmodule = game:GetObjects("rbxassetid://7255773215")[1]; hitmodule.Parent = ReplicatedStorage;
+local Offset = game:GetService("GuiService"):GetGuiInset().Y;
+local Math = loadstring(game:HttpGet("https://pastebin.com/raw/xhT2X3cH"))(); 
+local NotifiactionSGui = Instance.new("ScreenGui", game.CoreGui); NotifiactionSGui.Enabled = true
+local Remote = ReplicatedStorage.MainEvent
+local NewVector2 = Vector2.new;
+local NewVector3 = Vector3.new;
+local NewCFrame = CFrame.new; 
+local Angle = CFrame.Angles; 
+local NewHex = Color3.fromHex;
+local Floor = math.floor;
+local Random = math.random; 
+local Find = table.find;
+local Round = math.round;
+local Cos = math.cos;
+local Sin = math.sin;
+local Rad = math.rad; 
+local Clamp = math.clamp; 
+local Ceil = math.ceil; 
+local Pi = math.pi;
+local Sqrt = math.sqrt;
+local Lighting_Save = {["ColorShift_Bottom"] = Lighting.ColorShift_Bottom, ["Ambient"]=Lighting.Ambient, ["OutdoorAmbient"]=Lighting.OutdoorAmbient, ["ColorShift_Top"]=Lighting.ColorShift_Top, ["FogColor"]=Lighting.FogColor, ["FogEnd"]=Lighting.FogEnd, ["FogStart"]=Lighting.FogStart, ["ClockTime"]=Lighting.ClockTime, ["Brightness"]=Lighting.Brightness}
+local bodyClone = game:GetObjects("rbxassetid://8246626421")[1]; bodyClone.Humanoid:Destroy(); bodyClone.Head.Face:Destroy(); bodyClone.Parent = game.Workspace; bodyClone.HumanoidRootPart.Velocity = Vector3.new(); bodyClone.HumanoidRootPart.CFrame = NewCFrame(9999,9999,9999); bodyClone.HumanoidRootPart.Transparency = 1; bodyClone.HumanoidRootPart.CanCollide = false 
+local visualizeChams = Instance.new("Highlight"); visualizeChams.Enabled = true; visualizeChams.DepthMode = Enum.HighlightDepthMode.AlwaysOnTop; visualizeChams.FillColor = Color3.fromRGB(102, 60, 153); visualizeChams.OutlineColor =  Color3.fromRGB(0, 0, 0); visualizeChams.Adornee = bodyClone; visualizeChams.OutlineTransparency = 0.2; visualizeChams.FillTransparency = 0.5; visualizeChams.Parent = game.CoreGui
+local targetHighlight = Instance.new("Highlight", game.CoreGui); targetHighlight.Enabled = true; targetHighlight.DepthMode = Enum.HighlightDepthMode.AlwaysOnTop; targetHighlight.FillColor = Color3.fromRGB(0,0,0); targetHighlight.OutlineColor = Color3.fromRGB(255,255,255); targetHighlight.OutlineTransparency = 0.5; targetHighlight.FillTransparency = 0;
+local IgnoreList = {};
+local Tween = {};
+local crosshair_Lines = {}; 
+local crosshair_Outlines = {}; 
+local C_Desync = {Enabled = false, OldPosition = nil, PredictedPosition = nil};
+local connections = {};
+local highlights = {};
+local Dropdowns = {}; 
+local Pickers = {}; 
+local VisValues = {}; 
+local Typing = false; 
+local aimAssistTarget; 
+local checks; 
+local prediction; 
+local partClosest; 
+local antiCheattick = 0; 
+local CursorSize = 0; 
+local statsTick = 0;
+local crosshair_LineAmount = 4;
+local crosshair_SpinAngle = 0; 
+local crosshair_tick = 0;
+local buying = false; 
+local PlaceHolderUI = Instance.new("ScreenGui", game.CoreGui);
+PlaceHolderUI.Enabled = false
+local Path = 
+	"https://raw.githubusercontent.com/fortniteisveryepic/assets/main/"
+local images = {
+	["[AK47]"] = game:HttpGet(Path.. "ak.png"),
+	["[AR]"] = game:HttpGet(Path.. "ar.png"),
+	["[AUG]"] = game:HttpGet(Path.. "aug.png"),
+	["[Double-Barrel SG]"] = game:HttpGet(Path.. "db.png"),
+	["[DrumGun]"] = game:HttpGet(Path.. "drumgun.png"),
+	["[Flamethrower]"] = game:HttpGet(Path.. "flame.png"),
+	["[Glock]"] = game:HttpGet(Path.. "glock.png"),
+	["[LMG]"] = game:HttpGet(Path.. "lmg.png"),
+	["[P90]"]= game:HttpGet(Path.. "p90.png"),
+	["[Revolver]"] = game:HttpGet(Path.. "rev.png"),
+	["[SMG]"] = game:HttpGet(Path.. "smg.png"),
+	["[Shotgun]"] = game:HttpGet(Path.. "shotgun.png"),
+	["[SilencerAR]"] = game:HttpGet(Path.. "ar.png"),
+	["[TacticalShotgun]"] = game:HttpGet(Path.. "tac.png"),
+	["[Knife]"] = game:HttpGet(Path.. "knife.png"),
+	["[Rifle]"] = game:HttpGet(Path.. "rifle.png")
+} 
+local Languages = {
+    A = {English = "A", Arabic = "أ", Albanian = "A", Japanese = "あ", Spanish = "A", Russian = "А", Chinese = "阿", Urdu = "ا", French = "A", Portuguese = "A", Hindi = "अ"},
+    B = {English = "B", Arabic = "ب", Albanian = "B", Japanese = "い", Spanish = "B", Russian = "Б", Chinese = "波", Urdu = "ب", French = "B", Portuguese = "B", Hindi = "ब"},
+    C = {English = "C", Arabic = "ت", Albanian = "C", Japanese = "う", Spanish = "C", Russian = "Ц", Chinese = "西", Urdu = "س", French = "C", Portuguese = "C", Hindi = "स"},
+    D = {English = "D", Arabic = "د", Albanian = "D", Japanese = "え", Spanish = "D", Russian = "Д", Chinese = "德", Urdu = "ڈ", French = "D", Portuguese = "D", Hindi = "ड"},
+    E = {English = "E", Arabic = "إ", Albanian = "E", Japanese = "お", Spanish = "E", Russian = "Е", Chinese = "俄", Urdu = "اے", French = "E", Portuguese = "E", Hindi = "ए"},
+    F = {English = "F", Arabic = "ف", Albanian = "F", Japanese = "か", Spanish = "F", Russian = "Ф", Chinese = "夫", Urdu = "ف", French = "F", Portuguese = "F", Hindi = "फ"},
+    G = {English = "G", Arabic = "ج", Albanian = "G", Japanese = "き", Spanish = "G", Russian = "Г", Chinese = "吉", Urdu = "ج", French = "G", Portuguese = "G", Hindi = "ग"},
+    H = {English = "H", Arabic = "ح", Albanian = "H", Japanese = "く", Spanish = "H", Russian = "Х", Chinese = "艾尺", Urdu = "ح", French = "H", Portuguese = "H", Hindi = "ह"},
+    I = {English = "I", Arabic = "ي", Albanian = "I", Japanese = "け", Spanish = "I", Russian = "И", Chinese = "伊", Urdu = "آئی", French = "I", Portuguese = "I", Hindi = "इ"},
+    J = {English = "J", Arabic = "ج", Albanian = "J", Japanese = "こ", Spanish = "J", Russian = "Й", Chinese = "杰", Urdu = "جے", French = "J", Portuguese = "J", Hindi = "ज"},
+    K = {English = "K", Arabic = "ك", Albanian = "K", Japanese = "さ", Spanish = "K", Russian = "К", Chinese = "开", Urdu = "کے", French = "K", Portuguese = "K", Hindi = "क"},
+    L = {English = "L", Arabic = "ل", Albanian = "L", Japanese = "し", Spanish = "L", Russian = "Л", Chinese = "艾勒", Urdu = "ل", French = "L", Portuguese = "L", Hindi = "ल"},
+    M = {English = "M", Arabic = "م", Albanian = "M", Japanese = "す", Spanish = "M", Russian = "М", Chinese = "艾马", Urdu = "م", French = "M", Portuguese = "M", Hindi = "म"},
+    N = {English = "N", Arabic = "ن", Albanian = "N", Japanese = "せ", Spanish = "N", Russian = "Н", Chinese = "艾娜", Urdu = "ن", French = "N", Portuguese = "N", Hindi = "न"},
+    O = {English = "O", Arabic = "أو", Albanian = "O", Japanese = "そ", Spanish = "O", Russian = "О", Chinese = "哦", Urdu = "او", French = "O", Portuguese = "O", Hindi = "ओ"},
+    P = {English = "P", Arabic = "ب", Albanian = "P", Japanese = "た", Spanish = "P", Russian = "П", Chinese = "屁", Urdu = "پ", French = "P", Portuguese = "P", Hindi = "प"},
+    Q = {English = "Q", Arabic = "ق", Albanian = "Q", Japanese = "ち", Spanish = "Q", Russian = "К", Chinese = "丘", Urdu = "ق", French = "Q", Portuguese = "Q", Hindi = "क्यू"},
+    R = {English = "R", Arabic = "ر", Albanian = "R", Japanese = "つ", Spanish = "R", Russian = "Р", Chinese = "艾儿", Urdu = "ر", French = "R", Portuguese = "R", Hindi = "र"},
+    S = {English = "S", Arabic = "س", Albanian = "S", Japanese = "て", Spanish = "S", Russian = "С", Chinese = "艾丝", Urdu = "س", French = "S", Portuguese = "S", Hindi = "एस"},
+    T = {English = "T", Arabic = "ت", Albanian = "T", Japanese = "と", Spanish = "T", Russian = "Т", Chinese = "提", Urdu = "ٹ", French = "T", Portuguese = "T", Hindi = "ट"},
+    U = {English = "U", Arabic = "أو", Albanian = "U", Japanese = "な", Spanish = "U", Russian = "У", Chinese = "优", Urdu = "یو", French = "U", Portuguese = "U", Hindi = "यू"},
+    V = {English = "V", Arabic = "ف", Albanian = "V", Japanese = "に", Spanish = "V", Russian = "В", Chinese = "维", Urdu = "وی", French = "V", Portuguese = "V", Hindi = "व"},
+    W = {English = "W", Arabic = "و", Albanian = "W", Japanese = "ぬ", Spanish = "W", Russian = "В", Chinese = "豆贝尔维", Urdu = "ڈبلیو", French = "W", Portuguese = "W", Hindi = "डब्ल्यू"},
+    X = {English = "X", Arabic = "إكس", Albanian = "X", Japanese = "ね", Spanish = "X", Russian = "Х", Chinese = "艾克斯", Urdu = "اکس", French = "X", Portuguese = "X", Hindi = "एक्स"},
+    Y = {English = "Y", Arabic = "ي", Albanian = "Y", Japanese = "の", Spanish = "Y", Russian = "У", Chinese = "伊儿", Urdu = "وائی", French = "Y", Portuguese = "Y", Hindi = "वाई"},
+    Z = {English = "Z", Arabic = "ز", Albanian = "Z", Japanese = "は", Spanish = "Z", Russian = "З", Chinese = "贼德", Urdu = "زیڈ", French = "Z", Portuguese = "Z", Hindi = "जेड"}
+}
+local utx = {} 
+local Messages = {}
+local drawingCache = {} 
+
+utility.folders["Part Chams"] = Instance.new("Folder", Workspace);
+utility.folders["Hit Chams"] = Instance.new("Folder", Workspace);
+Library.__index = Library;
+Library.Pages.__index = Library.Pages;
+Library.Sections.__index = Library.Sections;
+
+-- // Functions
+do 
+	-- // Library Functions
+	do
+		function Library:Connection(Signal, Callback)
+			local Con = Signal:Connect(Callback)
+			return Con
+		end
+		--  
+		function Library:updateNotifsPositions(position)
+			for i, v in pairs(Library.Notifs) do 
+				local Position = position == "Middle" and NewVector2(viewportSize.X/2 - (v["Objects"][3].TextBounds.X + 4)/2,600) or NewVector2(20, 20)
+				game:GetService("TweenService"):Create(v.Container, TweenInfo.new(0.25, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {Position = UDim2.new(0,Position.X,0,Position.Y + (i * 25))}):Play()
+			end 
+		end
+		-- 
+		function Library:Notification(message, duration, color, position)
+			local notification = {Container = nil, Objects = {}}
+			-- 
+			local NotifContainer = Instance.new('Frame', NotifiactionSGui)
+			local Background = Instance.new('Frame', NotifContainer)
+			local Outline = Instance.new('Frame', Background)
+			local UIStroke = Instance.new('UIStroke', Outline)
+			local TextLabel = Instance.new('TextLabel', Background)
+			local Accemt = Instance.new('Frame', Background)
+			local Progress = Instance.new('Frame', Background)
+			--
+			local Position = position == "Middle" and NewVector2(viewportSize.X/2 - (TextLabel.TextBounds.X + 4)/2, 600) or NewVector2(20, 20)
+			--
+			NotifContainer.Name = "NotifContainer"
+			NotifContainer.Position = UDim2.new(0,Position.X, 0, Position.Y)
+			NotifContainer.Size = UDim2.new(0,TextLabel.TextBounds.X + 4,0,20)
+			NotifContainer.BackgroundColor3 = Color3.new(1,1,1)
+			NotifContainer.BackgroundTransparency = 1
+			NotifContainer.BorderSizePixel = 0
+			NotifContainer.BorderColor3 = Color3.new(0,0,0)
+			NotifContainer.ZIndex = 99999999
+			notification.Container = NotifContainer
+			--
+			Background.Name = "Background"
+			Background.Size = UDim2.new(1,0,1,0)
+			Background.BackgroundColor3 = Color3.new(0.0588,0.0588,0.0784)
+			Background.BorderColor3 = Color3.new(0.1373,0.1373,0.1569)
+			table.insert(notification.Objects, Background)
+			--
+			Outline.Name = "Outline"
+			Outline.Position = UDim2.new(0,-1,0,-1)
+			Outline.Size = UDim2.new(1,2,1,2)
+			Outline.BackgroundColor3 = Color3.new(1,1,1)
+			Outline.BackgroundTransparency = 1
+			Outline.BorderSizePixel = 0
+			Outline.BorderColor3 = Color3.new(0,0,0)
+			table.insert(notification.Objects, Outline)
+			--
+			TextLabel.Name = "TextLabel"
+			TextLabel.Position = UDim2.new(0,1,0,0)
+			TextLabel.Size = UDim2.new(1,0,1,0)
+			TextLabel.BackgroundColor3 = Color3.new(1,1,1)
+			TextLabel.BackgroundTransparency = 1
+			TextLabel.BorderSizePixel = 0
+			TextLabel.BorderColor3 = Color3.new(0,0,0)
+			TextLabel.Text = message
+			TextLabel.TextColor3 = Color3.new(0.9216,0.9216,0.9216)
+			TextLabel.FontFace = Font.new("rbxassetid://12187371840")
+			TextLabel.TextSize = Library.FontSize
+			TextLabel.AutomaticSize = Enum.AutomaticSize.X
+			TextLabel.TextXAlignment = Enum.TextXAlignment.Left
+			table.insert(notification.Objects, TextLabel)
+			--
+			Accemt.Name = "Accemt"
+			Accemt.Size = UDim2.new(1,0,0,1)
+			Accemt.BackgroundColor3 = Library.Accent
+			Accemt.BorderSizePixel = 0
+			Accemt.BorderColor3 = Color3.new(0,0,0)
+			table.insert(notification.Objects, Accemt)
+			--
+			Progress.Name = "Progress"
+			Progress.Position = UDim2.new(0,0,1,-1)
+			Progress.Size = UDim2.new(0,0,0,1)
+			Progress.BackgroundColor3 = Color3.new(1,0,0)
+			Progress.BorderSizePixel = 0
+			Progress.BorderColor3 = Color3.new(0,0,0)
+			table.insert(notification.Objects, Progress)
+		
+			if color ~= nil then
+				Progress.BackgroundColor3 = color
+				Accemt.BackgroundColor3 = color
+			end
+		
+			function notification:remove()
+				table.remove(Library.Notifs, table.find(Library.Notifs, notification))
+				Library:updateNotifsPositions(position)
+				notification.Container:Destroy()
+			end
+		
+			task.spawn(function()
+				Background.AnchorPoint = NewVector2(1,0)
+				local Tween1 = game:GetService("TweenService"):Create(Background, TweenInfo.new(0.25, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {AnchorPoint = NewVector2(0,0)}):Play()
+				local Tween2 = game:GetService("TweenService"):Create(Progress, TweenInfo.new(duration or 5, Enum.EasingStyle.Linear, Enum.EasingDirection.Out), {Size = UDim2.new(1,0,0,1)}):Play()
+				game:GetService("TweenService"):Create(Progress, TweenInfo.new(duration or 5, Enum.EasingStyle.Linear, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.new(0,1,0)}):Play()
+				task.wait(duration)
+				game:GetService("TweenService"):Create(Background, TweenInfo.new(0.25, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {AnchorPoint = NewVector2(1,0)}):Play()
+				for i,v in next, notification.Objects do
+					game:GetService("TweenService"):Create(v, TweenInfo.new(0.25, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {BackgroundTransparency = 1}):Play()
+				end
+				game:GetService("TweenService"):Create(TextLabel, TweenInfo.new(0.25, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {TextTransparency = 1}):Play()
+				game:GetService("TweenService"):Create(UIStroke, TweenInfo.new(0.25, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {Transparency = 1}):Play()
+			end)
+		
+			task.delay(0.25 + duration + 0.25, function()
+				notification:remove()
+			end)
+		
+			table.insert(Library.Notifs, notification)
+			NotifContainer.Position = UDim2.new(0,Position.X,0,Position.Y + (table.find(Library.Notifs, notification) * 25))
+			NotifContainer.Size = UDim2.new(0,TextLabel.TextBounds.X + 4,0,18)
+			Library:updateNotifsPositions(position)
+
+			return notification
+		end
+		--
+		function Library:Disconnect(Connection)
+			Connection:Disconnect()
+		end
+		--
+		function Library:Round(Number, Float)
+			return Float * math.floor(Number / Float)
+		end
+		--
+		function Library.NextFlag()
+			Library.UnNamedFlags = Library.UnNamedFlags + 1
+			return string.format("%.14g", Library.UnNamedFlags)
+		end
+		--
+		function Library:GetConfig()
+			local Config = ""
+			for Index, Value in pairs(self.Flags) do
+				if
+					Index ~= "ConfigConfig_List"
+					and Index ~= "ConfigConfig_Load"
+					and Index ~= "ConfigConfig_Save"
+				then
+					local Value2 = Value
+					local Final = ""
+					--
+					if typeof(Value2) == "Color3" then
+						local hue, sat, val = Value2:ToHSV()
+						--
+						Final = ("rgb(%s,%s,%s,%s)"):format(hue, sat, val, 1)
+					elseif typeof(Value2) == "table" and Value2.Color and Value2.Transparency then
+						local hue, sat, val = Value2.Color:ToHSV()
+						--
+						Final = ("rgb(%s,%s,%s,%s)"):format(hue, sat, val, Value2.Transparency)
+					elseif typeof(Value2) == "table" and Value.Mode then
+						local Values = Value.current
+						--
+						Final = ("key(%s,%s,%s)"):format(Values[1] or "nil", Values[2] or "nil", Value.Mode)
+					elseif Value2 ~= nil then
+						if typeof(Value2) == "boolean" then
+							Value2 = ("bool(%s)"):format(tostring(Value2))
+						elseif typeof(Value2) == "table" then
+							local New = "table("
+							--
+							for Index2, Value3 in pairs(Value2) do
+								New = New .. Value3 .. ","
+							end
+							--
+							if New:sub(#New) == "," then
+								New = New:sub(0, #New - 1)
+							end
+							--
+							Value2 = New .. ")"
+						elseif typeof(Value2) == "string" then
+							Value2 = ("string(%s)"):format(Value2)
+						elseif typeof(Value2) == "number" then
+							Value2 = ("number(%s)"):format(Value2)
+						end
+						--
+						Final = Value2
+					end
+					--
+					Config = Config .. Index .. ": " .. tostring(Final) .. "\n"
+				end
+			end
+			--
+			return Config
+		end
+		--
+		function Library:LoadConfig(Config)
+			for i = 1, 10 do 
+				local Table = string.split(Config, "\n")
+				local Table2 = {}
+				for Index, Value in pairs(Table) do
+					local Table3 = string.split(Value, ":")
+					--
+					if Table3[1] ~= "ConfigConfig_List" and #Table3 >= 2 then
+						local Value = Table3[2]:sub(2, #Table3[2])
+						--
+						if Value:sub(1, 3) == "rgb" then
+							local Table4 = string.split(Value:sub(5, #Value - 1), ",")
+							--
+							Value = Table4
+						elseif Value:sub(1, 3) == "key" then
+							local Table4 = string.split(Value:sub(5, #Value - 1), ",")
+							--
+							if Table4[1] == "nil" and Table4[2] == "nil" then
+								Table4[1] = nil
+								Table4[2] = nil
+							end
+							--
+							Value = Table4
+						elseif Value:sub(1, 4) == "bool" then
+							local Bool = Value:sub(6, #Value - 1)
+							--
+							Value = Bool == "true"
+						elseif Value:sub(1, 5) == "table" then
+							local Table4 = string.split(Value:sub(7, #Value - 1), ",")
+							--
+							Value = Table4
+						elseif Value:sub(1, 6) == "string" then
+							local String = Value:sub(8, #Value - 1)
+							--
+							Value = String
+						elseif Value:sub(1, 6) == "number" then
+							local Number = tonumber(Value:sub(8, #Value - 1))
+							--
+							Value = Number
+						end
+						--
+						Table2[Table3[1]] = Value
+					end
+				end 
+				--
+				for i, v in pairs(Table2) do
+					if Flags[i] then
+						if typeof(Flags[i]) == "table" then
+							Flags[i]:Set(v)
+						else
+							Flags[i](v)
+						end
+					end
+				end
+			end
+		end
+		--
+		function Library:SetOpen(bool)
+			if typeof(bool) == 'boolean' then
+				Library.Open = bool;
+				Library.Holder.Visible = bool;
+			end
+		end;
+		--
+		function Library:ChangeAccent(Color)
+			Library.Accent = Color
+
+			for obj, theme in next, Library.ThemeObjects do
+				if theme:IsA("Frame") or theme:IsA("TextButton") then
+					theme.BackgroundColor3 = Color
+				elseif theme:IsA("TextLabel") then
+					theme.TextColor3 = Color
+				elseif theme:IsA("TextButton") and theme.BackgroundTransparency == 1 then
+					theme.TextColor3 = Color
+				end
+			end
+		end
+		--
+		function Library:IsMouseOverFrame(Frame)
+			local AbsPos, AbsSize = Frame.AbsolutePosition, Frame.AbsoluteSize;
+
+			if Mouse.X >= AbsPos.X and Mouse.X <= AbsPos.X + AbsSize.X
+				and Mouse.Y >= AbsPos.Y and Mouse.Y <= AbsPos.Y + AbsSize.Y then
+
+				return true;
+			end;
+		end;
+		-- 
+		function Library:KeybindList()
+			local KeyList = {Keybinds = {}};
+			Library.KeyList = KeyList
+			--
+			local KeyOutline = Instance.new('Frame', PlaceHolderUI)
+			local KeyInline = Instance.new('Frame', KeyOutline)
+			local KeyAccent = Instance.new('Frame', KeyInline)
+			local KeyHolder = Instance.new('Frame', KeyInline)
+			local UIListLayout = Instance.new('UIListLayout', KeyHolder)
+			local KeyTitle = Instance.new('TextLabel', KeyInline)
+			local LineThing = Instance.new('Frame', KeyInline)
+			--
+			KeyOutline.Name = "KeyOutline"
+			KeyOutline.Position = UDim2.new(0.01,0,0.5,0)
+			KeyOutline.BackgroundColor3 = Color3.new(0.1765,0.1765,0.1765)
+			KeyOutline.BorderColor3 = Color3.new(0.0392,0.0392,0.0392)
+			KeyOutline.AnchorPoint = NewVector2(0.009999999776482582,0.5)
+			KeyOutline.AutomaticSize = Enum.AutomaticSize.XY
+			--
+			KeyInline.Name = "KeyInline"
+			KeyInline.Position = UDim2.new(0,1,0,1)
+			KeyInline.Size = UDim2.new(0,-2,0,-2)
+			KeyInline.BackgroundColor3 = Color3.new(0.0745,0.0745,0.0745)
+			KeyInline.BorderSizePixel = 0
+			KeyInline.BorderColor3 = Color3.new(0,0,0)
+			KeyInline.AutomaticSize = Enum.AutomaticSize.XY
+			--
+			KeyAccent.Name = "KeyAccent"
+			KeyAccent.Size = UDim2.new(1,0,0,1)
+			KeyAccent.BackgroundColor3 = Library.Accent
+			KeyAccent.BorderSizePixel = 0
+			KeyAccent.BorderColor3 = Color3.new(0,0,0)
+			--
+			KeyHolder.Name = "KeyHolder"
+			KeyHolder.Position = UDim2.new(0,0,0,22)
+			KeyHolder.BackgroundColor3 = Color3.new(1,1,1)
+			KeyHolder.BackgroundTransparency = 1
+			KeyHolder.BorderSizePixel = 0
+			KeyHolder.BorderColor3 = Color3.new(0,0,0)
+			KeyHolder.AutomaticSize = Enum.AutomaticSize.XY
+			--
+			UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+			--
+			KeyTitle.Name = "KeyTitle"
+			KeyTitle.Size = UDim2.new(1,0,0,20)
+			KeyTitle.BackgroundColor3 = Color3.new(1,1,1)
+			KeyTitle.BackgroundTransparency = 1
+			KeyTitle.BorderSizePixel = 0
+			KeyTitle.BorderColor3 = Color3.new(0,0,0)
+			KeyTitle.Text = "Keybinds"
+			KeyTitle.TextColor3 = Color3.new(1,1,1)
+			KeyTitle.FontFace = Font.new("rbxassetid://12187371840")
+			KeyTitle.TextSize = 12
+			KeyTitle.TextStrokeTransparency = 0
+			--
+			LineThing.Name = "LineThing"
+			LineThing.Position = UDim2.new(0,0,0,20)
+			LineThing.Size = UDim2.new(1,0,0,1)
+			LineThing.BackgroundColor3 = Color3.new(0.1765,0.1765,0.1765)
+			LineThing.BorderSizePixel = 0
+			LineThing.BorderColor3 = Color3.new(0,0,0)
+			-- Functions
+			function KeyList:SetVisible(State)
+				KeyOutline.Visible = State;
+			end;
+			--
+			function KeyList:NewKey(Name, Key, Mode)
+				local KeyValue = {}
+				--
+				local NewValue = Instance.new('TextLabel', KeyHolder)
+				--
+				NewValue.Name = "NewValue"
+				NewValue.Size = UDim2.new(0,0,0,15)
+				NewValue.BackgroundColor3 = Color3.new(1,1,1)
+				NewValue.BackgroundTransparency = 1
+				NewValue.BorderSizePixel = 0
+				NewValue.BorderColor3 = Color3.new(0,0,0)
+				NewValue.Text = tostring(" ["..Key.."] " .. Name .. " (" .. Mode ..") ")
+				NewValue.TextColor3 = Color3.new(1,1,1)
+				NewValue.FontFace = Font.new("rbxassetid://12187371840")
+				NewValue.TextSize = 12
+				NewValue.AutomaticSize = Enum.AutomaticSize.X
+				NewValue.TextXAlignment = Enum.TextXAlignment.Left
+				NewValue.Visible = false
+				--
+				function KeyValue:SetVisible(State)
+					NewValue.Visible = State;
+				end;
+				--
+				function KeyValue:Update(NewName, NewKey, NewMode)
+					NewValue.Text = tostring(" ["..NewName.."] " .. NewKey .. " (" .. NewMode ..") ")
+				end;
+				return KeyValue
+			end;
+			return KeyList
+		end
+	end
+	-- // Color Picker Functions
+	do
+		function Library:NewPicker(name, default, defaultalpha, parent, count, flag, callback)
+			-- // Instances
+			local Icon = Instance.new('TextButton', parent)
+			local IconInline = Instance.new('Frame', Icon)
+			local ColorWindow = Instance.new('Frame', parent)
+			local WindowInline = Instance.new('Frame', ColorWindow)
+			local Color = Instance.new('TextButton', WindowInline)
+			local Sat = Instance.new('ImageLabel', Color)
+			local Val = Instance.new('ImageLabel', Color)
+			local Pointer = Instance.new('Frame', Color)
+			local Container = Instance.new('Frame', Color)
+			local ColorOutline = Instance.new('Frame', Color)
+			local UIStroke = Instance.new('UIStroke', ColorOutline)
+			local Hue = Instance.new('ImageButton', Color)
+			local HueOutline = Instance.new('Frame', Hue)
+			local UIStroke2 = Instance.new('UIStroke', HueOutline)
+			local Alpha = Instance.new('ImageButton', Color)
+			local AlphaOutline = Instance.new('Frame', Alpha)
+			local UIStroke3 = Instance.new('UIStroke', AlphaOutline)
+			local HueSlide = Instance.new('Frame', Hue)
+			local AlphaSlide = Instance.new('Frame', Alpha)
+			local ModeOutline = Instance.new('Frame', parent)
+			local ModeInline = Instance.new('Frame', ModeOutline)
+			local UIListLayout = Instance.new('UIListLayout', ModeInline)
+			local Hold = Instance.new('TextButton', ModeInline)
+			local Toggle = Instance.new('TextButton', ModeInline)
+			--
+			Icon.Name = "Icon"
+			Icon.Position = UDim2.new(1, - (count * 20) - (count * 6),0.5,0)
+			Icon.Size = UDim2.new(0,20,0,10)
+			Icon.BackgroundColor3 = Color3.fromRGB(45,45,45)
+			Icon.BorderColor3 = Color3.fromRGB(10,10,10)
+			Icon.AnchorPoint = NewVector2(1,0.5)
+			Icon.AutoButtonColor = false
+			Icon.Text = ""
+			--
+			IconInline.Name = "IconInline"
+			IconInline.Position = UDim2.new(0,1,0,1)
+			IconInline.Size = UDim2.new(1,-2,1,-2)
+			IconInline.BackgroundColor3 = default
+			IconInline.BorderSizePixel = 0
+			--
+			ColorWindow.Name = "ColorWindow"
+			ColorWindow.Position = UDim2.new(1,-2,1,2)
+			ColorWindow.Size = UDim2.new(0,206,0,170)
+			ColorWindow.BackgroundColor3 = Color3.fromRGB(45,45,45)
+			ColorWindow.BorderColor3 = Color3.fromRGB(10,10,10)
+			ColorWindow.AnchorPoint = NewVector2(1,0)
+			ColorWindow.ZIndex = 100
+			ColorWindow.Visible = false
+			--
+			WindowInline.Name = "WindowInline"
+			WindowInline.Position = UDim2.new(0,1,0,1)
+			WindowInline.Size = UDim2.new(1,-2,1,-2)
+			WindowInline.BackgroundColor3 = Color3.fromRGB(20,20,20)
+			WindowInline.BorderSizePixel = 0;
+			WindowInline.ZIndex = 100
+			--
+			Color.Name = "Color"
+			Color.Position = UDim2.new(0,8,0,10)
+			Color.Size = UDim2.new(0,150,0,150)
+			Color.BackgroundColor3 = default
+			Color.BorderColor3 = Color3.new(0,0,0)
+			Color.Text = ""
+			Color.TextColor3 = Color3.new(0,0,0)
+			Color.AutoButtonColor = false
+			Color.FontFace = Font.new("rbxassetid://12187371840")
+			Color.TextSize = 14
+			Color.ZIndex = 100
+			--
+			Sat.Name = "Sat"
+			Sat.Size = UDim2.new(1,0,1,0)
+			Sat.BackgroundColor3 = Color3.new(1,1,1)
+			Sat.BackgroundTransparency = 1
+			Sat.BorderSizePixel = 0
+			Sat.BorderColor3 = Color3.new(0,0,0)
+			Sat.Image = "http://www.roblox.com/asset/?id=14684562507"
+			Sat.ZIndex = 100
+			--
+			Val.Name = "Val"
+			Val.Size = UDim2.new(1,0,1,0)
+			Val.BackgroundColor3 = Color3.new(1,1,1)
+			Val.BackgroundTransparency = 1
+			Val.BorderSizePixel = 0
+			Val.BorderColor3 = Color3.new(0,0,0)
+			Val.Image = "http://www.roblox.com/asset/?id=14684563800"
+			Val.ZIndex = 100
+			--
+			Pointer.Name = "Pointer"
+			Pointer.Position = UDim2.new(1,0,1,0)
+			Pointer.Size = UDim2.new(0,1,0,1)
+			Pointer.BackgroundColor3 = Color3.new(1,1,1)
+			Pointer.BorderColor3 = Color3.new(0,0,0)
+			Pointer.ZIndex = 100
+			--
+			Container.Name = "Container"
+			Container.Position = UDim2.new(0,-2,1,5)
+			Container.Size = UDim2.new(0,189,0,55)
+			Container.BackgroundColor3 = Color3.new(1,1,1)
+			Container.BackgroundTransparency = 1
+			Container.BorderColor3 = Color3.new(0,0,0)
+			Container.ZIndex = 100
+			--
+			ColorOutline.Name = "ColorOutline"
+			ColorOutline.Position = UDim2.new(0,-1,0,-1)
+			ColorOutline.Size = UDim2.new(1,2,1,2)
+			ColorOutline.BackgroundColor3 = Color3.new(1,1,1)
+			ColorOutline.BackgroundTransparency = 1
+			ColorOutline.BorderSizePixel = 0
+			ColorOutline.BorderColor3 = Color3.new(0,0,0)
+			ColorOutline.ZIndex = 100
+			--
+			UIStroke.Color = Color3.fromRGB(45,45,45)
+			--
+			Hue.Name = "Hue"
+			Hue.Position = UDim2.new(1,10,0,0)
+			Hue.Size = UDim2.new(0,10,1,0)
+			Hue.BackgroundColor3 = Color3.new(1,1,1)
+			Hue.BorderColor3 = Color3.new(0,0,0)
+			Hue.Image = "http://www.roblox.com/asset/?id=14684557999"
+			Hue.AutoButtonColor = false
+			Hue.ZIndex = 100
+			--
+			HueOutline.Name = "HueOutline"
+			HueOutline.Position = UDim2.new(0,-1,0,-1)
+			HueOutline.Size = UDim2.new(1,2,1,2)
+			HueOutline.BackgroundColor3 = Color3.new(1,1,1)
+			HueOutline.BackgroundTransparency = 1
+			HueOutline.BorderSizePixel = 0
+			HueOutline.BorderColor3 = Color3.new(0,0,0)
+			HueOutline.ZIndex = 100
+			--
+			UIStroke2.Color = Color3.fromRGB(45,45,45)
+			--
+			Alpha.Name = "Alpha"
+			Alpha.Position = UDim2.new(1,30,0,0)
+			Alpha.Size = UDim2.new(0,10,1,0)
+			Alpha.BackgroundColor3 = Color3.new(1,1,1)
+			Alpha.BorderColor3 = Color3.new(0,0,0)
+			Alpha.Image = "http://www.roblox.com/asset/?id=14684560169"
+			Alpha.AutoButtonColor = false
+			Alpha.ZIndex = 100
+			--
+			AlphaOutline.Name = "AlphaOutline"
+			AlphaOutline.Position = UDim2.new(0,-1,0,-1)
+			AlphaOutline.Size = UDim2.new(1,2,1,2)
+			AlphaOutline.BackgroundColor3 = Color3.new(1,1,1)
+			AlphaOutline.BackgroundTransparency = 1
+			AlphaOutline.BorderSizePixel = 0
+			AlphaOutline.BorderColor3 = Color3.new(0,0,0)
+			AlphaOutline.ZIndex = 100
+			--
+			UIStroke3.Color = Color3.fromRGB(45,45,45)
+			--
+			HueSlide.Name = "HueSlide"
+			HueSlide.Size = UDim2.new(1,0,0,3)
+			HueSlide.BackgroundColor3 = Color3.new(1,1,1)
+			HueSlide.BorderColor3 = Color3.new(0,0,0)
+			--
+			AlphaSlide.Name = "AlphaSlide"
+			AlphaSlide.Size = UDim2.new(1,0,0,3)
+			AlphaSlide.BackgroundColor3 = Color3.new(1,1,1)
+			AlphaSlide.BorderColor3 = Color3.new(0,0,0)
+			AlphaSlide.ZIndex = 100
+			--
+			ModeOutline.Name = "ModeOutline"
+			ModeOutline.Position = UDim2.new(1,65,0.5,0)
+			ModeOutline.Size = UDim2.new(0,60,0,12)
+			ModeOutline.BackgroundColor3 = Color3.new(0.1765,0.1765,0.1765)
+			ModeOutline.BorderColor3 = Color3.new(0.0392,0.0392,0.0392)
+			ModeOutline.AnchorPoint = NewVector2(1,0.5)
+			ModeOutline.AutomaticSize = Enum.AutomaticSize.Y
+			ModeOutline.Visible = false
+			ModeOutline.ZIndex = 1020000010
+			--
+			ModeInline.Name = "ModeInline"
+			ModeInline.Position = UDim2.new(0,1,0,1)
+			ModeInline.Size = UDim2.new(1,-2,1,-2)
+			ModeInline.BackgroundColor3 = Color3.new(0.1294,0.1294,0.1294)
+			ModeInline.BorderSizePixel = 0
+			ModeInline.BorderColor3 = Color3.new(0,0,0)
+			ModeInline.ZIndex = 100
+			--
+			UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+			--
+			Hold.Name = "Hold"
+			Hold.Size = UDim2.new(1,0,0,15)
+			Hold.BackgroundColor3 = Color3.new(1,1,1)
+			Hold.BackgroundTransparency = 1
+			Hold.BorderSizePixel = 0
+			Hold.BorderColor3 = Color3.new(0,0,0)
+			Hold.Text = "Copy"
+			Hold.TextColor3 = Color3.fromRGB(145,145,145)
+			Hold.AutoButtonColor = false
+			Hold.FontFace = Font.new("rbxassetid://12187371840")
+			Hold.TextSize = Library.FontSize
+			Hold.TextStrokeTransparency = 0
+			Hold.ZIndex = 100
+			--
+			Toggle.Name = "Toggle"
+			Toggle.Size = UDim2.new(1,0,0,15)
+			Toggle.BackgroundColor3 = Color3.new(1,1,1)
+			Toggle.BackgroundTransparency = 1
+			Toggle.BorderSizePixel = 0
+			Toggle.BorderColor3 = Color3.new(0,0,0)
+			Toggle.Text = "Paste"
+			Toggle.TextColor3 = Color3.fromRGB(145,145,145)
+			Toggle.AutoButtonColor = false
+			Toggle.FontFace = Font.new("rbxassetid://12187371840")
+			Toggle.TextSize = Library.FontSize
+			Toggle.TextStrokeTransparency = 0
+			Toggle.ZIndex = 100
+
+			Library:Connection(Icon.MouseEnter, function()
+				Icon.BorderColor3 = Library.Accent
+			end)
+			--
+			Library:Connection(Icon.MouseLeave, function()
+				Icon.BorderColor3 = Color3.fromRGB(10,10,10)
+			end)
+
+			-- // Connections
+			local mouseover = false
+			local hue, sat, val = default:ToHSV()
+			local hsv = default:ToHSV()
+			local alpha = defaultalpha
+			local oldcolor = hsv
+			local slidingsaturation = false
+			local slidinghue = false
+			local slidingalpha = false
+
+			local function update()
+				local real_pos = game:GetService("UserInputService"):GetMouseLocation()
+				local mouse_position = NewVector2(real_pos.X, real_pos.Y - 40)
+				local relative_palette = (mouse_position - Color.AbsolutePosition)
+				local relative_hue     = (mouse_position - Hue.AbsolutePosition)
+				local relative_opacity = (mouse_position - Alpha.AbsolutePosition)
+				--
+				if slidingsaturation then
+					sat = math.clamp(1 - relative_palette.X / Color.AbsoluteSize.X, 0, 1)
+					val = math.clamp(1 - relative_palette.Y / Color.AbsoluteSize.Y, 0, 1)
+				end 
+				--  
+				if slidinghue then
+					hue = math.clamp(relative_hue.Y / Hue.AbsoluteSize.Y, 0, 1)
+				end  
+				-- 
+				if slidingalpha then
+					alpha = math.clamp(relative_opacity.Y / Alpha.AbsoluteSize.Y, 0, 1)
+				end
+				-- edited by finobe (yes these fucking alphas crash on roexec? nice executor for $8 a week :[ )
+				hsv = Color3.fromHSV(hue, sat, val)
+				Pointer.Position = UDim2.new(math.clamp(1 - sat, 0.005, 0.995), 0, math.clamp(1 - val, 0.005, 0.995), 0)
+				Color.BackgroundColor3 = Color3.fromHSV(hue, 1, 1)
+				Alpha.BackgroundColor3 = Color3.fromHSV(hue, 1, 1)
+				IconInline.BackgroundColor3 = hsv
+
+				HueSlide.Position = UDim2.new(0,0,math.clamp(hue, 0.005, 0.995),0)
+				AlphaSlide.Position = UDim2.new(0,0,math.clamp(alpha, 0.005, 0.995),0)
+
+				if flag then
+					Library.Flags[flag] = {} 
+					Library.Flags[flag]["Color"] = Color3.fromRGB(hsv.r * 255, hsv.g * 255, hsv.b * 255)
+					Library.Flags[flag]["Transparency"] = alpha
+				end
+
+				callback(Color3.fromRGB(hsv.r * 255, hsv.g * 255, hsv.b * 255), alpha)
+			end
+
+			local function set(color, a)
+				if type(color) == "table" then
+					a = color[4]
+					color = Color3.fromHSV(color[1], color[2], color[3])
+				end
+				if type(color) == "string" then
+					color = Color3.fromHex(color)
+				end
+
+				local oldcolor = hsv
+				local oldalpha = alpha
+
+				hue, sat, val = color:ToHSV()
+				alpha = a or 1
+				hsv = Color3.fromHSV(hue, sat, val)
+
+				if hsv ~= oldcolor then
+					IconInline.BackgroundColor3 = hsv
+					Color.BackgroundColor3 = Color3.fromHSV(hue, 1, 1)
+					Pointer.Position = UDim2.new(math.clamp(1 - sat, 0.005, 0.995), 0, math.clamp(1 - val, 0.005, 0.995), 0)
+					Alpha.BackgroundColor3 = Color3.fromHSV(hue, 1, 1)
+					HueSlide.Position = UDim2.new(0,0,math.clamp(hue, 0.005, 0.995),0)
+					AlphaSlide.Position = UDim2.new(0,0,math.clamp(alpha, 0.005, 0.995),0)
+
+					if flag then
+						Library.Flags[flag] = {} 
+						Library.Flags[flag]["Color"] = Color3.fromRGB(hsv.r * 255, hsv.g * 255, hsv.b * 255)
+						Library.Flags[flag]["Transparency"] = alpha
+					end
+
+					callback(Color3.fromRGB(hsv.r * 255, hsv.g * 255, hsv.b * 255), alpha)
+				end
+			end
+
+			Flags[flag] = set
+
+			set(default, defaultalpha)
+
+			Sat.InputBegan:Connect(function(input)
+				if input.UserInputType == Enum.UserInputType.MouseButton1 then
+					slidingsaturation = true
+					update()
+				end
+			end)
+
+			Sat.InputEnded:Connect(function(input)
+				if input.UserInputType == Enum.UserInputType.MouseButton1 then
+					slidingsaturation = false
+					update()
+				end
+			end)
+
+			Hue.InputBegan:Connect(function(input)
+				if input.UserInputType == Enum.UserInputType.MouseButton1 then
+					slidinghue = true
+					update()
+				end
+			end)
+
+			Hue.InputEnded:Connect(function(input)
+				if input.UserInputType == Enum.UserInputType.MouseButton1 then
+					slidinghue = false
+					update()
+				end
+			end)
+
+			Alpha.InputBegan:Connect(function(input)
+				if input.UserInputType == Enum.UserInputType.MouseButton1 then
+					slidingalpha = true
+					update()
+				end
+			end)
+
+			Alpha.InputEnded:Connect(function(input)
+				if input.UserInputType == Enum.UserInputType.MouseButton1 then
+					slidingalpha = false
+					update()
+				end
+			end)
+
+			Library:Connection(game:GetService("UserInputService").InputChanged, function(input)
+				if input.UserInputType == Enum.UserInputType.MouseMovement then
+					if slidingalpha then
+						update()
+					end
+
+					if slidinghue then
+						update()
+					end
+
+					if slidingsaturation then
+						update()
+					end
+				end
+			end)
+
+			Icon.MouseButton1Down:Connect(function()
+				ColorWindow.Visible = not ColorWindow.Visible
+				parent.ZIndex = ColorWindow.Visible and 5 or 1
+
+				if slidinghue then
+					slidinghue = false
+				end
+
+				if slidingsaturation then
+					slidingsaturation = false
+				end
+
+				if slidingalpha then
+					slidingalpha = false
+				end
+			end)
+			
+			Library:Connection(Icon.MouseButton2Down, function()
+				ModeOutline.Visible = not ModeOutline.Visible
+			end)
+			--
+			Library:Connection(Hold.MouseButton1Down, function()
+				Library.CopiedColor = hsv
+				Library.CopiedAlpha = alpha
+			end)
+			--
+			Library:Connection(Toggle.MouseButton1Down, function()
+				set(Library.CopiedColor or Color3.new(1,1,1), Library.CopiedAlpha or 0)
+			end)
+			--
+			Library:Connection(game:GetService("UserInputService").InputBegan, function(Input)
+				if ModeOutline.Visible and Input.UserInputType == Enum.UserInputType.MouseButton1 then
+					if not Library:IsMouseOverFrame(Icon) then
+						ModeOutline.Visible = false
+					end
+				end
+			end)
+
+			local colorpickertypes = {}
+
+			function colorpickertypes:Set(color, newalpha)
+				set(color, newalpha)
+			end
+
+			Library:Connection(game:GetService("UserInputService").InputBegan, function(Input)
+				if ColorWindow.Visible and Input.UserInputType == Enum.UserInputType.MouseButton1 then
+					if not Library:IsMouseOverFrame(ColorWindow) and not Library:IsMouseOverFrame(Icon) then
+						ColorWindow.Visible = false
+						parent.ZIndex = 1
+					end
+				end
+			end)
+
+			return colorpickertypes, ColorWindow
+		end
+	end
+	-- // Doc Functions
+	do
+		local Pages = Library.Pages;
+		local Sections = Library.Sections;
+		function Library:Window(Options)
+			local Window = {
+				Pages = {};
+				Sections = {};
+				Elements = {};
+				Dragging = { false, UDim2.new(0, 0, 0, 0) };
+				Size = Options.Size or Options.size or UDim2.new(0, 550,0, 600);
+			};
+			--
+			local ScreenGui = Instance.new('ScreenGui', game.CoreGui)
+			local Outline = Instance.new('Frame', ScreenGui)
+			local Inline = Instance.new('Frame', Outline)
+			local Accent = Instance.new('Frame', Inline)
+			local HolderOutline = Instance.new('Frame', Inline)
+			local HolderInline = Instance.new('Frame', HolderOutline)
+			local Tabs = Instance.new('Frame', HolderInline)
+			local UIListLayout = Instance.new('UIListLayout', Tabs)
+			local DragButton = Instance.new('TextButton', Outline)
+			local KeybindList = Library:KeybindList()
+			--
+			ScreenGui.DisplayOrder = 2
+			--
+			Outline.Name = "Outline"
+			Outline.Position = UDim2.new(0.5,0,0.5,0)
+			Outline.Size = Window.Size
+			Outline.BackgroundColor3 = Color3.new(0.1765,0.1765,0.1765)
+			Outline.BorderColor3 = Color3.new(0.0392,0.0392,0.0392)
+			Outline.AnchorPoint = Vector2.new(0.5,0.5)
+			Library.Holder = Outline
+			--
+			Inline.Name = "Inline"
+			Inline.Position = UDim2.new(0,1,0,1)
+			Inline.Size = UDim2.new(1,-2,1,-2)
+			Inline.BackgroundColor3 = Color3.new(0.0784,0.0784,0.0784)
+			Inline.BorderSizePixel = 0
+			Inline.BorderColor3 = Color3.new(0,0,0)
+			--
+			Accent.Name = "Accent"
+			Accent.Size = UDim2.new(1,0,0,1)
+			Accent.BackgroundColor3 = Library.Accent
+			Accent.BorderSizePixel = 0
+			Accent.BorderColor3 = Color3.new(0,0,0)
+			table.insert(Library.ThemeObjects, Accent)
+			--
+			HolderOutline.Name = "HolderOutline"
+			HolderOutline.Position = UDim2.new(0,7,0,11)
+			HolderOutline.Size = UDim2.new(1,-14,1,-18)
+			HolderOutline.BackgroundColor3 = Color3.new(0.1765,0.1765,0.1765)
+			HolderOutline.BorderColor3 = Color3.new(0.0392,0.0392,0.0392)
+			--
+			HolderInline.Name = "HolderInline"
+			HolderInline.Position = UDim2.new(0,1,0,1)
+			HolderInline.Size = UDim2.new(1,-2,1,-2)
+			HolderInline.BackgroundColor3 = Color3.new(0.0784,0.0784,0.0784)
+			HolderInline.BorderSizePixel = 0
+			HolderInline.BorderColor3 = Color3.new(0,0,0)
+			--
+			Tabs.Name = "Tabs"
+			Tabs.Size = UDim2.new(1,0,0,22)
+			Tabs.BackgroundColor3 = Color3.new(1,1,1)
+			Tabs.BackgroundTransparency = 1
+			Tabs.BorderSizePixel = 0
+			Tabs.BorderColor3 = Color3.new(0,0,0)
+			--
+			UIListLayout.FillDirection = Enum.FillDirection.Horizontal
+			UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+			--
+			DragButton.Name = "DragButton"
+			DragButton.Size = UDim2.new(1,0,0,10)
+			DragButton.BackgroundColor3 = Color3.new(1,1,1)
+			DragButton.BackgroundTransparency = 1
+			DragButton.BorderSizePixel = 0
+			DragButton.BorderColor3 = Color3.new(0,0,0)
+			DragButton.Text = ""
+			DragButton.TextColor3 = Color3.new(0,0,0)
+			DragButton.AutoButtonColor = false
+			DragButton.FontFace = Font.new("rbxassetid://12187371840")
+			DragButton.TextSize = 14
+			
+            
+			
+			-- // Elements
+			Window.Elements = {
+				TabHolder = Tabs,
+				Holder = HolderInline
+			}
+
+			-- // Dragging
+			Library:Connection(DragButton.MouseButton1Down, function()
+				local Location = game:GetService("UserInputService"):GetMouseLocation()
+				Window.Dragging[1] = true
+				Window.Dragging[2] = UDim2.new(0, Location.X - Outline.AbsolutePosition.X, 0, Location.Y - Outline.AbsolutePosition.Y)
+			end)
+			Library:Connection(game:GetService("UserInputService").InputEnded, function(Input)
+				if Input.UserInputType == Enum.UserInputType.MouseButton1 and Window.Dragging[1] then
+					local Location = game:GetService("UserInputService"):GetMouseLocation()
+					Window.Dragging[1] = false
+					Window.Dragging[2] = UDim2.new(0, 0, 0, 0)
+				end
+			end)
+			Library:Connection(game:GetService("UserInputService").InputChanged, function(Input)
+				local Location = game:GetService("UserInputService"):GetMouseLocation()
+				local ActualLocation = nil
+
+				-- Dragging
+				if Window.Dragging[1] then
+					Outline.Position = UDim2.new(
+						0,
+						Location.X - Window.Dragging[2].X.Offset + (Outline.Size.X.Offset * Outline.AnchorPoint.X),
+						0,
+						Location.Y - Window.Dragging[2].Y.Offset + (Outline.Size.Y.Offset * Outline.AnchorPoint.Y)
+					)
+				end
+			end)
+			Library:Connection(game:GetService("UserInputService").InputBegan, function(Input)
+				if Input.KeyCode == Library.UIKey then
+					Library:SetOpen(not Library.Open)
+				end
+			end)
+
+			-- // Functions
+			function Window:UpdateTabs()
+				for Index, Page in pairs(Window.Pages) do
+					Page.Elements.Button.Size = UDim2.new(1/#Window.Pages,0,1,0)
+					Page:Turn(Page.Open)
+				end
+			end
+
+			-- // Returns
+			Library.Holder = Outline
+			return setmetatable(Window, Library)
+		end
+		--
+		function Library:Page(Properties)
+			if not Properties then
+				Properties = {}
+			end
+			--
+			local Page = {
+				Name = Properties.Name or "Page",
+				Window = self,
+				Open = false,
+				Sections = {},
+				Elements = {},
+                Weapons = {},
+                Icons = Properties.Weapons or Properties.weapons or false,
+			}
+			--
+			local TabButton = Instance.new('TextButton', Page.Window.Elements.TabHolder)
+			local TabAccent = Instance.new('Frame', TabButton)
+			local TabLine = Instance.new('Frame', TabButton)
+            local WeaponOutline = Instance.new("Frame", Page.Window.Elements.Holder)
+            local WeaponInline = Instance.new("Frame", WeaponOutline)
+            local UIListLayout3 = Instance.new("UIListLayout", WeaponInline)
+            local Left = Instance.new('Frame', Page.Window.Elements.Holder)
+            local Right = Instance.new('Frame', Page.Window.Elements.Holder)
+            local UIListLayout = Instance.new('UIListLayout', Left)
+            local UIListLayout_2 = Instance.new('UIListLayout', Right)
+            Left.Name = "Left"
+            Left.Position = UDim2.new(0,5,0,35)
+            Left.Size = UDim2.new(0.485,-3,1,-40)
+            Left.BackgroundColor3 = Color3.new(1,1,1)
+            Left.BorderSizePixel = 0
+            Left.BackgroundTransparency = 1
+            Left.BorderColor3 = Color3.new(0,0,0)
+            Left.Visible = false
+            Left.ZIndex = 3
+            --
+            Right.Name = "Right"
+            Right.Position = UDim2.new(1,-5,0,35)
+            Right.Size = UDim2.new(0.485,-3,1,-40)
+            Right.BackgroundColor3 = Color3.new(1,1,1)
+            Right.BorderSizePixel = 0
+            Right.BorderColor3 = Color3.new(0,0,0)
+            Right.AnchorPoint = Vector2.new(1,0)
+            Right.Visible = false
+            Right.BackgroundTransparency = 1
+            --
+            UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+            UIListLayout.Padding = UDim.new(0,12)
+            --
+            UIListLayout_2.SortOrder = Enum.SortOrder.LayoutOrder
+            UIListLayout_2.Padding = UDim.new(0,12)
+			--
+			TabButton.Name = "TabButton"
+			TabButton.Size = UDim2.new(0.25,0,1,0)
+			TabButton.BackgroundColor3 = Color3.new(1,1,1)
+			TabButton.BackgroundTransparency = 1
+			TabButton.BorderSizePixel = 0
+			TabButton.BorderColor3 = Color3.new(0,0,0)
+			TabButton.Text = Page.Name
+			TabButton.TextColor3 = Color3.new(0.5686,0.5686,0.5686)
+			TabButton.AutoButtonColor = false
+			TabButton.FontFace = Font.new("rbxassetid://12187371840")
+			TabButton.TextSize = Library.FontSize
+			TabButton.TextStrokeTransparency = 0
+			TabButton.LineHeight = 1.1
+			--
+			TabAccent.Name = "TabAccent"
+			TabAccent.Size = UDim2.new(1,0,0,1)
+			TabAccent.BackgroundColor3 = Library.Accent
+			TabAccent.BorderSizePixel = 0
+			TabAccent.BorderColor3 = Color3.new(0,0,0)
+			TabAccent.Visible = false
+			table.insert(Library.ThemeObjects, TabAccent)
+			--
+			TabLine.Name = "TabLine"
+			TabLine.Position = UDim2.new(0,0,1,-1)
+			TabLine.Size = UDim2.new(1,0,0,1)
+			TabLine.BackgroundColor3 = Color3.new(0.1765,0.1765,0.1765)
+			TabLine.BorderSizePixel = 0
+			TabLine.BorderColor3 = Color3.new(0,0,0)
+
+            WeaponOutline.Name = "WeaponOutline"
+            WeaponOutline.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
+            WeaponOutline.BorderColor3 = Color3.fromRGB(10, 10, 10)
+            WeaponOutline.Position = UDim2.new(0, 5, 0, 25)
+            WeaponOutline.Size = UDim2.new(1, -10, 0, 40)
+            WeaponOutline.Visible = false
+            
+            WeaponInline.Name = "WeaponInline"
+            WeaponInline.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+            WeaponInline.BorderColor3 = Color3.fromRGB(0, 0, 0)
+            WeaponInline.BorderSizePixel = 0
+            WeaponInline.Position = UDim2.new(0, 1, 0, 1)
+            WeaponInline.Size = UDim2.new(1, -2, 1, -2)
+            
+            UIListLayout3.FillDirection = Enum.FillDirection.Horizontal
+            UIListLayout3.SortOrder = Enum.SortOrder.LayoutOrder
+			
+			function Page:Turn(bool)
+				Page.Open = bool
+				if not Page.Icons then
+                    Left.Visible = Page.Open
+				    Right.Visible = Page.Open
+                else
+                    WeaponOutline.Visible = Page.Open
+                    for Index, Weapon in pairs(Page.Weapons) do
+                        Weapon:Turn(Weapon.Open)
+                    end
+                end
+				TabAccent.Visible = Page.Open
+				TabLine.Visible = not Page.Open
+				TabButton.TextColor3 = Page.Open and Color3.fromRGB(255,255,255) or Color3.fromRGB(145,145,145)
+			end
+			--
+			Library:Connection(TabButton.MouseButton1Down, function()
+				if not Page.Open then
+					Page:Turn(true)
+					for _, Pages in pairs(Page.Window.Pages) do
+						if Pages.Open and Pages ~= Page then
+							Pages:Turn(false)
+						end
+					end
+				end
+			end)
+			--
+			Library:Connection(TabButton.MouseEnter, function() 
+				if not Page.Open then
+					TabButton.TextColor3 = Library.Accent
+				end
+			end)
+			--
+			Library:Connection(TabButton.MouseLeave, function() 
+				if not Page.Open then
+					TabButton.TextColor3 = Color3.fromRGB(145,145,145)
+				end
+			end)
+
+            -- // Functions
+			function Page:UpdateWeapons()
+				for Index, Weapon in pairs(Page.Weapons) do
+					Weapon.Elements.Button.Size = UDim2.new(1/#Page.Weapons,0,1,0)
+					Weapon:Turn(Weapon.Open)
+				end
+			end
+
+			-- // Elements
+			Page.Elements = {
+                Left = Page.Icons and nil or Left,
+				Right = Page.Icons and nil or Right,
+				Button = TabButton,
+                WeaponOutline = WeaponOutline,
+                WeaponInline = WeaponInline,
+			}
+
+			-- // Drawings
+			if #Page.Window.Pages == 0 then
+				Page:Turn(true)
+			end
+			Page.Window.Pages[#Page.Window.Pages + 1] = Page
+			Page.Window:UpdateTabs()
+			return setmetatable(Page, Library.Pages)
+		end
+        --
+        function Pages:Weapon(Properties)
+            if not Properties then
+				Properties = {}
+			end
+			--
+			local Weapon = {
+				Icon = Properties.Icon or Properties.icon or "rbxassetid://11127408662",
+				Window = self,
+				Open = false,
+				Sections = {},
+				Elements = {},
+			}
+			--
+            --Weapon.Window.Elements.WeaponOutline.Visible = true
+
+			local Left = Instance.new('Frame', Weapon.Window.Window.Elements.Holder)
+			local Right = Instance.new('Frame', Weapon.Window.Window.Elements.Holder)
+			local UIListLayout = Instance.new('UIListLayout', Left)
+			local UIListLayout_2 = Instance.new('UIListLayout', Right)
+            local New = Instance.new("ImageButton")
+			--
+			New.Name = "New"
+            New.Parent = Weapon.Window.Elements.WeaponInline
+            New.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+            New.BackgroundTransparency = 1.000
+            New.BorderColor3 = Color3.fromRGB(0, 0, 0)
+            New.BorderSizePixel = 0
+            New.Size = UDim2.new(0.200000003, 0, 1, 0)
+            New.Image = Weapon.Icon
+            New.ScaleType = Enum.ScaleType.Fit
+			--
+			Left.Name = "Left"
+			Left.Position = UDim2.new(0,5,0,75)
+			Left.Size = UDim2.new(0.485,-3,1, -80)
+			Left.BackgroundColor3 = Color3.new(1,1,1)
+			Left.BorderSizePixel = 0
+			Left.BackgroundTransparency = 1
+			Left.BorderColor3 = Color3.new(0,0,0)
+			Left.Visible = false
+			Left.ZIndex = 3
+			--
+			Right.Name = "Right"
+			Right.Position = UDim2.new(1,-5,0,75)
+			Right.Size = UDim2.new(0.485,-3,1, -80)
+			Right.BackgroundColor3 = Color3.new(1,1,1)
+			Right.BorderSizePixel = 0
+			Right.BorderColor3 = Color3.new(0,0,0)
+			Right.AnchorPoint = Vector2.new(1,0)
+			Right.Visible = false
+			Right.BackgroundTransparency = 1
+			--
+			UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+			UIListLayout.Padding = UDim.new(0,12)
+			--
+			UIListLayout_2.SortOrder = Enum.SortOrder.LayoutOrder
+			UIListLayout_2.Padding = UDim.new(0,12)
+			
+			function Weapon:Turn(bool)
+				Weapon.Open = bool
+				Left.Visible = Weapon.Open and Weapon.Window.Open
+				Right.Visible = Weapon.Open and Weapon.Window.Open
+				New.ImageColor3 = Weapon.Open and Color3.new(1,1,1) or Color3.fromRGB(145,145,145)
+			end
+			--
+			Library:Connection(New.MouseButton1Down, function()
+				if not Weapon.Open then
+					Weapon:Turn(true)
+					for _, Weapons in pairs(Weapon.Window.Weapons) do
+						if Weapons.Open and Weapons ~= Weapon then
+							Weapons:Turn(false)
+						end
+					end
+				end
+			end)
+			--
+
+			-- // Elements
+			Weapon.Elements = {
+				Left = Left,
+				Right = Right,
+				Button = New
+			}
+
+			-- // Drawings
+			if #Weapon.Window.Weapons == 0 then
+				Weapon:Turn(true)
+			end
+			Weapon.Window.Weapons[#Weapon.Window.Weapons + 1] = Weapon
+			Weapon.Window:UpdateWeapons()
+			return setmetatable(Weapon, Library.Pages)
+        end
+		--
+		function Pages:Section(Properties)
+			if not Properties then
+				Properties = {}
+			end
+			--
+			local Section = {
+				Name = Properties.Name or "Section",
+				Page = self,
+				Side = (Properties.side or Properties.Side or "left"):lower(),
+				ZIndex = Properties.ZIndex or 1, -- Idfk why
+				Elements = {},
+				Content = {},
+			}
+			--
+			local SectionOutline = Instance.new('Frame', Section.Side == "left" and Section.Page.Elements.Left or Section.Side == "right" and Section.Page.Elements.Right)
+			local SectionInline = Instance.new('Frame', SectionOutline)
+			local Container = Instance.new('Frame', SectionInline)
+			local UIListLayout = Instance.new('UIListLayout', Container)
+			local Space = Instance.new('Frame', Container)
+			local SectionAccent = Instance.new('Frame', SectionInline)
+			local Title = Instance.new('TextLabel', SectionOutline)
+			local TextBorder = Instance.new('Frame', SectionOutline)	
+			--
+			SectionOutline.Name = "SectionOutline"
+			SectionOutline.Size = UDim2.new(1,0,0,20)
+			SectionOutline.BackgroundColor3 = Color3.new(0.1765,0.1765,0.1765)
+			SectionOutline.BorderColor3 = Color3.new(0.0392,0.0392,0.0392)
+			SectionOutline.AutomaticSize = Enum.AutomaticSize.Y
+			SectionOutline.ZIndex = Section.ZIndex
+			--
+			
+			--
+			SectionInline.Name = "SectionInline"
+			SectionInline.Position = UDim2.new(0,1,0,1)
+			SectionInline.Size = UDim2.new(1,-2,1,-2)
+			SectionInline.BackgroundColor3 = Color3.new(0.0784,0.0784,0.0784)
+			SectionInline.BorderSizePixel = 0
+			SectionInline.BorderColor3 = Color3.new(0,0,0)
+			--
+			Container.Name = "Container"
+			Container.Position = UDim2.new(0,7,0,10)
+			Container.Size = UDim2.new(1,-14,1,-10)
+			Container.BackgroundColor3 = Color3.new(1,1,1)
+			Container.BackgroundTransparency = 1
+			Container.BorderSizePixel = 0
+			Container.BorderColor3 = Color3.new(0,0,0)
+			Container.AutomaticSize = Enum.AutomaticSize.Y
+			--
+			Space.Name = "Space"
+			Space.Position = UDim2.new(0,0,1,0)
+			Space.Size = UDim2.new(1,0,0,1)
+			Space.BackgroundColor3 = Color3.new(1,1,1)
+			Space.BackgroundTransparency = 1
+			Space.BorderSizePixel = 0
+			Space.BorderColor3 = Color3.new(0,0,0)
+			Space.LayoutOrder = 1000
+			--
+			SectionAccent.Name = "SectionAccent"
+			SectionAccent.Size = UDim2.new(1,0,0,1)
+			SectionAccent.BackgroundColor3 = Library.Accent
+			SectionAccent.BorderSizePixel = 0
+			SectionAccent.BorderColor3 = Color3.new(0,0,0)
+			table.insert(Library.ThemeObjects, SectionAccent)
+			table.insert(Library.ThemeObjects, SectionAccent)
+			--
+			Title.Name = "Title"
+			Title.Position = UDim2.new(0,10,0,-8)
+			Title.Size = UDim2.new(0,100,0,16)
+			Title.BackgroundColor3 = Color3.new(1,1,1)
+			Title.BackgroundTransparency = 1
+			Title.BorderSizePixel = 0
+			Title.BorderColor3 = Color3.new(0,0,0)
+			Title.TextColor3 = Color3.new(1,1,1)
+			Title.FontFace = Font.new("rbxassetid://12187371840")
+			Title.TextSize = Library.FontSize
+			Title.ZIndex = 3
+			Title.TextXAlignment = Enum.TextXAlignment.Left
+			Title.Text = Section.Name
+			Title.TextStrokeTransparency = 0
+			--
+			TextBorder.Name = "TextBorder"
+			TextBorder.Position = UDim2.new(0,6,0,-2)
+			TextBorder.Size = UDim2.new(0,Title.TextBounds.X + 8,0,4)
+			TextBorder.BackgroundColor3 = Color3.new(0.0784,0.0784,0.0784)
+			TextBorder.BorderSizePixel = 0
+			TextBorder.BorderColor3 = Color3.new(0,0,0)
+			--
+			UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+			UIListLayout.Padding = UDim.new(0,10)
+			
+			-- // Elements
+			Section.Elements = {
+				SectionContent = Container;
+				SectionHolder = SectionOutline;
+			}
+
+			-- // Returning
+			Section.Page.Sections[#Section.Page.Sections + 1] = Section
+			wait(0.01)
+			TextBorder.Size = UDim2.new(0,Title.TextBounds.X + 8,0,4)
+			return setmetatable(Section, Library.Sections)
+		end
+		--
+		function Sections:Toggle(Properties)
+			if not Properties then
+				Properties = {}
+			end
+			--
+			local Toggle = {
+				Window = self.Window,
+				Page = self.Page,
+				Section = self,
+				Risk = Properties.Risk or false,
+				Name = Properties.Name or "Toggle",
+				State = (
+					Properties.state
+						or Properties.State
+						or Properties.def
+						or Properties.Def
+						or Properties.default
+						or Properties.Default
+						or false
+				),
+				Callback = (
+					Properties.callback
+						or Properties.Callback
+						or Properties.callBack
+						or Properties.CallBack
+						or function() end
+				),
+				Flag = (
+					Properties.flag
+						or Properties.Flag
+						or Properties.pointer
+						or Properties.Pointer
+						or Library.NextFlag()
+				),
+				Toggled = false,
+				Colorpickers = 0,
+			}
+			--
+			local NewToggle = Instance.new('TextButton', Toggle.Section.Elements.SectionContent)
+			local Outline = Instance.new('Frame', NewToggle)
+			local Inline = Instance.new('Frame', Outline)
+			local Title = Instance.new('TextLabel', NewToggle)
+			--
+			NewToggle.Name = "NewToggle"
+			NewToggle.Size = UDim2.new(1,0,0,10)
+			NewToggle.BackgroundColor3 = Color3.new(1,1,1)
+			NewToggle.BackgroundTransparency = 1
+			NewToggle.BorderSizePixel = 0
+			NewToggle.BorderColor3 = Color3.new(0,0,0)
+			NewToggle.Text = ""
+			NewToggle.TextColor3 = Color3.new(0,0,0)
+			NewToggle.AutoButtonColor = false
+			NewToggle.FontFace = Font.new("rbxassetid://12187371840")
+			NewToggle.TextSize = 14
+			--
+			Outline.Name = "Outline"
+			Outline.Size = UDim2.new(0,10,0,10)
+			Outline.BackgroundColor3 = Color3.new(0.1765,0.1765,0.1765)
+			Outline.BorderColor3 = Color3.new(0.0392,0.0392,0.0392)
+			--
+			Inline.Name = "Inline"
+			Inline.Position = UDim2.new(0,1,0,1)
+			Inline.Size = UDim2.new(1,-2,1,-2)
+			Inline.BackgroundColor3 = Color3.new(0.1294,0.1294,0.1294)
+			Inline.BorderSizePixel = 0
+			Inline.BorderColor3 = Color3.new(0,0,0)
+			--
+			--[[local inputText = string.upper(Toggle.Name)
+			local targetLanguage = "Chinese" -- // English, Arabic, Albanian, Japanese, Spanish, Russian, Chinese, Urdu, French, Portuguese, Hindi
+			local translatedText = utility:TranslateString(inputText, targetLanguage)]] 
+			-- 
+			Title.Name = "Title"
+			Title.Position = UDim2.new(0,15,0,0)
+			Title.Size = UDim2.new(1,0,0,10)
+			Title.BackgroundColor3 = Color3.new(1,1,1)
+			Title.BackgroundTransparency = 1
+			Title.BorderSizePixel = 0
+			Title.BorderColor3 = Color3.new(0,0,0)
+			Title.TextColor3 = Toggle.Risk and Color3.fromRGB(158, 158, 24) or Color3.new(0.5686,0.5686,0.5686)
+			Title.FontFace = Font.new("rbxassetid://12187371840")
+			Title.TextSize = Library.FontSize
+			Title.TextXAlignment = Enum.TextXAlignment.Left
+			Title.Text = Toggle.Name
+			Title.TextStrokeTransparency = 0
+			
+			-- // Functions
+			local function SetState()
+				Toggle.Toggled = not Toggle.Toggled
+				if Toggle.Toggled then
+					table.insert(Library.ThemeObjects, Inline)
+					Inline.BackgroundColor3 = Library.Accent
+					if Toggle.Risk then
+						Title.TextColor3 = Color3.fromRGB(227, 227, 34)
+					else
+						Title.TextColor3 = Color3.fromRGB(255,255,255)
+					end
+				else
+					table.remove(Library.ThemeObjects, table.find(Library.ThemeObjects, Inline))
+					Inline.BackgroundColor3 = Color3.new(0.1294,0.1294,0.1294)
+					if Toggle.Risk then
+						Title.TextColor3 = Color3.fromRGB(158, 158, 24)
+					else
+						Title.TextColor3 = Color3.fromRGB(145,145,145)
+					end
+				end
+				Library.Flags[Toggle.Flag] = Toggle.Toggled
+				Toggle.Callback(Toggle.Toggled)
+			end
+			--
+			Library:Connection(NewToggle.MouseButton1Down, SetState)
+			Library:Connection(NewToggle.MouseEnter, function()
+				if not Toggle.Toggled then
+					table.insert(Library.ThemeObjects, Title)
+					Title.TextColor3 = Library.Accent
+				end
+			end)
+			--
+			Library:Connection(NewToggle.MouseLeave, function()
+				if not Toggle.Toggled then
+					table.remove(Library.ThemeObjects, table.find(Library.ThemeObjects, Title))
+					if Toggle.Risk then
+						Title.TextColor3 = Color3.fromRGB(158, 158, 24)
+					else
+						Title.TextColor3 = Color3.fromRGB(145,145,145)
+					end
+				else
+					table.remove(Library.ThemeObjects, table.find(Library.ThemeObjects, Title))
+				end
+			end)
+			
+			function Toggle:Keybind(Properties)
+				local Properties = Properties or {}
+				local Keybind = {
+					Section = self,
+					State = (
+						Properties.state
+							or Properties.State
+							or Properties.def
+							or Properties.Def
+							or Properties.default
+							or Properties.Default
+							or nil
+					),
+					Mode = (Properties.mode or Properties.Mode or "Toggle"),
+					Callback = (
+						Properties.callback
+							or Properties.Callback
+							or Properties.callBack
+							or Properties.CallBack
+							or function() end
+					),
+					Flag = (
+						Properties.flag
+							or Properties.Flag
+							or Properties.pointer
+							or Properties.Pointer
+							or Library.NextFlag()
+					),
+					Name = Properties.name or Properties.Name or "Keybind",
+					Binding = nil,
+				}
+				local Key
+				local State = false
+				--
+				local Outline = Instance.new('TextButton', NewToggle)
+				local Inline = Instance.new('Frame', Outline)
+				local Value = Instance.new('TextLabel', Inline)
+				local ModeOutline = Instance.new('Frame', NewToggle)
+				local ModeInline = Instance.new('Frame', ModeOutline)
+				local UIListLayout = Instance.new('UIListLayout', ModeInline)
+				local Hold = Instance.new('TextButton', ModeInline)
+				local Toggle = Instance.new('TextButton', ModeInline)
+				local Always = Instance.new('TextButton', ModeInline)
+				local ListValue = Library.KeyList:NewKey(tostring(Keybind.State):gsub("Enum.KeyCode.", ""), Title.Text, Keybind.Mode)
+				--
+				Outline.Name = "Outline"
+				Outline.Position = UDim2.new(1,0,0.5,0)
+				Outline.Size = UDim2.new(0,40,0,12)
+				Outline.BackgroundColor3 = Color3.new(0.1765,0.1765,0.1765)
+				Outline.BorderColor3 = Color3.new(0.0392,0.0392,0.0392)
+				Outline.AnchorPoint = NewVector2(1,0.5)
+				Outline.Text = ""
+				Outline.AutoButtonColor = false
+				--
+				Inline.Name = "Inline"
+				Inline.Position = UDim2.new(0,1,0,1)
+				Inline.Size = UDim2.new(1,-2,1,-2)
+				Inline.BackgroundColor3 = Color3.new(0.1294,0.1294,0.1294)
+				Inline.BorderSizePixel = 0
+				Inline.BorderColor3 = Color3.new(0,0,0)
+				--
+				Value.Name = "Value"
+				Value.Size = UDim2.new(1,0,1,0)
+				Value.BackgroundColor3 = Color3.new(1,1,1)
+				Value.BackgroundTransparency = 1
+				Value.BorderSizePixel = 0
+				Value.BorderColor3 = Color3.new(0,0,0)
+				Value.Text = "MB2"
+				Value.TextColor3 = Color3.new(0.5686,0.5686,0.5686)
+				Value.FontFace = Font.new("rbxassetid://12187371840")
+				Value.TextSize = Library.FontSize
+				Value.TextStrokeTransparency = 0
+				--
+				ModeOutline.Name = "ModeOutline"
+				ModeOutline.Position = UDim2.new(1,65,0.5,0)
+				ModeOutline.Size = UDim2.new(0,60,0,12)
+				ModeOutline.BackgroundColor3 = Color3.new(0.1765,0.1765,0.1765)
+				ModeOutline.BorderColor3 = Color3.new(0.0392,0.0392,0.0392)
+				ModeOutline.AnchorPoint = NewVector2(1,0.5)
+				ModeOutline.AutomaticSize = Enum.AutomaticSize.Y
+				ModeOutline.Visible = false
+				--
+				ModeInline.Name = "ModeInline"
+				ModeInline.Position = UDim2.new(0,1,0,1)
+				ModeInline.Size = UDim2.new(1,-2,1,-2)
+				ModeInline.BackgroundColor3 = Color3.new(0.1294,0.1294,0.1294)
+				ModeInline.BorderSizePixel = 0
+				ModeInline.BorderColor3 = Color3.new(0,0,0)
+				--
+				UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+				--
+				Hold.Name = "Hold"
+				Hold.Size = UDim2.new(1,0,0,15)
+				Hold.BackgroundColor3 = Color3.new(1,1,1)
+				Hold.BackgroundTransparency = 1
+				Hold.BorderSizePixel = 0
+				Hold.BorderColor3 = Color3.new(0,0,0)
+				Hold.Text = "Hold"
+				Hold.TextColor3 = Keybind.Mode == "Hold" and Color3.new(1,1,1) or Color3.new(0.5686,0.5686,0.5686)
+				Hold.AutoButtonColor = false
+				Hold.FontFace = Font.new("rbxassetid://12187371840")
+				Hold.TextSize = Library.FontSize
+				Hold.TextStrokeTransparency = 0
+				--
+				Toggle.Name = "Toggle"
+				Toggle.Size = UDim2.new(1,0,0,15)
+				Toggle.BackgroundColor3 = Color3.new(1,1,1)
+				Toggle.BackgroundTransparency = 1
+				Toggle.BorderSizePixel = 0
+				Toggle.BorderColor3 = Color3.new(0,0,0)
+				Toggle.Text = "Toggle"
+				Toggle.TextColor3 = Keybind.Mode == "Toggle" and Color3.new(1,1,1) or Color3.new(0.5686,0.5686,0.5686)
+				Toggle.AutoButtonColor = false
+				Toggle.FontFace = Font.new("rbxassetid://12187371840")
+				Toggle.TextSize = Library.FontSize
+				Toggle.TextStrokeTransparency = 0
+				--
+				Always.Name = "Always"
+				Always.Size = UDim2.new(1,0,0,15)
+				Always.BackgroundColor3 = Color3.new(1,1,1)
+				Always.BackgroundTransparency = 1
+				Always.BorderSizePixel = 0
+				Always.BorderColor3 = Color3.new(0,0,0)
+				Always.Text = "Always"
+				Always.TextColor3 = Keybind.Mode == "Always" and Color3.new(1,1,1) or Color3.new(0.5686,0.5686,0.5686)
+				Always.AutoButtonColor = false
+				Always.FontFace = Font.new("rbxassetid://12187371840")
+				Always.TextSize = Library.FontSize
+				Always.TextStrokeTransparency = 0
+
+				-- // Functions
+				local function set(newkey)
+					if string.find(tostring(newkey), "Enum") then
+						if c then
+							c:Disconnect()
+							if Keybind.Flag then
+								Library.Flags[Keybind.Flag] = false
+							end
+							Keybind.Callback(false)
+						end
+						if tostring(newkey):find("Enum.KeyCode.") then
+							newkey = Enum.KeyCode[tostring(newkey):gsub("Enum.KeyCode.", "")]
+						elseif tostring(newkey):find("Enum.UserInputType.") then
+							newkey = Enum.UserInputType[tostring(newkey):gsub("Enum.UserInputType.", "")]
+						end
+						if newkey == Enum.KeyCode.Backspace then
+							Key = nil
+
+							local text = "None"
+
+							Value.Text = text
+							ListValue:Update(text, Keybind.Name, Keybind.Mode)
+						elseif newkey ~= nil then
+							Key = newkey
+
+							local text = (Library.Keys[newkey] or tostring(newkey):gsub("Enum.KeyCode.", ""))
+
+							Value.Text = text
+							ListValue:Update(text, Keybind.Name, Keybind.Mode)
+						end
+
+						Library.Flags[Keybind.Flag .. "_KEY"] = newkey
+					elseif table.find({ "Always", "Toggle", "Hold" }, newkey) then
+						Library.Flags[Keybind.Flag .. "_KEY STATE"] = newkey
+						Keybind.Mode = newkey
+						ListValue:Update((Library.Keys[Key] or tostring(Key):gsub("Enum.KeyCode.", "")), Keybind.Name, Keybind.Mode)
+						if Keybind.Mode == "Always" then
+							State = true
+							if Keybind.Flag then
+								Library.Flags[Keybind.Flag] = State
+							end
+							Keybind.Callback(true)
+							ListValue:SetVisible(true)
+						end
+					else
+						State = newkey
+						if Keybind.Flag then
+							Library.Flags[Keybind.Flag] = newkey
+						end
+						Keybind.Callback(newkey)
+					end
+				end
+				--
+				set(Keybind.State)
+				set(Keybind.Mode)
+				Outline.MouseButton1Click:Connect(function()
+					if not Keybind.Binding then
+
+						Value.Text = "..."
+
+						Keybind.Binding = Library:Connection(
+							game:GetService("UserInputService").InputBegan,
+							function(input, gpe)
+								set(
+									input.UserInputType == Enum.UserInputType.Keyboard and input.KeyCode
+										or input.UserInputType
+								)
+								Library:Disconnect(Keybind.Binding)
+								task.wait()
+								Keybind.Binding = nil
+							end
+						)
+					end
+				end)
+				--
+				local HoldLoop; 
+				Library:Connection(game:GetService("UserInputService").InputBegan, function(inp, Typing)
+					if Typing then return end 
+
+					if HoldLoop then 
+						HoldLoop:Disconnect() 
+					end 
+					-- 
+					if (inp.KeyCode == Key or inp.UserInputType == Key) and not Keybind.Binding then
+						if Keybind.Mode == "Hold" then
+							if Keybind.Flag then
+								Library.Flags[Keybind.Flag] = true
+							end
+							HoldLoop = Library:Connection(game:GetService("RunService").RenderStepped, function()
+								if Keybind.Callback then
+									Keybind.Callback(true)
+								end
+							end)
+							ListValue:SetVisible(true)
+						elseif Keybind.Mode == "Toggle" then
+							State = not State
+							if Keybind.Flag then
+								Library.Flags[Keybind.Flag] = State
+							end
+							Keybind.Callback(State)
+							ListValue:SetVisible(State)
+						end
+					end
+				end)
+				--
+				Library:Connection(game:GetService("UserInputService").InputEnded, function(inp, Typing)
+					if Typing then return end 
+					if Keybind.Mode == "Hold" then
+						if Key ~= "" or Key ~= nil then
+							if inp.KeyCode == Key or inp.UserInputType == Key then
+								if c then
+									c:Disconnect()
+									if Keybind.Flag then
+										Library.Flags[Keybind.Flag] = false
+									end
+									if Keybind.Callback then
+										Keybind.Callback(false)
+									end
+									ListValue:SetVisible(false)
+								end
+							end
+						end
+					end
+				end)
+				Library:Connection(Outline.MouseEnter, function()
+					Outline.BorderColor3 = Library.Accent
+				end)
+				--
+				Library:Connection(Outline.MouseLeave, function()
+					Outline.BorderColor3 = Color3.new(0.0392,0.0392,0.0392)
+				end)
+				--
+				Library:Connection(Outline.MouseButton2Down, function()
+					ModeOutline.Visible = not ModeOutline.Visible
+				end)
+				--
+				Library:Connection(Hold.MouseButton1Down, function()
+					set("Hold")
+					Hold.TextColor3 = Color3.new(1,1,1)
+					Toggle.TextColor3 = Color3.fromRGB(145,145,145)
+					Always.TextColor3 = Color3.fromRGB(145,145,145)
+				end)
+				--
+				Library:Connection(Toggle.MouseButton1Down, function()
+					set("Toggle")
+					Hold.TextColor3 = Color3.fromRGB(145,145,145)
+					Toggle.TextColor3 = Color3.new(1,1,1)
+					Always.TextColor3 = Color3.fromRGB(145,145,145)
+				end)
+				--
+				Library:Connection(Always.MouseButton1Down, function()
+					set("Always")
+					Hold.TextColor3 = Color3.fromRGB(145,145,145)
+					Toggle.TextColor3 = Color3.fromRGB(145,145,145)
+					Always.TextColor3 = Color3.new(1,1,1)
+				end)
+				--
+				Library:Connection(game:GetService("UserInputService").InputBegan, function(Input)
+					if ModeOutline.Visible and Input.UserInputType == Enum.UserInputType.MouseButton1 then
+						if not Library:IsMouseOverFrame(ModeOutline) then
+							ModeOutline.Visible = false
+						end
+					end
+				end)
+				--
+				Library.Flags[Keybind.Flag .. "_KEY"] = Keybind.State
+				Library.Flags[Keybind.Flag .. "_KEY STATE"] = Keybind.Mode
+				Flags[Keybind.Flag] = set
+				Flags[Keybind.Flag .. "_KEY"] = set
+				Flags[Keybind.Flag .. "_KEY STATE"] = set
+				--
+				function Keybind:Set(key)
+					set(key)
+				end
+
+				-- // Returning
+				return Keybind
+			end
+			
+			function Toggle:Colorpicker(Properties)
+				local Properties = Properties or {}
+				local Colorpicker = {
+					State = (
+						Properties.state
+							or Properties.State
+							or Properties.def
+							or Properties.Def
+							or Properties.default
+							or Properties.Default
+							or Color3.fromRGB(255, 0, 0)
+					),
+					Alpha = (
+						Properties.alpha
+							or Properties.Alpha
+							or Properties.transparency
+							or Properties.Transparency
+							or 1
+					),
+					Callback = (
+						Properties.callback
+							or Properties.Callback
+							or Properties.callBack
+							or Properties.CallBack
+							or function() end
+					),
+					Flag = (
+						Properties.flag
+							or Properties.Flag
+							or Properties.pointer
+							or Properties.Pointer
+							or Library.NextFlag()
+					),
+				}
+				-- // Functions
+				Toggle.Colorpickers = Toggle.Colorpickers + 1
+				local colorpickertypes = Library:NewPicker(
+					"",
+					Colorpicker.State,
+					Colorpicker.Alpha,
+					NewToggle,
+					Toggle.Colorpickers - 1,
+					Colorpicker.Flag,
+					Colorpicker.Callback
+				)
+
+				function Colorpicker:Set(color)
+					colorpickertypes:set(color)
+				end
+
+				-- // Returning
+				return Colorpicker
+			end
+			
+			-- // Misc Functions
+			function Toggle.Set(bool)
+				bool = type(bool) == "boolean" and bool or false
+				if Toggle.Toggled ~= bool then
+					SetState()
+				end
+			end
+			Toggle.Set(Toggle.State)
+			Library.Flags[Toggle.Flag] = Toggle.State
+			Flags[Toggle.Flag] = Toggle.Set
+
+			-- // Returning
+			return Toggle
+		end
+		--
+		function Sections:Slider(Properties)
+			if not Properties then
+				Properties = {}
+			end
+			--
+			local Slider = {
+				Window = self.Window,
+				Page = self.Page,
+				Section = self,
+				Name = Properties.Name or nil,
+				Min = (Properties.min or Properties.Min or Properties.minimum or Properties.Minimum or 0),
+				State = (
+					Properties.state
+						or Properties.State
+						or Properties.def
+						or Properties.Def
+						or Properties.default
+						or Properties.Default
+						or 10
+				),
+				Max = (Properties.max or Properties.Max or Properties.maximum or Properties.Maximum or 100),
+				Sub = (
+					Properties.suffix
+						or Properties.Suffix
+						or Properties.ending
+						or Properties.Ending
+						or Properties.prefix
+						or Properties.Prefix
+						or Properties.measurement
+						or Properties.Measurement
+						or ""
+				),
+				Decimals = (Properties.decimals or Properties.Decimals or 1),
+				Callback = (
+					Properties.callback
+						or Properties.Callback
+						or Properties.callBack
+						or Properties.CallBack
+						or function() end
+				),
+				Flag = (
+					Properties.flag
+						or Properties.Flag
+						or Properties.pointer
+						or Properties.Pointer
+						or Library.NextFlag()
+				),
+				Disabled = (Properties.Disabled or Properties.disable or nil),
+			}
+			local TextValue = ("[value]" .. Slider.Sub)
+			--
+			local NewSlider = Instance.new('TextButton', Slider.Section.Elements.SectionContent)
+			local Outline = Instance.new('Frame', NewSlider)
+			local Inline = Instance.new('Frame', Outline)
+			local Accent = Instance.new('TextButton', Inline)
+			local Add = Instance.new('TextButton', Outline)
+			local Subtract = Instance.new('TextButton', Outline)
+			local Title = Instance.new('TextLabel', NewSlider)
+			local Value = Instance.new('TextLabel', NewSlider)
+			--
+			NewSlider.Name = "NewSlider"
+			NewSlider.Size = UDim2.new(1,0,0,22)
+			NewSlider.BackgroundColor3 = Color3.new(1,1,1)
+			NewSlider.BackgroundTransparency = 1
+			NewSlider.BorderSizePixel = 0
+			NewSlider.BorderColor3 = Color3.new(0,0,0)
+			NewSlider.Text = ""
+			NewSlider.TextColor3 = Color3.new(0,0,0)
+			NewSlider.AutoButtonColor = false
+			NewSlider.FontFace = Font.new("rbxassetid://12187371840")
+			NewSlider.TextSize = 14
+			--
+			Outline.Name = "Outline"
+			Outline.Position = UDim2.new(0,15,1,0)
+			Outline.Size = UDim2.new(1,-30,0,7)
+			Outline.BackgroundColor3 = Color3.new(0.1765,0.1765,0.1765)
+			Outline.BorderColor3 = Color3.new(0.0392,0.0392,0.0392)
+			Outline.AnchorPoint = NewVector2(0,1)
+			--
+			Inline.Name = "Inline"
+			Inline.Position = UDim2.new(0,1,0,1)
+			Inline.Size = UDim2.new(1,-2,1,-2)
+			Inline.BackgroundColor3 = Color3.new(0.1294,0.1294,0.1294)
+			Inline.BorderSizePixel = 0
+			Inline.BorderColor3 = Color3.new(0,0,0)
+			--
+			Accent.Name = "Accent"
+			Accent.Size = UDim2.new(0,0,1,0)
+			Accent.BackgroundColor3 = Library.Accent
+			Accent.BorderSizePixel = 0
+			Accent.BorderColor3 = Color3.new(0,0,0)
+			Accent.Text = ""
+			Accent.TextColor3 = Color3.new(0,0,0)
+			Accent.AutoButtonColor = false
+			Accent.FontFace = Font.new("rbxassetid://12187371840")
+			Accent.TextSize = 14
+			table.insert(Library.ThemeObjects, Accent)
+			table.insert(Library.ThemeObjects, Accent)
+			--
+			Add.Name = "Add"
+			Add.Position = UDim2.new(1,5,0.5,0)
+			Add.Size = UDim2.new(0,10,0,10)
+			Add.BackgroundColor3 = Color3.new(1,1,1)
+			Add.BackgroundTransparency = 1
+			Add.BorderSizePixel = 0
+			Add.BorderColor3 = Color3.new(0,0,0)
+			Add.AnchorPoint = NewVector2(0,0.5)
+			Add.Text = "+"
+			Add.TextColor3 = Color3.new(0.5686,0.5686,0.5686)
+			Add.AutoButtonColor = false
+			Add.FontFace = Font.new("rbxassetid://12187371840")
+			Add.TextSize = Library.FontSize
+			Add.TextStrokeTransparency = 0
+			--
+			Subtract.Name = "Subtract"
+			Subtract.Position = UDim2.new(0,-15,0.5,0)
+			Subtract.Size = UDim2.new(0,10,0,10)
+			Subtract.BackgroundColor3 = Color3.new(1,1,1)
+			Subtract.BackgroundTransparency = 1
+			Subtract.BorderSizePixel = 0
+			Subtract.BorderColor3 = Color3.new(0,0,0)
+			Subtract.AnchorPoint = NewVector2(0,0.5)
+			Subtract.Text = "-"
+			Subtract.TextColor3 = Color3.new(0.5686,0.5686,0.5686)
+			Subtract.AutoButtonColor = false
+			Subtract.FontFace = Font.new("rbxassetid://12187371840")
+			Subtract.TextSize = Library.FontSize
+			Subtract.TextStrokeTransparency = 0
+			--
+			Title.Name = "Title"
+			Title.Position = UDim2.new(0,15,0,0)
+			Title.Size = UDim2.new(1,0,0,10)
+			Title.BackgroundColor3 = Color3.new(1,1,1)
+			Title.BackgroundTransparency = 1
+			Title.BorderSizePixel = 0
+			Title.BorderColor3 = Color3.new(0,0,0)
+			Title.TextColor3 = Color3.new(0.5686,0.5686,0.5686)
+			Title.FontFace = Font.new("rbxassetid://12187371840")
+			Title.TextSize = Library.FontSize
+			Title.TextXAlignment = Enum.TextXAlignment.Left
+			Title.Text = Slider.Name
+			Title.TextStrokeTransparency = 0
+			--
+			Value.Name = "Value"
+			Value.Position = UDim2.new(0,15,0,0)
+			Value.Size = UDim2.new(1,-30,0,10)
+			Value.BackgroundColor3 = Color3.new(1,1,1)
+			Value.BackgroundTransparency = 1
+			Value.BorderSizePixel = 0
+			Value.BorderColor3 = Color3.new(0,0,0)
+			Value.TextColor3 = Color3.new(1,1,1)
+			Value.FontFace = Font.new("rbxassetid://12187371840")
+			Value.TextSize = Library.FontSize
+			Value.TextXAlignment = Enum.TextXAlignment.Right
+			Value.TextStrokeTransparency = 0
+			
+			-- // Functions
+			local Sliding = false
+			local Val = Slider.State
+			local function Set(value)
+				value = math.clamp(Library:Round(value, Slider.Decimals), Slider.Min, Slider.Max)
+
+				local sizeX = ((value - Slider.Min) / (Slider.Max - Slider.Min))
+				Accent.Size = UDim2.new(sizeX, 0, 1, 0)
+				--Value.Text = TextValue:gsub("%[value%]", string.format("%.14g", value))
+				if Slider.Disabled and value == Slider.Min then
+					Value.Text = Slider.Disabled
+				else
+					Value.Text = TextValue:gsub("%[value%]", string.format("%.14g", value))
+				end
+				Val = value
+
+				Library.Flags[Slider.Flag] = value
+				Slider.Callback(value)
+			end				
+			--
+			local function Slide(input)
+				local sizeX = (input.Position.X - Outline.AbsolutePosition.X) / Outline.AbsoluteSize.X
+				local value = ((Slider.Max - Slider.Min) * sizeX) + Slider.Min
+				Set(value)
+			end
+			--
+			Library:Connection(NewSlider.InputBegan, function(input)
+				if input.UserInputType == Enum.UserInputType.MouseButton1 then
+					Sliding = true
+					Slide(input)
+				end
+			end)
+			Library:Connection(NewSlider.InputEnded, function(input)
+				if input.UserInputType == Enum.UserInputType.MouseButton1 then
+					Sliding = false
+				end
+			end)
+			Library:Connection(Accent.InputBegan, function(input)
+				if input.UserInputType == Enum.UserInputType.MouseButton1 then
+					Sliding = true
+					Slide(input)
+				end
+			end)
+			Library:Connection(Accent.InputEnded, function(input)
+				if input.UserInputType == Enum.UserInputType.MouseButton1 then
+					Sliding = false
+				end
+			end)
+			Library:Connection(game:GetService("UserInputService").InputChanged, function(input)
+				if input.UserInputType == Enum.UserInputType.MouseMovement then
+					if Sliding then
+						Slide(input)
+					end
+				end
+			end)
+			Library:Connection(NewSlider.MouseEnter, function()
+				table.insert(Library.ThemeObjects, Title)
+				Title.TextColor3 = Library.Accent
+			end)
+			--
+			Library:Connection(NewSlider.MouseLeave, function()
+				table.remove(Library.ThemeObjects, table.find(Library.ThemeObjects, Title))
+				Title.TextColor3 = Color3.new(0.5686,0.5686,0.5686)
+			end)
+			--
+			Library:Connection(Add.MouseButton1Down, function()
+				Set(Val + 1)
+			end)
+			--
+			Library:Connection(Subtract.MouseButton1Down, function()
+				Set(Val - 1)
+			end)
+			--
+			function Slider:Set(Value)
+				Set(Value)
+			end
+			-- 
+			function Slider:SetVisible(Bool) 
+				NewSlider.Visible = Bool
+			end 
+			--
+			Flags[Slider.Flag] = Set
+			Library.Flags[Slider.Flag] = Slider.State
+			Set(Slider.State)
+
+			-- // Returning
+			return Slider
+		end
+		--
+		function Sections:Dropdown(Properties)
+			local Properties = Properties or {};
+			local Dropdown = {
+				Window = self.Window,
+				Page = self.Page,
+				Section = self,
+				Open = false,
+				Name = Properties.Name or Properties.name or nil,
+				Options = (Properties.options or Properties.Options or Properties.values or Properties.Values or {
+					"1",
+					"2",
+					"3",
+				}),
+				Max = (Properties.Max or Properties.max or nil),
+				State = (
+					Properties.state
+						or Properties.State
+						or Properties.def
+						or Properties.Def
+						or Properties.default
+						or Properties.Default
+						or nil
+				),
+				Callback = (
+					Properties.callback
+						or Properties.Callback
+						or Properties.callBack
+						or Properties.CallBack
+						or function() end
+				),
+				Flag = (
+					Properties.flag
+						or Properties.Flag
+						or Properties.pointer
+						or Properties.Pointer
+						or Library.NextFlag()
+				),
+				OptionInsts = {},
+			}
+			--
+			local NewDrop = Instance.new('Frame', Dropdown.Section.Elements.SectionContent)
+			local Outline = Instance.new('TextButton', NewDrop)
+			local Inline = Instance.new('Frame', Outline)
+			local Value = Instance.new('TextLabel', Inline)
+			local Icon = Instance.new('TextLabel', Inline)
+			local Title = Instance.new('TextLabel', NewDrop)
+			local ContainerOutline = Instance.new('Frame', NewDrop)
+			local ContainerInline = Instance.new('Frame', ContainerOutline)
+			local UIListLayout = Instance.new('UIListLayout', ContainerInline)
+			--
+			NewDrop.Name = "NewDrop"
+			NewDrop.Size = UDim2.new(1,0,0,30)
+			NewDrop.BackgroundColor3 = Color3.new(1,1,1)
+			NewDrop.BackgroundTransparency = 1
+			NewDrop.BorderSizePixel = 0
+			NewDrop.BorderColor3 = Color3.new(0,0,0)
+			--
+			Outline.Name = "Outline"
+			Outline.Position = UDim2.new(0,15,1,0)
+			Outline.Size = UDim2.new(1,-30,0,16)
+			Outline.BackgroundColor3 = Color3.new(0.1765,0.1765,0.1765)
+			Outline.BorderColor3 = Color3.new(0.0392,0.0392,0.0392)
+			Outline.AnchorPoint = NewVector2(0,1)
+			Outline.Text = ""
+			Outline.AutoButtonColor = false
+			--
+			Inline.Name = "Inline"
+			Inline.Position = UDim2.new(0,1,0,1)
+			Inline.Size = UDim2.new(1,-2,1,-2)
+			Inline.BackgroundColor3 = Color3.new(0.1294,0.1294,0.1294)
+			Inline.BorderSizePixel = 0
+			Inline.BorderColor3 = Color3.new(0,0,0)
+			--
+			Value.Name = "Value"
+			Value.Position = UDim2.new(0,2,0,0)
+			Value.Size = UDim2.new(1,-30,1,0)
+			Value.BackgroundColor3 = Color3.new(1,1,1)
+			Value.BackgroundTransparency = 1
+			Value.BorderSizePixel = 0
+			Value.BorderColor3 = Color3.new(0,0,0)
+			Value.TextColor3 = Color3.new(0.5686,0.5686,0.5686)
+			Value.FontFace = Font.new("rbxassetid://12187371840")
+			Value.TextSize = Library.FontSize
+			Value.TextXAlignment = Enum.TextXAlignment.Left
+			Value.TextStrokeTransparency = 0
+			Value.TextWrapped = true
+			--
+			Icon.Name = "Icon"
+			Icon.Position = UDim2.new(0,-5,0,0)
+			Icon.Size = UDim2.new(1,0,1,0)
+			Icon.BackgroundColor3 = Color3.new(1,1,1)
+			Icon.BackgroundTransparency = 1
+			Icon.BorderSizePixel = 0
+			Icon.BorderColor3 = Color3.new(0,0,0)
+			Icon.Text = "+"
+			Icon.TextColor3 = Color3.new(0.5686,0.5686,0.5686)
+			Icon.FontFace = Font.new("rbxassetid://12187371840")
+			Icon.TextSize = Library.FontSize
+			Icon.TextXAlignment = Enum.TextXAlignment.Right
+			Icon.TextStrokeTransparency = 0
+			--
+			Title.Name = "Title"
+			Title.Position = UDim2.new(0,15,0,0)
+			Title.Size = UDim2.new(1,0,0,10)
+			Title.BackgroundColor3 = Color3.new(1,1,1)
+			Title.BackgroundTransparency = 1
+			Title.BorderSizePixel = 0
+			Title.BorderColor3 = Color3.new(0,0,0)
+			Title.TextColor3 = Color3.new(0.5686,0.5686,0.5686)
+			Title.FontFace = Font.new("rbxassetid://12187371840")
+			Title.TextSize = Library.FontSize
+			Title.TextXAlignment = Enum.TextXAlignment.Left
+			Title.TextStrokeTransparency = 0
+			Title.Text = Dropdown.Name
+			--
+			ContainerOutline.Name = "ContainerOutline"
+			ContainerOutline.Position = UDim2.new(0,15,1,2)
+			ContainerOutline.Size = UDim2.new(1,-30,0,10)
+			ContainerOutline.BackgroundColor3 = Color3.new(0.1765,0.1765,0.1765)
+			ContainerOutline.BorderColor3 = Color3.new(0.0392,0.0392,0.0392)
+			ContainerOutline.Visible = false
+			ContainerOutline.AutomaticSize = Enum.AutomaticSize.Y
+			ContainerOutline.ZIndex = 5
+			--
+			ContainerInline.Name = "ContainerInline"
+			ContainerInline.Position = UDim2.new(0,1,0,1)
+			ContainerInline.Size = UDim2.new(1,-2,1,-2)
+			ContainerInline.BackgroundColor3 = Color3.new(0.1294,0.1294,0.1294)
+			ContainerInline.BorderSizePixel = 0
+			ContainerInline.BorderColor3 = Color3.new(0,0,0)
+			ContainerInline.ZIndex = 6;
+			--
+			UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+			
+			-- // Connections
+			Library:Connection(Outline.MouseButton1Down, function()
+				ContainerOutline.Visible = not ContainerOutline.Visible
+				if ContainerOutline.Visible then
+					NewDrop.ZIndex = 2
+					Icon.Text = "-"
+				else
+					NewDrop.ZIndex = 1
+					Icon.Text = "+"
+				end
+			end)
+			Library:Connection(game:GetService("UserInputService").InputBegan, function(Input)
+				if ContainerOutline.Visible and Input.UserInputType == Enum.UserInputType.MouseButton1 then
+					if not Library:IsMouseOverFrame(ContainerOutline) and not Library:IsMouseOverFrame(NewDrop) then
+						ContainerOutline.Visible = false
+						NewDrop.ZIndex = 1
+						Icon.Text = "+"
+					end
+				end
+			end)
+			Library:Connection(NewDrop.MouseEnter, function()
+				Outline.BorderColor3 = Library.Accent
+				table.insert(Library.ThemeObjects, Title)
+				Title.TextColor3 = Library.Accent
+			end)
+			--
+			Library:Connection(NewDrop.MouseLeave, function()
+				Outline.BorderColor3 = Color3.new(0.0392,0.0392,0.0392)
+				table.remove(Library.ThemeObjects, table.find(Library.ThemeObjects, Title))
+				Title.TextColor3 = Color3.new(0.5686,0.5686,0.5686)
+			end)
+			--
+			local chosen = Dropdown.Max and {} or nil
+			--
+			local function handleoptionclick(option, button, text)
+				button.MouseButton1Down:Connect(function()
+					if Dropdown.Max then
+						if table.find(chosen, option) then
+							table.remove(chosen, table.find(chosen, option))
+
+							local textchosen = {}
+							local cutobject = false
+
+							for _, opt in next, chosen do
+								table.insert(textchosen, opt)
+							end
+
+							Value.Text = #chosen == 0 and "" or table.concat(textchosen, ",") .. (cutobject and ", ..." or "")
+
+							text.TextColor3 = Color3.fromRGB(145,145,145)
+
+							Library.Flags[Dropdown.Flag] = chosen
+							Dropdown.Callback(chosen)
+						else
+							if #chosen == Dropdown.Max then
+								Dropdown.OptionInsts[chosen[1]].text.TextColor3 = Color3.fromRGB(145,145,145)
+								table.remove(chosen, 1)
+							end
+
+							table.insert(chosen, option)
+
+							local textchosen = {}
+							local cutobject = false
+
+							for _, opt in next, chosen do
+								table.insert(textchosen, opt)
+							end
+
+							Value.Text = #chosen == 0 and "" or table.concat(textchosen, ",") .. (cutobject and ", ..." or "")
+
+							text.TextColor3 = Color3.fromRGB(255,255,255)
+
+							Library.Flags[Dropdown.Flag] = chosen
+							Dropdown.Callback(chosen)
+						end
+					else
+						for opt, tbl in next, Dropdown.OptionInsts do
+							if opt ~= option then
+								tbl.text.TextColor3 = Color3.fromRGB(145,145,145)
+							end
+						end
+						chosen = option
+						Value.Text = option
+						text.TextColor3 = Color3.fromRGB(255,255,255)
+						Library.Flags[Dropdown.Flag] = option
+						Dropdown.Callback(option)
+					end
+				end)
+			end
+			--
+			local function createoptions(tbl)
+				for _, option in next, tbl do
+					Dropdown.OptionInsts[option] = {}
+					local NewOption = Instance.new('TextButton', ContainerInline)
+					local OptionName = Instance.new('TextLabel', NewOption)
+					NewOption.Name = "NewOption"
+					NewOption.Size = UDim2.new(1,0,0,15)
+					NewOption.BackgroundColor3 = Color3.new(1,1,1)
+					NewOption.BackgroundTransparency = 1
+					NewOption.BorderSizePixel = 0
+					NewOption.BorderColor3 = Color3.new(0,0,0)
+					NewOption.Text = ""
+					NewOption.TextColor3 = Color3.new(0,0,0)
+					NewOption.AutoButtonColor = false
+					NewOption.FontFace = Font.new("rbxassetid://12187371840")
+					NewOption.TextSize = 14
+					NewOption.ZIndex = 7;
+					Dropdown.OptionInsts[option].button = NewOption
+					--
+					OptionName.Name = "OptionName"
+					OptionName.Position = UDim2.new(0,2,0,0)
+					OptionName.Size = UDim2.new(1,0,1,0)
+					OptionName.BackgroundColor3 = Color3.new(1,1,1)
+					OptionName.BackgroundTransparency = 1
+					OptionName.BorderSizePixel = 0
+					OptionName.BorderColor3 = Color3.new(0,0,0)
+					OptionName.Text = option
+					OptionName.TextColor3 = Color3.new(0.5686,0.5686,0.5686)
+					OptionName.FontFace = Font.new("rbxassetid://12187371840")
+					OptionName.TextSize = Library.FontSize
+					OptionName.TextXAlignment = Enum.TextXAlignment.Left
+					OptionName.TextStrokeTransparency = 0
+					OptionName.ZIndex = 8;
+					Dropdown.OptionInsts[option].text = OptionName
+
+					handleoptionclick(option, NewOption, OptionName)
+				end
+			end
+			createoptions(Dropdown.Options)
+			--
+			local set
+			set = function(option)
+				if Dropdown.Max then
+					table.clear(chosen)
+					option = type(option) == "table" and option or {}
+
+					for opt, tbl in next, Dropdown.OptionInsts do
+						if not table.find(option, opt) then
+							tbl.text.TextColor3 = Color3.fromRGB(145,145,145)
+						end
+					end
+
+					for i, opt in next, option do
+						if table.find(Dropdown.Options, opt) and #chosen < Dropdown.Max then
+							table.insert(chosen, opt)
+							Dropdown.OptionInsts[opt].text.TextColor3 = Color3.fromRGB(255,255,255)
+						end
+					end
+
+					local textchosen = {}
+					local cutobject = false
+
+					for _, opt in next, chosen do
+						table.insert(textchosen, opt)
+					end
+
+					Value.Text = #chosen == 0 and "" or table.concat(textchosen, ",") .. (cutobject and ", ..." or "")
+
+					Library.Flags[Dropdown.Flag] = chosen
+					Dropdown.Callback(chosen)
+				end
+			end
+			--
+			function Dropdown:Set(option)
+				if Dropdown.Max then
+					set(option)
+				else
+					for opt, tbl in next, Dropdown.OptionInsts do
+						if opt ~= option then
+							tbl.text.TextColor3 = Color3.fromRGB(145,145,145)
+						end
+					end
+					if table.find(Dropdown.Options, option) then
+						chosen = option
+						Value.Text = option
+						Dropdown.OptionInsts[option].text.TextColor3 = Color3.fromRGB(255,255,255)
+						Library.Flags[Dropdown.Flag] = chosen
+						Dropdown.Callback(chosen)
+					else
+						chosen = nil
+						Value.Text = ""
+						Library.Flags[Dropdown.Flag] = chosen
+						Dropdown.Callback(chosen)
+					end
+				end
+			end
+			--
+			function Dropdown:Refresh(tbl)
+				for _, opt in next, Dropdown.OptionInsts do
+					coroutine.wrap(function()
+						opt.button:Destroy()
+					end)()
+				end
+				table.clear(Dropdown.OptionInsts)
+
+				createoptions(tbl)
+
+				if Dropdown.Max then
+					table.clear(chosen)
+				else
+					chosen = nil
+				end
+
+				Library.Flags[Dropdown.Flag] = chosen
+				Dropdown.Callback(chosen)
+			end
+
+			-- // Returning
+			if Dropdown.Max then
+				Flags[Dropdown.Flag] = set
+			else
+				Flags[Dropdown.Flag] = Dropdown
+			end
+			Dropdown:Set(Dropdown.State)
+			function Dropdown:SetVisible(Bool) 
+				NewDrop.Visible = Bool 
+			end 
+			return Dropdown
+		end
+		--
+		function Sections:Keybind(Properties)
+			local Properties = Properties or {}
+			local Keybind = {
+				Section = self,
+				Name = Properties.name or Properties.Name or "Keybind",
+				State = (
+					Properties.state
+						or Properties.State
+						or Properties.def
+						or Properties.Def
+						or Properties.default
+						or Properties.Default
+						or nil
+				),
+				Mode = (Properties.mode or Properties.Mode or "Toggle"),
+				UseKey = (Properties.UseKey or false),
+				Ignore = (Properties.ignore or Properties.Ignore or false),
+				Callback = (
+					Properties.callback
+						or Properties.Callback
+						or Properties.callBack
+						or Properties.CallBack
+						or function() end
+				),
+				Flag = (
+					Properties.flag
+						or Properties.Flag
+						or Properties.pointer
+						or Properties.Pointer
+						or Library.NextFlag()
+				),
+				Binding = nil,
+			}
+			local Key
+			local State = false
+			--
+			local NewKey = Instance.new('Frame', Keybind.Section.Elements.SectionContent)
+			local Outline = Instance.new('TextButton', NewKey)
+			local Inline = Instance.new('Frame', Outline)
+			local Value = Instance.new('TextLabel', Inline)
+			local Title = Instance.new('TextLabel', NewKey)
+			local ModeOutline = Instance.new('Frame', NewKey)
+			local ModeInline = Instance.new('Frame', ModeOutline)
+			local UIListLayout = Instance.new('UIListLayout', ModeInline)
+			local Hold = Instance.new('TextButton', ModeInline)
+			local Toggle = Instance.new('TextButton', ModeInline)
+			local Always = Instance.new('TextButton', ModeInline)
+			local ListValue = Library.KeyList:NewKey(tostring(Keybind.State):gsub("Enum.KeyCode.", ""), Keybind.Name, Keybind.Mode)
+			--
+			NewKey.Name = "NewKey"
+			NewKey.Size = UDim2.new(1,0,0,12)
+			NewKey.BackgroundColor3 = Color3.new(1,1,1)
+			NewKey.BackgroundTransparency = 1
+			NewKey.BorderSizePixel = 0
+			NewKey.BorderColor3 = Color3.new(0,0,0)
+			--
+			Outline.Name = "Outline"
+			Outline.Position = UDim2.new(1,0,0.5,0)
+			Outline.Size = UDim2.new(0,40,0,12)
+			Outline.BackgroundColor3 = Color3.new(0.1765,0.1765,0.1765)
+			Outline.BorderColor3 = Color3.new(0.0392,0.0392,0.0392)
+			Outline.AnchorPoint = NewVector2(1,0.5)
+			Outline.Text = ""
+			Outline.AutoButtonColor = false
+			--
+			Inline.Name = "Inline"
+			Inline.Position = UDim2.new(0,1,0,1)
+			Inline.Size = UDim2.new(1,-2,1,-2)
+			Inline.BackgroundColor3 = Color3.new(0.1294,0.1294,0.1294)
+			Inline.BorderSizePixel = 0
+			Inline.BorderColor3 = Color3.new(0,0,0)
+			--
+			Value.Name = "Value"
+			Value.Size = UDim2.new(1,0,1,0)
+			Value.BackgroundColor3 = Color3.new(1,1,1)
+			Value.BackgroundTransparency = 1
+			Value.BorderSizePixel = 0
+			Value.BorderColor3 = Color3.new(0,0,0)
+			Value.Text = "MB2"
+			Value.TextColor3 = Color3.new(0.5686,0.5686,0.5686)
+			Value.FontFace = Font.new("rbxassetid://12187371840")
+			Value.TextSize = Library.FontSize
+			Value.TextStrokeTransparency = 0
+			--
+			Title.Name = "Title"
+			Title.Position = UDim2.new(0,15,0,0)
+			Title.Size = UDim2.new(1,0,0,10)
+			Title.BackgroundColor3 = Color3.new(1,1,1)
+			Title.BackgroundTransparency = 1
+			Title.BorderSizePixel = 0
+			Title.BorderColor3 = Color3.new(0,0,0)
+			Title.TextColor3 = Color3.new(0.5686,0.5686,0.5686)
+			Title.FontFace = Font.new("rbxassetid://12187371840")
+			Title.TextSize = Library.FontSize
+			Title.TextXAlignment = Enum.TextXAlignment.Left
+			Title.Text = Keybind.Name
+			Title.TextStrokeTransparency = 0
+			--
+			ModeOutline.Name = "ModeOutline"
+			ModeOutline.Position = UDim2.new(1,65,0.5,0)
+			ModeOutline.Size = UDim2.new(0,60,0,12)
+			ModeOutline.BackgroundColor3 = Color3.new(0.1765,0.1765,0.1765)
+			ModeOutline.BorderColor3 = Color3.new(0.0392,0.0392,0.0392)
+			ModeOutline.AnchorPoint = NewVector2(1,0.5)
+			ModeOutline.AutomaticSize = Enum.AutomaticSize.Y
+			ModeOutline.Visible = false
+			--
+			ModeInline.Name = "ModeInline"
+			ModeInline.Position = UDim2.new(0,1,0,1)
+			ModeInline.Size = UDim2.new(1,-2,1,-2)
+			ModeInline.BackgroundColor3 = Color3.new(0.1294,0.1294,0.1294)
+			ModeInline.BorderSizePixel = 0
+			ModeInline.BorderColor3 = Color3.new(0,0,0)
+			--
+			UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+			--
+			Hold.Name = "Hold"
+			Hold.Size = UDim2.new(1,0,0,15)
+			Hold.BackgroundColor3 = Color3.new(1,1,1)
+			Hold.BackgroundTransparency = 1
+			Hold.BorderSizePixel = 0
+			Hold.BorderColor3 = Color3.new(0,0,0)
+			Hold.Text = "Hold"
+			Hold.TextColor3 = Keybind.Mode == "Hold" and Color3.new(1,1,1) or Color3.new(0.5686,0.5686,0.5686)
+			Hold.AutoButtonColor = false
+			Hold.FontFace = Font.new("rbxassetid://12187371840")
+			Hold.TextSize = Library.FontSize
+			Hold.TextStrokeTransparency = 0
+			--
+			Toggle.Name = "Toggle"
+			Toggle.Size = UDim2.new(1,0,0,15)
+			Toggle.BackgroundColor3 = Color3.new(1,1,1)
+			Toggle.BackgroundTransparency = 1
+			Toggle.BorderSizePixel = 0
+			Toggle.BorderColor3 = Color3.new(0,0,0)
+			Toggle.Text = "Toggle"
+			Toggle.TextColor3 = Keybind.Mode == "Toggle" and Color3.new(1,1,1) or Color3.new(0.5686,0.5686,0.5686)
+			Toggle.AutoButtonColor = false
+			Toggle.FontFace = Font.new("rbxassetid://12187371840")
+			Toggle.TextSize = Library.FontSize
+			Toggle.TextStrokeTransparency = 0
+			--
+			Always.Name = "Always"
+			Always.Size = UDim2.new(1,0,0,15)
+			Always.BackgroundColor3 = Color3.new(1,1,1)
+			Always.BackgroundTransparency = 1
+			Always.BorderSizePixel = 0
+			Always.BorderColor3 = Color3.new(0,0,0)
+			Always.Text = "Always"
+			Always.TextColor3 = Keybind.Mode == "Always" and Color3.new(1,1,1) or Color3.new(0.5686,0.5686,0.5686)
+			Always.AutoButtonColor = false
+			Always.FontFace = Font.new("rbxassetid://12187371840")
+			Always.TextSize = Library.FontSize
+			Always.TextStrokeTransparency = 0
+			
+			-- // Functions
+			local function set(newkey)
+				if string.find(tostring(newkey), "Enum") then
+					if c then
+						c:Disconnect()
+						if Keybind.Flag then
+							Library.Flags[Keybind.Flag] = false
+						end
+						Keybind.Callback(false)
+					end
+					if tostring(newkey):find("Enum.KeyCode.") then
+						newkey = Enum.KeyCode[tostring(newkey):gsub("Enum.KeyCode.", "")]
+					elseif tostring(newkey):find("Enum.UserInputType.") then
+						newkey = Enum.UserInputType[tostring(newkey):gsub("Enum.UserInputType.", "")]
+					end
+					if newkey == Enum.KeyCode.Backspace then
+						Key = nil
+						if Keybind.UseKey then
+							if Keybind.Flag then
+								Library.Flags[Keybind.Flag] = Key
+							end
+							Keybind.Callback(Key)
+						end
+						local text = "None"
+
+						Value.Text = text
+						ListValue:Update(text, Keybind.Name, Keybind.Mode)
+					elseif newkey ~= nil then
+						Key = newkey
+						if Keybind.UseKey then
+							if Keybind.Flag then
+								Library.Flags[Keybind.Flag] = Key
+							end
+							Keybind.Callback(Key)
+						end
+						local text = (Library.Keys[newkey] or tostring(newkey):gsub("Enum.KeyCode.", ""))
+
+						Value.Text = text
+						ListValue:Update(text, Keybind.Name, Keybind.Mode)
+					end
+
+					Library.Flags[Keybind.Flag .. "_KEY"] = newkey
+				elseif table.find({ "Always", "Toggle", "Hold" }, newkey) then
+					if not Keybind.UseKey then
+						Library.Flags[Keybind.Flag .. "_KEY STATE"] = newkey
+						Keybind.Mode = newkey
+						ListValue:Update((Library.Keys[Key] or tostring(Key):gsub("Enum.KeyCode.", "")), Toggle.Name, Keybind.Mode)
+						if Keybind.Mode == "Always" then
+							State = true
+							if Keybind.Flag then
+								Library.Flags[Keybind.Flag] = State
+							end
+							Keybind.Callback(true)
+							ListValue:SetVisible(true)
+						end
+					end
+				else
+					State = newkey
+					if Keybind.Flag then
+						Library.Flags[Keybind.Flag] = newkey
+					end
+					Keybind.Callback(newkey)
+				end
+			end
+			--
+			set(Keybind.State)
+			set(Keybind.Mode)
+			Outline.MouseButton1Click:Connect(function()
+				if not Keybind.Binding then
+
+					Value.Text = "..."
+
+					Keybind.Binding = Library:Connection(
+						game:GetService("UserInputService").InputBegan,
+						function(input, gpe)
+							set(
+								input.UserInputType == Enum.UserInputType.Keyboard and input.KeyCode
+									or input.UserInputType
+							)
+							Library:Disconnect(Keybind.Binding)
+							task.wait()
+							Keybind.Binding = nil
+						end
+					)
+				end
+			end)
+			--
+			Library:Connection(game:GetService("UserInputService").InputBegan, function(inp, Chatting)
+				if not Chatting then 
+					if (inp.KeyCode == Key or inp.UserInputType == Key) and not Keybind.Binding and not Keybind.UseKey then
+						if Keybind.Mode == "Hold" then
+							if Keybind.Flag then
+								Library.Flags[Keybind.Flag] = true
+							end
+							c = Library:Connection(game:GetService("RunService").RenderStepped, function()
+								if Keybind.Callback then
+									Keybind.Callback(true)
+								end
+							end)
+							ListValue:SetVisible(true)
+						elseif Keybind.Mode == "Toggle" then
+							State = not State
+							if Keybind.Flag then
+								Library.Flags[Keybind.Flag] = State
+							end
+							Keybind.Callback(State)
+							ListValue:SetVisible(State)
+						end
+					end 
+				end 
+			end)
+			--
+			Library:Connection(game:GetService("UserInputService").InputEnded, function(inp, Chatting)
+				if not Chatting then 
+					if Keybind.Mode == "Hold" and not Keybind.UseKey then
+						if Key ~= "" or Key ~= nil then
+							if inp.KeyCode == Key or inp.UserInputType == Key then
+								if c then
+									c:Disconnect()
+									if Keybind.Flag then
+										Library.Flags[Keybind.Flag] = false
+									end
+									if Keybind.Callback then
+										Keybind.Callback(false)
+									end
+									ListValue:SetVisible(false)
+								end
+							end
+						end
+					end
+				end 
+			end)
+			Library:Connection(Outline.MouseEnter, function()
+				Outline.BorderColor3 = Library.Accent
+			end)
+			--
+			Library:Connection(Outline.MouseLeave, function()
+				Outline.BorderColor3 = Color3.new(0.0392,0.0392,0.0392)
+			end)
+			--
+			Library:Connection(Outline.MouseButton2Down, function()
+				ModeOutline.Visible = not ModeOutline.Visible
+			end)
+			--
+			Library:Connection(NewKey.MouseEnter, function()
+				table.insert(Library.ThemeObjects, Title)
+				Title.TextColor3 = Library.Accent
+			end)
+			--
+			Library:Connection(NewKey.MouseLeave, function()
+				table.remove(Library.ThemeObjects, table.find(Library.ThemeObjects, Title))
+				Title.TextColor3 = Color3.new(0.5686,0.5686,0.5686)
+			end)
+			--
+			Library:Connection(Hold.MouseButton1Down, function()
+				set("Hold")
+				Hold.TextColor3 = Color3.new(1,1,1)
+				Toggle.TextColor3 = Color3.fromRGB(145,145,145)
+				Always.TextColor3 = Color3.fromRGB(145,145,145)
+			end)
+			--
+			Library:Connection(Toggle.MouseButton1Down, function()
+				set("Toggle")
+				Hold.TextColor3 = Color3.fromRGB(145,145,145)
+				Toggle.TextColor3 = Color3.new(1,1,1)
+				Always.TextColor3 = Color3.fromRGB(145,145,145)
+			end)
+			--
+			Library:Connection(Always.MouseButton1Down, function()
+				set("Always")
+				Hold.TextColor3 = Color3.fromRGB(145,145,145)
+				Toggle.TextColor3 = Color3.fromRGB(145,145,145)
+				Always.TextColor3 = Color3.new(1,1,1)
+			end)
+			--
+			Library:Connection(game:GetService("UserInputService").InputBegan, function(Input, Chatting)
+				if ModeOutline.Visible and Input.UserInputType == Enum.UserInputType.MouseButton1 then
+					if not Library:IsMouseOverFrame(ModeOutline) then
+						ModeOutline.Visible = false
+					end
+				end
+			end)
+			--
+			Library.Flags[Keybind.Flag .. "_KEY"] = Keybind.State
+			Library.Flags[Keybind.Flag .. "_KEY STATE"] = Keybind.Mode
+			Flags[Keybind.Flag] = set
+			Flags[Keybind.Flag .. "_KEY"] = set
+			Flags[Keybind.Flag .. "_KEY STATE"] = set
+			--
+			function Keybind:Set(key)
+				set(key)
+			end
+
+			-- // Returning
+			return Keybind
+		end
+		--
+		function Sections:Colorpicker(Properties)
+			local Properties = Properties or {}
+			local Colorpicker = {
+				Window = self.Window,
+				Page = self.Page,
+				Section = self,
+				Name = (Properties.Name or "Colorpicker"),
+				State = (
+					Properties.state
+						or Properties.State
+						or Properties.def
+						or Properties.Def
+						or Properties.default
+						or Properties.Default
+						or Color3.fromRGB(255, 0, 0)
+				),
+				Alpha = (
+					Properties.alpha
+						or Properties.Alpha
+						or Properties.transparency
+						or Properties.Transparency
+						or 1
+				),
+				Callback = (
+					Properties.callback
+						or Properties.Callback
+						or Properties.callBack
+						or Properties.CallBack
+						or function() end
+				),
+				Flag = (
+					Properties.flag
+						or Properties.Flag
+						or Properties.pointer
+						or Properties.Pointer
+						or Library.NextFlag()
+				),
+				Colorpickers = 0,
+			}
+			--
+			local NewToggle = Instance.new('Frame', Colorpicker.Section.Elements.SectionContent)
+			local TextLabel = Instance.new('TextLabel', NewToggle)
+			--
+			NewToggle.Name = "NewToggle"
+			NewToggle.Size = UDim2.new(1,0,0,10)
+			NewToggle.BackgroundColor3 = Color3.new(1,1,1)
+			NewToggle.BackgroundTransparency = 1
+			NewToggle.BorderSizePixel = 0
+			NewToggle.BorderColor3 = Color3.new(0,0,0)
+			--
+			TextLabel.Position = UDim2.new(0,15,0,0)
+			TextLabel.Size = UDim2.new(0,100,1,0)
+			TextLabel.BackgroundColor3 = Color3.new(1,1,1)
+			TextLabel.BackgroundTransparency = 1
+			TextLabel.BorderSizePixel = 0
+			TextLabel.BorderColor3 = Color3.new(0,0,0)
+			TextLabel.Text = Colorpicker.Name
+			TextLabel.TextColor3 = Color3.fromRGB(145, 145, 145)
+			TextLabel.FontFace = Font.new("rbxassetid://12187371840")
+			TextLabel.TextSize = Library.FontSize
+			TextLabel.TextXAlignment = Enum.TextXAlignment.Left
+			TextLabel.TextStrokeTransparency = 0
+			
+			Library:Connection(NewToggle.MouseEnter, function()
+				table.insert(Library.ThemeObjects, TextLabel)
+				TextLabel.TextColor3 = Library.Accent
+			end)
+			--
+			Library:Connection(NewToggle.MouseLeave, function()
+				table.remove(Library.ThemeObjects, table.find(Library.ThemeObjects, TextLabel))
+				TextLabel.TextColor3 = Color3.new(0.5686,0.5686,0.5686)
+			end)
+
+			-- // Functions
+			Colorpicker.Colorpickers = Colorpicker.Colorpickers + 1
+			local colorpickertypes = Library:NewPicker(
+				Colorpicker.Name,
+				Colorpicker.State,
+				Colorpicker.Alpha,
+				NewToggle,
+				Colorpicker.Colorpickers - 1,
+				Colorpicker.Flag,
+				Colorpicker.Callback
+			)
+
+			function Colorpicker:Set(color)
+				colorpickertypes:set(color, false, true)
+			end
+
+			-- // Returning
+			return Colorpicker
+		end
+		--
+		function Sections:Textbox(Properties)
+			local Properties = Properties or {}
+			local Textbox = {
+				Window = self.Window,
+				Page = self.Page,
+				Section = self,
+				Name = (Properties.Name or Properties.name or "textbox"),
+				Placeholder = (
+					Properties.placeholder
+						or Properties.Placeholder
+						or Properties.holder
+						or Properties.Holder
+						or ""
+				),
+				State = (
+					Properties.state
+						or Properties.State
+						or Properties.def
+						or Properties.Def
+						or Properties.default
+						or Properties.Default
+						or ""
+				),
+				Callback = (
+					Properties.callback
+						or Properties.Callback
+						or Properties.callBack
+						or Properties.CallBack
+						or function() end
+				),
+				Flag = (
+					Properties.flag
+						or Properties.Flag
+						or Properties.pointer
+						or Properties.Pointer
+						or Library.NextFlag()
+				),
+			}
+			--
+			local NewDrop = Instance.new('Frame', Textbox.Section.Elements.SectionContent)
+			local Outline = Instance.new('TextButton', NewDrop)
+			local Inline = Instance.new('Frame', Outline)
+			local Value = Instance.new('TextBox', Inline)
+			local Title = Instance.new('TextLabel', NewDrop)
+			--
+			NewDrop.Name = "NewDrop"
+			NewDrop.Size = UDim2.new(1,0,0,30)
+			NewDrop.BackgroundColor3 = Color3.new(1,1,1)
+			NewDrop.BackgroundTransparency = 1
+			NewDrop.BorderSizePixel = 0
+			NewDrop.BorderColor3 = Color3.new(0,0,0)
+			--
+			Outline.Name = "Outline"
+			Outline.Position = UDim2.new(0,15,1,0)
+			Outline.Size = UDim2.new(1,-30,0,16)
+			Outline.BackgroundColor3 = Color3.new(0.1765,0.1765,0.1765)
+			Outline.BorderColor3 = Color3.new(0.0392,0.0392,0.0392)
+			Outline.AnchorPoint = NewVector2(0,1)
+			Outline.Text = ""
+			Outline.AutoButtonColor = false
+			--
+			Inline.Name = "Inline"
+			Inline.Position = UDim2.new(0,1,0,1)
+			Inline.Size = UDim2.new(1,-2,1,-2)
+			Inline.BackgroundColor3 = Color3.new(0.1294,0.1294,0.1294)
+			Inline.BorderSizePixel = 0
+			Inline.BorderColor3 = Color3.new(0,0,0)
+			--
+			Value.Name = "Value"
+			Value.Position = UDim2.new(0,2,0,0)
+			Value.Size = UDim2.new(1,0,1,0)
+			Value.BackgroundColor3 = Color3.new(1,1,1)
+			Value.BackgroundTransparency = 1
+			Value.BorderSizePixel = 0
+			Value.BorderColor3 = Color3.new(0,0,0)
+			Value.TextColor3 = Color3.fromRGB(145,145,145)
+			Value.FontFace = Font.new("rbxassetid://12187371840")
+			Value.TextSize = Library.FontSize
+			Value.TextXAlignment = Enum.TextXAlignment.Left
+			Value.TextStrokeTransparency = 0
+			Value.TextWrapped = true
+			Value.Text = Textbox.State
+			Value.ClearTextOnFocus = false
+			--
+			Title.Name = "Title"
+			Title.Position = UDim2.new(0,15,0,0)
+			Title.Size = UDim2.new(1,0,0,10)
+			Title.BackgroundColor3 = Color3.new(1,1,1)
+			Title.BackgroundTransparency = 1
+			Title.BorderSizePixel = 0
+			Title.BorderColor3 = Color3.new(0,0,0)
+			Title.TextColor3 = Color3.new(0.5686,0.5686,0.5686)
+			Title.FontFace = Font.new("rbxassetid://12187371840")
+			Title.TextSize = Library.FontSize
+			Title.TextXAlignment = Enum.TextXAlignment.Left
+			Title.TextStrokeTransparency = 0
+			Title.Text = Textbox.Name
+			
+			-- // Connections
+			Library:Connection(NewDrop.MouseEnter, function()
+				Outline.BorderColor3 = Library.Accent
+				table.insert(Library.ThemeObjects, Title)
+				Title.TextColor3 = Library.Accent
+			end)
+			--
+			Library:Connection(NewDrop.MouseLeave, function()
+				Outline.BorderColor3 = Color3.new(0.0392,0.0392,0.0392)
+				table.remove(Library.ThemeObjects, table.find(Library.ThemeObjects, Title))
+				Title.TextColor3 = Color3.new(0.5686,0.5686,0.5686)
+			end)
+			Value.FocusLost:Connect(function()
+				Textbox.Callback(Value.Text)
+				Library.Flags[Textbox.Flag] = Value.Text
+			end)
+			--
+			local function set(str)
+				Value.Text = str
+				Library.Flags[Textbox.Flag] = str
+				Textbox.Callback(str)
+			end
+
+			-- // Return
+			Flags[Textbox.Flag] = set
+			return Textbox
+		end
+		--
+		function Sections:Button(Properties)
+			local Properties = Properties or {}
+			local Button = {
+				Window = self.Window,
+				Page = self.Page,
+				Section = self,
+				Name = Properties.Name or "button",
+				Callback = (
+					Properties.callback
+						or Properties.Callback
+						or Properties.callBack
+						or Properties.CallBack
+						or function() end
+				),
+			}
+			--
+			local NewButton = Instance.new('TextButton', Button.Section.Elements.SectionContent)
+			local Outline = Instance.new('Frame', NewButton)
+			local Inline = Instance.new('Frame', Outline)
+			local Value = Instance.new('TextLabel', Inline)
+			--
+			NewButton.Name = "NewButton"
+			NewButton.Size = UDim2.new(1,0,0,14)
+			NewButton.BackgroundColor3 = Color3.new(1,1,1)
+			NewButton.BackgroundTransparency = 1
+			NewButton.BorderSizePixel = 0
+			NewButton.BorderColor3 = Color3.new(0,0,0)
+			NewButton.Text = ""
+			NewButton.TextColor3 = Color3.new(0,0,0)
+			NewButton.AutoButtonColor = false
+			NewButton.FontFace = Font.new("rbxassetid://12187371840")
+			NewButton.TextSize = 14
+			--
+			Outline.Name = "Outline"
+			Outline.Position = UDim2.new(0,15,1,0)
+			Outline.Size = UDim2.new(1,-30,0,14)
+			Outline.BackgroundColor3 = Color3.new(0.1765,0.1765,0.1765)
+			Outline.BorderColor3 = Color3.new(0.0392,0.0392,0.0392)
+			Outline.AnchorPoint = NewVector2(0,1)
+			--
+			Inline.Name = "Inline"
+			Inline.Position = UDim2.new(0,1,0,1)
+			Inline.Size = UDim2.new(1,-2,1,-2)
+			Inline.BackgroundColor3 = Color3.new(0.1294,0.1294,0.1294)
+			Inline.BorderSizePixel = 0
+			Inline.BorderColor3 = Color3.new(0,0,0)
+			--
+			Value.Name = "Value"
+			Value.Size = UDim2.new(1,0,1,0)
+			Value.BackgroundColor3 = Color3.new(1,1,1)
+			Value.BackgroundTransparency = 1
+			Value.BorderSizePixel = 0
+			Value.BorderColor3 = Color3.new(0,0,0)
+			Value.TextColor3 = Color3.new(0.5686,0.5686,0.5686)
+			Value.FontFace = Font.new("rbxassetid://12187371840")
+			Value.TextSize = Library.FontSize
+			Value.Text = Button.Name
+			Value.TextStrokeTransparency = 0
+			
+			Library:Connection(NewButton.MouseEnter, function()
+				Outline.BorderColor3 = Library.Accent
+			end)
+			--
+			Library:Connection(NewButton.MouseLeave, function()
+				Outline.BorderColor3 = Color3.new(0.0392,0.0392,0.0392)
+			end)
+			--
+			Library:Connection(NewButton.MouseButton1Down, function()
+				Button.Callback()
+				Value.TextColor3 = Library.Accent
+			end)
+			--
+			Library:Connection(NewButton.MouseButton1Up, function()
+				Value.TextColor3 = Color3.new(0.5686,0.5686,0.5686)
+			end)
+		end
+		--
+		function Sections:Label(Properties) -- fuck finobe
+			local Properties = Properties or {}
+			local Label = {
+				Window = self.Window,
+				Page = self.Page,
+				Section = self,
+				Name = Properties.Name or "label",
+				Centered = Properties.Centered or false,
+			}
+			local NewButton = Instance.new('TextLabel', Label.Section.Elements.SectionContent) -- ya im lazy
+			--
+			NewButton.Name = "NewButton"
+			NewButton.Size = UDim2.new(1,0,0,12)
+			NewButton.BackgroundColor3 = Color3.new(1,1,1)
+			NewButton.BackgroundTransparency = 1
+			NewButton.BorderSizePixel = 0
+			NewButton.BorderColor3 = Color3.new(0,0,0)
+			NewButton.Text = Label.Name
+			NewButton.TextColor3 = Color3.fromRGB(255,255,255)
+			NewButton.FontFace = Font.new("rbxassetid://12187371840")
+			NewButton.TextSize = Library.FontSize
+			NewButton.TextXAlignment = Label.Centered and Enum.TextXAlignment.Center or Enum.TextXAlignment.Left
+			NewButton.TextStrokeTransparency = 0
+			NewButton.TextStrokeColor3 = Color3.new(0,0,0)
+		end
+	end
+	-- // Base Functions
+	do 
+		-- // Utility Functions
+		do 
+			function utility:ValidateClient(Player)
+				return Player and Player.Character and Player.Character:FindFirstChild("Humanoid") and true or false 
+			end 
+			-- 
+			function utility:getPlayerInformation(Player)
+				local Object = Player.Character
+				local Humanoid = (Object and Object:FindFirstChildOfClass("Humanoid"))
+				local RootPart = (Humanoid and Humanoid.RootPart)
+				--
+				return Object, Humanoid, RootPart
+			end
+			-- 
+			function utility:safeUnit(unit)
+				if unit.Magnitude > 1e-8 then
+					return unit
+				end
+				-- 
+				return Vector3.zero
+			end
+			--
+			function utility:CreateBeam(Origin, End, Color1, FaceCamera, Width, TextureSpeed, Brightness)
+				local BeamPart = Instance.new("Part", Workspace)
+				BeamPart.Name = "BeamPart"
+				BeamPart.Transparency = 1
+				--
+				local Part = Instance.new("Part", BeamPart)
+				Part.Size = NewVector3(1, 1, 1)
+				Part.Transparency = 1
+				Part.CanCollide = false
+				Part.CFrame = typeof(Origin) == "CFrame" and Origin or NewCFrame(Origin)
+				Part.Anchored = true
+				local Attachment = Instance.new("Attachment", Part)
+				local Part2 = Instance.new("Part", BeamPart)
+				Part2.Size = NewVector3(1, 1, 1)
+				Part2.Transparency = 1
+				Part2.CanCollide = false
+				Part2.CFrame = typeof(End) == "CFrame" and End or NewCFrame(End)
+				Part2.Anchored = true
+				Part2.Color = Color3.fromRGB(255, 255, 255)
+				local Attachment2 = Instance.new("Attachment", Part2)
+				local Beam = Instance.new("Beam", Part)
+				Beam.FaceCamera = FaceCamera
+				Beam.Color = ColorSequence.new{
+					ColorSequenceKeypoint.new(0.00, Color1),
+					ColorSequenceKeypoint.new(1, Color1),
+				}
+				Beam.Attachment0 = Attachment
+				Beam.Attachment1 = Attachment2
+				Beam.Transparency = NumberSequence.new{
+					NumberSequenceKeypoint.new(0, 0),
+					NumberSequenceKeypoint.new(1, 0),
+				}
+				Beam.LightEmission = Brightness
+				Beam.LightInfluence = 1
+				Beam.Width0 = Width
+				Beam.Width1 = Width
+				Beam.Texture = "rbxassetid://7151778302"
+				Beam.LightEmission = 1
+				Beam.LightInfluence = 1
+				Beam.TextureMode = Enum.TextureMode.Wrap 
+				Beam.TextureLength = 3 
+				Beam.TextureSpeed = TextureSpeed
+				delay(flags["Tracers Life Time"], function()
+					task.spawn(function()
+						for i = 0, 100 do 
+							task.wait(0.01)
+							Beam.Transparency = NumberSequence.new{
+								NumberSequenceKeypoint.new(0, i/100),
+								NumberSequenceKeypoint.new(1, i/100),
+							}
+						end 
+						-- 
+						Part:Destroy()
+						Part2:Destroy()
+						BeamPart:Destroy()	
+					end)	
+				end)
+			end  
+			-- 
+			function utility:generateAngles(numLines)
+				local angles = {}
+				local angleIncrement = 2 * math.pi / numLines
+				
+				for i = 1, numLines do
+					local angle = (i - 1) * angleIncrement
+					table.insert(angles, angle)
+				end
+				
+				return angles
+			end
+			-- 
+			function utility:Shift(Number)
+				return math.acos(math.cos(Number * math.pi)) / math.pi
+			end
+			-- 
+			function utility:checkMessage(tbl)
+				local msg = tbl[math.random(1, #tbl)]
+				
+				if msg == oldMsg then
+					return utility:checkMessage(tbl)
+				else
+					oldMsg = msg
+					return msg
+				end
+			end
+			-- 
+			function utility:calculateAimViewerEndPoint()
+				if utility.target and utility.target.Character and flags["Aim Viewer Bypass"] then 
+					local part = (flags["Jump Prediction"] and utility.target.Character.Humanoid.FloorMaterial == Enum.Material.Air and "RightFoot") or (flags["Nearest Part"] and partClosest) or flags["Single Hit Part"]
+					local yOffset = utility.target.Character.Humanoid.FloorMaterial == Enum.Material.Air and flags["Manual Offset Value"] or 0 
+					--
+					if (checks == true) then 
+						if flags["Resolver"] then  
+							local endpoint = utility.target.Character[tostring(part)].Position + offset + NewVector3(0, yOffset, 0)
+							Remote:FireServer("UpdateMousePosI", endpoint) 
+						else 
+							local endpoint = utility.target.Character[tostring(part)].Position + (utility.target.Character.HumanoidRootPart.Velocity * prediction) + NewVector3(0, yOffset, 0)
+							Remote:FireServer("UpdateMousePosI", endpoint) 
+						end   
+					end   
+				end 
+			end     
+			-- 
+			function utility:getHeld() 
+				if LocalPlayer.Character and LocalPlayer.Character:FindFirstChildWhichIsA("Tool") and LocalPlayer.Character then 
+					return LocalPlayer.Character:FindFirstChildWhichIsA("Tool") or nil; 
+				end
+			end 
+			-- 
+			function utility:TranslateString(inputString, targetLanguage)
+				local translatedString = ""
+				for i = 1, #inputString do
+					local char = inputString:sub(i, i)
+					local translation = Languages[char] and Languages[char][targetLanguage]
+					translatedString = translatedString .. (translation or char)
+				end
+				return translatedString
+			end
+			--
+			function utility:GetComponents(Player)
+				if utility:ValidateClient(Player) then 
+					return Player.Character, Player.Character:FindFirstChild("HumanoidRootPart"), Player.Character:FindFirstChild("Humanoid")
+				end 
+			end 
+			--
+			function utility:getClosestPlayerToCursor(Radius)
+				local shortestDistance = Radius or math.huge
+
+				local closestPlayer
+				for i, v in pairs(Players:GetPlayers()) do
+					if v ~= LocalPlayer and utility:ValidateClient(v) and v.Character:FindFirstChild("HumanoidRootPart") then
+						local pos, OnScreen = Camera:WorldToViewportPoint(v.Character.HumanoidRootPart.Position)
+						local magnitude = (NewVector2(pos.X, pos.Y) - NewVector2(Mouse.X, Mouse.Y)).magnitude
+						if magnitude < shortestDistance and OnScreen then
+							closestPlayer = v
+							shortestDistance = magnitude
+						end
+					end
+				end 
+				return closestPlayer
+			end
+			--
+			function utility:RecalculateVelocity(Player)
+				if utility:ValidateClient(Player) then
+					local Character, RootPart, Humanoid = utility:GetComponents(Player)
+
+					local currentPosition = RootPart.Position
+					local currentTime = tick() 
+					
+					task.wait()
+		
+					local newPosition = RootPart.Position
+					local newTime = tick()
+					
+					local distanceTraveled = (newPosition - currentPosition) 
+		
+					local timeInterval = newTime - currentTime
+					local velocity = distanceTraveled / timeInterval
+					currentPosition = newPosition
+					currentTime = newTime
+					return velocity
+				end
+			end
+			--
+			function utility:drawObject(type, prop)
+				local obj = Drawing.new(type)
+				--
+				if prop then
+					for i,v in next, prop do
+						obj[i] = v;
+					end
+				end
+				return obj  
+			end        
+			-- 
+			function utility:characterClone(Player, Color, Material, Transparency, Parent)
+				for i,v in pairs(Player.Character:GetChildren()) do 
+					if table.find(utility.bodyParts, v.Name) and v.Name ~= "HumanoidRootPart" then 
+						if v.Name == "UpperTorso" or v.Name == "LowerTorso" then 
+							local ClonedPart = Instance.new("Part")
+							ClonedPart.Anchored = true 
+							ClonedPart.CanCollide = false 
+							ClonedPart.Position = v.Position
+							ClonedPart.Parent = Parent
+							ClonedPart.Material = Enum.Material[Material]
+							ClonedPart.Transparency = Transparency 
+							ClonedPart.Color = Color
+							ClonedPart.Size = v.Size + Vector3.new(0.01,0.01,0.01)
+							ClonedPart.Name = v.Name
+							ClonedPart.Rotation = v.Rotation
+							ClonedPart.Shape = "Block"
+						end 
+					end 
+				end
+			end 
+			-- 
+			function utility:Remove(Player)
+				if connections[Player] then 
+					connections[Player]:Disconnect();
+				end 
+				-- 
+				if highlights[Player] then 
+					highlights[Player].Parent = nil;
+				end 
+			end 
+			--
+			function utility:AngleToEdge(angle, inset) -- credits to whoever made this Im just porting over my old arrows 😭
+				local pos
+				local ox = Cos(angle)
+				local oy = Sin(angle)
+				local slope = oy / ox
+				-- 
+				local h_edge = viewportSize.x - inset
+				local v_edge = viewportSize.y - inset
+				if oy < 0 then
+					v_edge = inset
+				end
+				if ox < 0 then
+					h_edge = inset
+				end
+				local y = (slope * h_edge) + (viewportSize.y / 2) - slope * (viewportSize.x / 2)
+				if y > 0 and y < viewportSize.y - inset then
+					pos = NewVector2(h_edge, y)
+				else
+					pos = NewVector2(
+						(v_edge - viewportSize.y / 2 + slope * (viewportSize.x / 2)) / slope,
+						v_edge
+					)
+				end
+				return pos
+			end
+			--
+			function utility:Map(N, OldMin, OldMax, Min, Max) -- I love my 1 line funcs I use once ♥😻
+				return (N - OldMin) / (OldMax - OldMin) * (Max - Min) + Min
+			end
+			--
+			function utility:getRotate(Vec, Rads) -- I didnt make this math credits to whoever can code cool maths!
+				local vec = Vec.Unit
+				local sin = math.sin(Rads)
+				local cos = math.cos(Rads)
+				local x = (cos * vec.x) - (sin * vec.y)
+				local y = (sin * vec.x) + (cos * vec.y)
+				--
+				return NewVector2(x, y).Unit * Vec.Magnitude
+			end
+			--
+			function utility:BoxCalculation(TorsoSize)
+				local UpCalculation = NewCFrame(TorsoSize)
+				local VTop = TorsoSize + (UpCalculation.UpVector * 1.8) + Camera.CFrame.UpVector;
+				local VBottom = TorsoSize - (UpCalculation.UpVector * 2.5) - Camera.CFrame.UpVector;
+			
+				local Top, TopIsRendered = Camera:WorldToViewportPoint(VTop);
+				local Bottom, BottomIsRendered = Camera:WorldToViewportPoint(VBottom);
+			
+				local Width = math.max(math.floor(math.abs(Top.x - Bottom.x)), 3);
+				local Height = math.max(math.floor(math.max(math.abs(Bottom.y - Top.y), Width / 2)), 3);
+				local BoxSize = NewVector2(math.floor(math.max(Height / 1.5, Width)), Height);
+				local BoxPosition = NewVector2(math.floor(Top.x * 0.5 + Bottom.x * 0.5 - BoxSize.x * 0.5), math.floor(math.min(Top.y, Bottom.y)));
+			
+				return BoxSize, BoxPosition;
+			end
+			--
+			local LastRayIgnoreUpdate, RayIgnoreList = 0, {}
+			-- 
+			function utility:checkRay(Instance, Distance, Position, Unit)
+				local Pass = true;
+				local Model = Instance.Character;
+
+				if Distance > 999 then return false; end
+
+				if not Model then return false end
+
+				local _Ray = Ray.new(Position, Unit * Distance)
+				if tick() - LastRayIgnoreUpdate > 3 then
+					LastRayIgnoreUpdate = tick()
+
+					table.clear(RayIgnoreList)
+
+					table.insert(RayIgnoreList, LocalPlayer.Character)
+					if utility:getHeld() then 
+						table.insert(RayIgnoreList, utility:getHeld().Handle)
+					end 
+					table.insert(RayIgnoreList, Camera)
+					
+					if Mouse.TargetFilter then table.insert(RayIgnoreList, Mouse.TargetFilter) end
+
+					if #IgnoreList > 64 then
+						while #IgnoreList > 64 do
+							table.remove(IgnoreList, 1)
+						end
+					end
+
+					for i, v in pairs(IgnoreList) do table.insert(RayIgnoreList, v) end
+				end
+
+				local Hit = workspace:FindPartOnRayWithIgnoreList(_Ray, RayIgnoreList)
+				
+				if Hit and not Hit:IsDescendantOf(Model) then
+					Pass = false;
+					if Hit.Transparency >= .3 or not Hit.CanCollide and Hit.ClassName ~= Terrain then
+						table.insert(IgnoreList, Hit)
+					end
+				end
+
+				return Pass;
+			end
+			--
+			function utility:GetOrigin()
+				local Tool = utility:getHeld()
+				-- 
+				return (Tool ~= "None" and Tool.Handle.Position) or Camera.CFrame.Position
+			end
+			--
+			function utility:Lerp(Value, MinColor, MaxColor)
+				if Value <= 0 then return MaxColor end
+				if Value >= 100 then return MinColor end
+				--
+				return Color3.new(
+					MaxColor.R + (MinColor.R - MaxColor.R) * Value,
+					MaxColor.G + (MinColor.G - MaxColor.G) * Value,
+					MaxColor.B + (MinColor.B - MaxColor.B) * Value
+				)
+			end
+		end 
+		
+		-- // Framework Functions 
+		do 
+			function framework:selectTarget() 
+				local deathLoop; 
+				local deathLoopRestore; 
+				local espTarget = false; 
+				-- 	
+				if flags["Target Auto Select"] then return end 
+				if flags["Silent Enabled"] then 
+					if flags["Silent_Bind"] then 
+						utility.target = utility:getClosestPlayerToCursor(math.huge); 
+						--
+						if (flags["Target Esp"] and flags["PlayerESP_Enabled"] == false) then 
+							Visuals:Create({Player = utility.target})
+							espTarget = true 
+						end 
+						-- 
+						if (flags["Back Track Enabled"] and flags["Back Track Method"] == "Follow") then 
+							utility:characterClone(utility.target, flags["Back Track Settings"].Color, flags["Back Track Material"], flags["Back Track Settings"].Transparency, utility.folders["Part Chams"])
+						end 
+						-- 
+						if flags["Notify"] then 
+							Library:Notification("Locked onto: " .. utility.target.Name .. "", 3, Library.Accent, flags["Notification Position"])
+						end 
+						-- 
+						if (flags["Back Track Enabled"] and flags["Back Track Method"] == "Follow") then 
+							utility:characterClone(utility.target, flags["Back Track Settings"].Color, flags["Back Track Material"], flags["Back Track Settings"].Transparency, utility.folders["Part Chams"])
+						end 
+						--
+						if flags["Spectate"] then 
+							Camera.CameraSubject = utility.target.Character.Humanoid
+						end 
+					else 
+						-- What the fuck why does this break? I dont know dont ask me >:(
+						LocalPlayer.Character.Humanoid.AutoRotate = true;
+						Camera.CameraSubject = LocalPlayer.Character.Humanoid;
+						utility.folders["Part Chams"]:ClearAllChildren();
+						-- 
+						if (Visuals.Bases[utility.target] and flags["PlayerESP_Enabled"] == false) then 
+							Visuals.Bases[utility.target]:Remove()
+						end 
+						-- 
+						if utility.target then 
+							utility:Remove(utility.target);
+						end 
+						--
+						utility.drawings["Tracer"].Visible = false;
+						utility.target = nil;
+					end   
+				end 
+			end  
+			-- 
+			function framework:aimAssist() 
+				local Enabled = flags["Aim Assist"] and flags["Aim Assist Bind"]
+				if not Enabled then return end 
+				-- 
+				local endPosition;
+				local fovCheck;  
+				local Resolver, Prediction = flags["Resolver"], flags["Aim Assist Manual Prediction Value"] or 0.1413
+				local Target = utility.target or aimAssistTarget
+				local Part = (flags["Aim Assist Jump Prediction"] and Target.Character.Humanoid.FloorMaterial == Enum.Material.Air and "RightFoot") or flags["Aim Assist Single Hit Part"]
+				local characterOffset = Resolver and framework:calculateResolverOffset(Target) * Prediction or Target.Character.HumanoidRootPart.Velocity * Prediction
+				local yOffset = Target.Character.Humanoid.FloorMaterial == Enum.Material.Air and flags["Aim Assist Manual Offset Value"] or 0 
+				local Checks = framework:getChecks(Target, table.find(flags["Aim Assist Checks"], "Friend Check"), table.find(flags["Aim Assist Checks"], "Wall Check"), table.find(flags["Aim Assist Checks"], "Knocked Check"), table.find(flags["Aim Assist Checks"], "Grabbed Check"));	
+				-- 
+				local characterPosition = Target.Character[Part].Position + characterOffset + NewVector3(0, yOffset, 0)
+				-- 
+				local Position = Camera:WorldToViewportPoint(Target.Character.PrimaryPart.Position)
+				local Magnitude = (NewVector2(Position.X, Position.Y) - NewVector2(Mouse.X, Mouse.Y)).magnitude
+				-- 
+				if utility.drawings["Aim Assist FOV"].Visible then 
+					fovCheck = Magnitude < utility.drawings["Aim Assist FOV"].Radius 
+				else 
+					fovCheck = true 
+				end 
+				-- 
+				if Checks and fovCheck then 
+					fovCheck = Magnitude
+					-- 
+					if flags["Aim Assist Method"] == "Use Mouse" then 
+						endPosition, OnScreen = Camera:WorldToScreenPoint(characterPosition)
+						-- 
+						if OnScreen then 
+							mousemoverel(NewVector2(endPosition.X - Mouse.X, endPosition.Y - Mouse.Y).X / (flags["Horizontal Smoothness"] + 1), NewVector2(endPosition.X - Mouse.X, endPosition.Y - Mouse.Y).Y / (flags["Vertical Smoothness"] + 1))
+						end 
+					else 
+						Camera.CFrame = Camera.CFrame:Lerp(NewCFrame(Camera.CFrame.p, characterPosition), (100 - flags["Smoothness"]) / 100)
+					end 
+				end 
+			end 
+			-- 
+			function framework:desyncInit() -- thanks wendigo for this or whoever made it 
+				local Root = LocalPlayer.Character.HumanoidRootPart
+				local rootVel = Root.Velocity;
+				local rootAng = Random(-180, 180)
+				local rootOffset do
+					local X = Random(-128^2, 128^2);
+					local Y = Random(0, 128^2);
+					local Z = Random(-128^2, 128^2);
+			
+					rootOffset = NewVector3(X, -Y, Z);
+				end;
+				
+				LocalPlayer.Character.HumanoidRootPart.CFrame *= Angle(0, Rad(rootAng), 0);
+				LocalPlayer.Character.HumanoidRootPart.Velocity = rootOffset; 
+			
+				RunService.RenderStepped:Wait();
+				
+				LocalPlayer.Character.HumanoidRootPart.CFrame *= Angle(0, Rad(-rootAng), 0);
+				LocalPlayer.Character.HumanoidRootPart.Velocity = rootVel;
+			end
+			--
+			function framework:autoReload()
+				local Tool = utility:getHeld()
+				if flags["Auto Reload"] then 
+					if Tool.Ammo.Value == 0 then 
+						Remote:FireServer("Reload", Tool)
+					end 
+				end 
+			end 
+			-- 
+			function framework:worldVisuals() 
+				if flags["Master Switch"] then 
+					if flags["Clock Time Enabled"] and Lighting.ClockTime ~= flags["Clock Time"] then 
+						Lighting.ClockTime = flags["Clock Time"]
+					end 
+					-- 
+					if flags["Color Shift Bottom"] and Lighting.ColorShift_Bottom ~= flags["Color Shift Bottom Color"] then 
+						Lighting.ColorShift_Bottom = flags["Color Shift Bottom Color"].Color
+					end 
+
+					if flags["Ambient"] and Lighting.Ambient ~= flags["Ambience Color"] then 
+						Lighting.Ambient = flags["Ambience Color"].Color
+					end 
+					-- 
+					if flags["Outdoor Ambience"] and Lighting.OutdoorAmbient ~= flags["Outdoor Ambience color"] then 
+						Lighting.OutdoorAmbient = flags["Outdoor Ambience color"].Color
+					end 
+					-- 
+					if flags["Brightness Enabled"] and Lighting.Brightness ~= flags["Brightness"] then 
+						Lighting.Brightness = flags["Brightness"]
+					end 
+					-- 
+					if flags["Color Shift Top"] and Lighting.ColorShift_Top ~= flags["Color Shift Top Color"]  then 
+						Lighting.ColorShift_Top = flags["Color Shift Top Color"].Color
+					end 
+					-- 
+					if flags["Fog"] and Lighting.FogColor ~= flags["Fog Color"] then 
+						Lighting.FogColor = flags["Fog Color"].Color
+					end 
+				end 
+			end 
+			--
+			function framework:cframeSpeed()
+				if flags["Speed Enabled"] and flags["Speed Key"] then 
+					local Character = LocalPlayer.Character 
+					local Move_Direction = Character.Humanoid.MoveDirection
+					-- 
+					Character.HumanoidRootPart.CFrame = Character.HumanoidRootPart.CFrame + (Move_Direction * (flags["Speed"] / 25))
+				end 
+			end 
+			-- 
+			function framework:chatSpam(Type, Repeat, Emojis, Symbols)
+				local message = ""
+				-- tp, rp, emojis, symbols
+				for i = 1, Repeat and math.random(2, 5) or 1 do
+					for i = 1, math.random(1, 5) do
+						local index = math.random(0, 1) == 0 and "symbols" or "emojis"
+						
+						if index == "symbols" and Symbols then
+							message ..= tostring(utx[index][math.random(1, #utx[index])])
+						elseif index == "emojis" and Emojis then
+							message ..= tostring(utx[index][math.random(1, #utx[index])])
+						end
+					end
+					
+					message ..= utility:checkMessage(Messages[Type])
+								
+					for i = 1, math.random(1, 5) do
+						local index = math.random(0, 1) == 0 and "symbols" or "emojis"
+						
+						if index == "symbols" and Symbols then
+							message ..= tostring(utx[index][math.random(1, #utx[index])])
+						elseif index == "emojis" and Emojis then
+							message ..= tostring(utx[index][math.random(1, #utx[index])])
+						end
+					end
+					
+					message ..= " "
+				end
+				
+				return message
+			end 
+			-- 
+			function framework:fly(delta) 
+				if flags["Fly Enabled"] and flags["Fly Key"] then 
+					LocalPlayer.Character.HumanoidRootPart.Velocity = Vector3.zero; 
+					local x = 0 
+					local y = 0 
+					local z = 0 
+					-- 
+					if not Typing then 
+						if InputService:IsKeyDown(Enum.KeyCode.W) then
+							z -= 1
+						end
+						-- 
+						if InputService:IsKeyDown(Enum.KeyCode.S) then
+							z += 1
+						end
+						-- 
+						if InputService:IsKeyDown(Enum.KeyCode.D) then
+							x += 1
+						end
+						-- 
+						if InputService:IsKeyDown(Enum.KeyCode.A) then
+							x -= 1
+						end
+						-- 
+						if InputService:IsKeyDown(Enum.KeyCode.Space) then
+							y += 1
+						end
+						-- 
+						if InputService:IsKeyDown(Enum.KeyCode.LeftShift) then
+							y -= 1
+						end
+					end 
+					-- 
+					local direction = utility:safeUnit(Camera.CFrame:VectorToWorldSpace(NewVector3(x, 0, z)).Unit)
+					LocalPlayer.Character.HumanoidRootPart.CFrame += (direction + NewVector3(0, y, 0)) * (flags["Fly Speed"] / 10) * (delta * 60)
+				end 
+			end 
+			--
+			function framework:selectPrediction()
+				local Prediction; 
+				
+				local Predictions = {
+					0.113,
+					0.115,
+					0.117,
+					0.11923283912031938191231281632312637123821763333312731833,
+					0.121316378910319876472890149871624,
+					0.124521314351673817351423414,
+					0.131314253678192031927365421456789331,
+					0.1355991245213413214231231123121,
+					0.138312341526738912,
+					0.146432786576847627781237813281381382038198391293,
+					0.1512783311111111111111111111111111111111111,
+					0.15132132132132132555555555555555,
+				}
+
+				if flags["Auto Prediction"] then 
+					for i = 1, #Predictions do 
+						if game:GetService("Stats").Network.ServerStatsItem["Data Ping"]:GetValue() <= i * 10 then 
+							Prediction = Predictions[i]
+						end 
+					end                 
+				end 
+
+				return Prediction or tonumber(flags["Manual Prediction Value"]) or 0.1413
+			end 
+			--
+			function framework:calculateResolverOffset(player) 
+				local Offset; 
+				local Prediction = framework:selectPrediction() 
+				-- 
+				if flags["Resolver"] then 
+					if flags["Resolver Method"] == "Recalculate Velocity" then 
+						Offset = utility:RecalculateVelocity(player) * Prediction
+					elseif flags["Resolver Method"] == "Suppress Velocity" then 
+						Offset = Vector3.new(player.Character.HumanoidRootPart.Velocity.X, 0, player.Character.HumanoidRootPart.Velocity.Z) * Prediction
+					elseif flags["Resolver Method"] == "Move Direction" then 
+						Offset = player.Character.Humanoid.MoveDirection * 19.64285714289 * Prediction
+					end 
+				end 
+				--  
+				return Offset 
+			end 
+			-- 
+			function framework:calculateNearestPart(Player, List)
+				local shortestDistance = math.huge
+				local closestPart
+				if Player and Player.Character and Player.Character:FindFirstChild("Humanoid") and Player.Character:FindFirstChild("Head") and Player.Character.Humanoid.Health ~= 0 and Player.Character:FindFirstChild("HumanoidRootPart") then
+					for i, v in pairs(Player.Character:GetChildren()) do
+						if v:IsA("BasePart") then 
+							local pos = Camera:WorldToViewportPoint(v.Position)
+							local magnitude = (NewVector2(pos.X, pos.Y) - NewVector2(Mouse.X, Mouse.Y+36)).magnitude
+								if magnitude < shortestDistance and table.find(List, v.Name) then
+									closestPart = v
+									shortestDistance = magnitude
+								end
+							end
+						end 
+					return closestPart
+				end
+			end 
+			--
+			local autoSelectTick = 0; 
+			function framework:autoSelect()
+				if tick() - autoSelectTick > flags["Auto Select Delay"]/1000 then 
+					autoSelectTick = tick()
+					local closestPlayer
+					local shortestDistance = math.huge -- Start with a very large distance
+					for _, player in next, Players:GetPlayers() do
+						if player.Character and player.Character:FindFirstChild("HumanoidRootPart") and player ~= game.Players.LocalPlayer and framework:getChecks(player, table.find(flags["Silent Checks"], "Friend Check"), table.find(flags["Silent Checks"], "Wall Check"), table.find(flags["Silent Checks"], "Knocked Check"), table.find(flags["Silent Checks"], "Grabbed Check")) then
+							local distance = (LocalPlayer.Character.HumanoidRootPart.Position - player.Character.HumanoidRootPart.Position).magnitude
+							if distance < shortestDistance then
+								utility.target = player
+								shortestDistance = distance
+							end
+						end
+					end
+				end 
+			end
+			-- 
+			function framework:getChecks(Player, Friend, Wall, Knocked, Grabbed, ToolHeld)
+				local Checks = true 
+				--  
+				if Friend and LocalPlayer:IsFriendsWith(Player.UserId) then Checks = false end 
+				if Wall then Checks = utility:checkRay(Player, (Camera.CFrame.Position - Player.Character.Head.Position).Magnitude, Camera.CFrame.Position, (Player.Character.Head.Position - Camera.CFrame.Position).unit) end 
+				if Knocked and Player.Character.BodyEffects["K.O"].Value == true then Checks = false end 
+				if Grabbed and Player.Character:FindFirstChild("GRABBING_CONSTRAINT") then Checks = false end 
+				if ToolHeld and not (LocalPlayer.Character and LocalPlayer.Character:FindFirstChildWhichIsA("Tool")) then Checks = false end 
+				--
+				return Checks
+			end 
+		end 
+
+		-- // Esp Functions
+		do 
+			-- functions for drawing the mf esp :money_face: 
+			function Visuals:Draw(Type, Properties)
+				local Drawing = Drawing.new(Type)
+				--
+				for Property, Value in pairs(Properties) do
+					Drawing[Property] = Value
+				end
+				--
+				table.insert(Visuals.Drawings, Drawing)
+				-- 
+				return Drawing
+			end
+			-- 
+			function Visuals:Create(Properties)
+				if Properties then
+					if Properties.Player then
+						local Self = setmetatable({
+							Player = Properties.Player,
+							Info = {
+								Tick = tick(),
+								gunTick = tick()
+							},
+							Renders = {
+								Weapon = Visuals:Draw("Text", {Text = "Weapon", Visible = false, Size = 13, Center = true, Color = NewHex("#ffffff"), Outline = true, OutlineColor = NewHex("#000000"), Font = Drawing.Fonts.Plex}),
+								--Distance = Visuals:Draw("Text", {Text = "Distance", Visible = false, Size = 13, Center = true, Color = NewHex("#ffffff"), Outline = true, OutlineColor = NewHex("#000000"), Font = Drawing.Fonts.Plex}),
+								HealthOutline = Visuals:Draw("Square", {Thickness = 1, Visible = false, Filled = true, Color = NewHex("#000000")}),
+								Health = Visuals:Draw("Square", {Thickness = 1, Visible = false, Filled = true, Color = NewHex("#09ff00")}),
+								HealthText = Visuals:Draw("Text", {Text = "100", Visible = false, Size = 13, Center = true, Color = NewHex("#09ff00"), Outline = true, OutlineColor = NewHex("#000000"), Font = 2}),
+								Box = Visuals:Draw("Square", {Thickness = 1, Visible = false, Filled = false, Color = NewHex("#000000")}),
+								BoxFill = Visuals:Draw("Square", {Thickness = 1, Visible = false, Filled = true, Color = NewHex("#000000")}),
+								BoxOutline = Visuals:Draw("Square", {Thickness = 2, Visible = false, Filled = false, Color = NewHex("#000000")}),
+								BoxInline = Visuals:Draw("Square", {Thickness = 1, Visible = false, Filled = false, Color = NewHex("#C30B00")}),
+								Name = Visuals:Draw("Text", {Text = "Name", Visible = false, Size = 13, Center = true, Color = NewHex("#ffffff"), Outline = true, OutlineColor = NewHex("#000000"), Font = Drawing.Fonts.Plex}),
+								Flag = Visuals:Draw("Text", {Text = "Flag", Visible = false, Size = 13, Center = false, Color = NewHex("#ffffff"), Outline = true, OutlineColor = NewHex("#000000"), Font = Drawing.Fonts.Plex}),
+								Tool = Visuals:Draw("Text", {Text = "Tool", Visible = false, Size = 13, Center = false, Color = NewHex("#ffffff"), Outline = true, OutlineColor = NewHex("#000000"), Font = Drawing.Fonts.Plex}),
+								ArmorBarOutline = Visuals:Draw("Square", {Thickness = 1, Visible = false, Filled = true, Color = NewHex("#000000")}),
+								ArmorBar = Visuals:Draw("Square", {Thickness = 1, Visible = false, Filled = true, Color = NewHex("#09ff00")}),
+								Arrow = Visuals:Draw("Triangle", {Visible = false, Color = NewHex("#ffffff")}),
+								ArrowOutline = Visuals:Draw("Triangle", {Visible = false, Color = NewHex("#ffffff")}),
+								ArmorBarText = Visuals:Draw("Text", {Text = "100", Visible = false, Size = 13, Center = true, Color = NewHex("#09ff00"), Outline = true, OutlineColor = NewHex("#000000"), Font = 2}),
+								GunIcon = Visuals:Draw("Image", {Data = "", Transparency = 1, Visible = false, Size = NewVector2(129,55)}),
+								Corners = {}, 
+							},
+							Highlight = Instance.new("Highlight", game.CoreGui), 
+						}, {__index = Visuals.Base})
+						--
+						do -- // Corner Boxes
+							for Index = 9, 16 do
+								Self.Renders.Corners[Index] = Visuals:Draw("Line", {Thickness = 3, Color = NewHex("#000000")})
+							end
+							--
+							for Index = 1, 8 do
+								Self.Renders.Corners[Index] = Visuals:Draw("Line", {Thickness = 0, Color = NewHex("#1A66FF")})
+							end
+						end
+						-- 
+						Self.Highlight.Parent = game.CoreGui
+						--
+						Visuals.Bases[Properties.Player] = Self
+						--
+						return Self
+					end
+				end
+			end
+			-- 
+			function Visuals.Base:Opacity(State)
+				local Self = self
+				--
+				if Self then
+					local Renders = rawget(Self, "Renders")
+					--
+					for Index, Drawing in pairs(Renders) do
+						if Index ~= "Corners" then
+							Drawing.Visible = State -- what
+						end
+					end
+					--
+					for Index = 1, 16 do
+						Self.Renders.Corners[Index].Visible = State
+					end
+					--
+					if not State then
+						Self.Info.RootPosition = nil
+						Self.Info.Health = nil
+						Self.Info.MaxHealth = nil
+					end
+				end
+			end
+			--
+			function Visuals.Base:Remove()
+				local Self = self
+				--
+				if Self then
+					setmetatable(Self, {})
+					--
+					Visuals.Bases[Self.Player] = nil
+					--
+					Self.Object = nil
+					--
+					for Index, Drawing in pairs(Self.Renders) do
+						if Index ~= "Corners" then
+							Drawing:Remove()
+						end
+					end
+					--
+					for Index = 1, 16 do
+						Self.Renders.Corners[Index]:Remove()
+					end
+					--
+					Self.Highlight.Parent = nil; 
+					Self.Highlight = nil; 
+					-- 
+					Self.Renders = nil
+					Self = nil
+				end
+			end
+			-- 
+			function Visuals.Base:Update()
+				local Self = self
+				local Add = 0; 
+				--
+				if Self then
+					local Renders = rawget(Self, "Renders")
+					local Player = rawget(Self, "Player")
+					local Info = rawget(Self, "Info")
+					local Highlights = rawget(Self, "Highlight")
+					local Parent = Player.Parent
+					--
+					if (Player and Parent and Parent ~= nil) or (Info.RootPosition and Info.Health and Info.MaxHealth) then
+						if Player then
+							local Object, Humanoid, RootPart = utility:getPlayerInformation(Player)
+							local TransparencyMultplier = 1
+							--
+							if Object and Object.Parent and (Humanoid and RootPart) then
+								local Health, MaxHealth = Humanoid.Health, Humanoid.MaxHealth
+								--
+								if Health > 0 then
+									Info.Pass = true
+									Info.RootPosition = RootPart.Position
+									Info.Health = Health
+									Info.MaxHealth = MaxHealth
+									Info.ArmorValue = Object:FindFirstChild("BodyEffects") and Object["BodyEffects"]:FindFirstChild("Armor") and Object["BodyEffects"]:FindFirstChild("Armor").Value
+									Info.ToolHeld =  (Object:FindFirstChildOfClass("Tool") and Object:FindFirstChildOfClass("Tool").Name) or "None"
+								else
+									Info.Pass = false
+								end
+							else
+								Info.Pass = false
+							end
+							--
+							if Info.Pass then
+								Info.Tick = tick()
+							else
+								local FadeTime = (250 / (2 * 100))
+								local Value = Info.Tick - tick()
+								--
+								if Value <= FadeTime then
+									TransparencyMultplier = Clamp((Value + FadeTime) * 1 / FadeTime, 0, 1)
+								else
+									Info.RootPosition = nil
+									Info.Health = nil
+									Info.MaxHealth = nil
+								end
+							end
+							--
+							if Info.RootPosition and Info.Health and Info.MaxHealth and (Object and Humanoid and RootPart) then
+								local DistanceToPlayer = (Camera.CFrame.Position - Info.RootPosition).Magnitude
+								local Position, OnScreen = Camera:WorldToViewportPoint(Info.RootPosition)
+								--
+								local Size, BoxSize, BoxPosition, BoxCenter, TL, BL, TR, BR
+								--
+								if OnScreen then
+									local MaxDistance = tonumber(flags["ESP Distance"])
+									--
+									if DistanceToPlayer <= MaxDistance then
+										BoxSize, BoxPosition = utility:BoxCalculation(Info.RootPosition)
+										--
+										if (flags["PlayerESP_Box"] == true and flags["PlayerESP_Box_Type"] == "Corner") then -- // Corner Boxes
+											BoxCenter = Math:RoundVector(NewVector2(BoxPosition.X + BoxSize.X / 2, BoxPosition.Y + BoxSize.Y / 2));
+											TL = Math:RoundVector(NewVector2(BoxCenter.X - BoxSize.X / 2, BoxCenter.Y - BoxSize.Y / 2)); 
+											BL = Math:RoundVector(NewVector2(BoxCenter.X - BoxSize.X / 2, BoxCenter.Y + BoxSize.Y / 2));
+											TR = Math:RoundVector(NewVector2(BoxCenter.X + BoxSize.X / 2, BoxCenter.Y - BoxSize.Y / 2));
+											BR = Math:RoundVector(NewVector2(BoxCenter.X + BoxSize.X / 2, BoxCenter.Y + BoxSize.Y / 2));
+										end
+									end
+								end
+								--
+								if (BoxSize and BoxPosition) then
+									local GeneralOpacity = ((1 - 0.2) * TransparencyMultplier)
+									--
+									for Index, Drawing in pairs(Renders) do
+										if Index ~= "Corners" then
+											if Drawing.Visible then
+												Drawing.Visible = false
+											end
+										end
+									end
+									-- 
+									Highlights.Enabled = false 
+									--
+									for Index = 1, 16 do
+										if Renders.Corners[Index].Visible then
+											Renders.Corners[Index].Visible = false
+										end
+									end
+									--
+									if Player ~= LocalPlayer then 
+										do -- // Name
+											if flags["PlayerESP_Name"] then
+												local Name = Renders.Name
+												--
+												Name.Text = Player.Name
+												Name.Position = NewVector2(BoxSize.X / 2 + BoxPosition.X, BoxPosition.Y - 16)
+												Name.Visible = true
+												Name.Transparency = GeneralOpacity
+												Name.Color = flags["PlayerESP_Name_Color"].Color
+											end
+										end
+										-- 
+										do -- // Highlights
+											if flags["PlayerESP_Highlights"] then 
+												Highlights.Enabled = true 
+												Highlights.DepthMode = Enum.HighlightDepthMode.AlwaysOnTop
+												Highlights.FillColor = flags["PlayerESP_HighlightFillSettings"].Color
+												Highlights.OutlineColor = flags["PlayerESP_HighlightOutlineSettings"].Color
+												Highlights.Adornee = Object
+												Highlights.OutlineTransparency = flags["PlayerESP_HighlightOutlineSettings"].Transparency
+												Highlights.FillTransparency = flags["PlayerESP_HighlightOutlineSettings"].Transparency
+											end 
+										end 
+										--
+										do -- // Corner Boxes
+											if flags["PlayerESP_Box"] then
+												if flags["PlayerESP_Box_Type"] == "Corner" then
+													local BoxCorners, BoxColor1, BoxColor2 = Renders.Corners, flags["PlayerESP_Box_Color1"].Color, flags["PlayerESP_Box_Color2"].Color
+													-- // Inlines
+													do
+														BoxCorners[1].Visible = true
+														BoxCorners[1].From = TL
+														BoxCorners[1].To = BoxCorners[1].From + NewVector2(0, BoxSize.X / 3)  
+														BoxCorners[1].Color = BoxColor1
+														--
+														BoxCorners[2].Visible = true
+														BoxCorners[2].From = TL + NewVector2(1, 0)
+														BoxCorners[2].To = BoxCorners[2].From + NewVector2(BoxSize.X / 3, 0)
+														BoxCorners[2].Color = BoxColor1
+														--
+														BoxCorners[3].Visible = true
+														BoxCorners[3].From = TR
+														BoxCorners[3].To = BoxCorners[3].From + NewVector2(-BoxSize.X / 3, 0)
+														BoxCorners[3].Color = BoxColor1
+														--
+														BoxCorners[4].Visible = true
+														BoxCorners[4].From = TR
+														BoxCorners[4].To = BoxCorners[4].From + NewVector2(0, BoxSize.X / 3)
+														BoxCorners[4].Color = BoxColor1
+														--
+														BoxCorners[5].Visible = true
+														BoxCorners[5].From = BR + NewVector2(0, 1)
+														BoxCorners[5].To = BoxCorners[5].From + NewVector2(0, -BoxSize.X / 3)
+														BoxCorners[5].Color = BoxColor1
+														--
+														BoxCorners[6].Visible = true
+														BoxCorners[6].From = BR
+														BoxCorners[6].To = BoxCorners[6].From + NewVector2(-BoxSize.X / 3, 0)
+														BoxCorners[6].Color = BoxColor1
+														--
+														BoxCorners[7].Visible = true
+														BoxCorners[7].From = BL + NewVector2(0, 1)
+														BoxCorners[7].To = BoxCorners[7].From + NewVector2(0, -BoxSize.X / 3)
+														BoxCorners[7].Color = BoxColor1
+														--
+														BoxCorners[8].Visible = true
+														BoxCorners[8].From = BL
+														BoxCorners[8].To = BoxCorners[8].From + NewVector2(BoxSize.X / 3, 0)
+														BoxCorners[8].Color = BoxColor1
+													end
+													-- // Outlines
+													do
+														BoxCorners[9].Visible = true
+														BoxCorners[9].From = BoxCorners[1].From + NewVector2(0, -1)
+														BoxCorners[9].To = BoxCorners[1].To + NewVector2(0, 1)
+														BoxCorners[9].Color = BoxColor2
+														--
+														BoxCorners[10].Visible = true
+														BoxCorners[10].From = BoxCorners[2].From
+														BoxCorners[10].To = BoxCorners[2].To + NewVector2(1, 0)
+														BoxCorners[10].Color = BoxColor2
+														--
+														BoxCorners[11].Visible = true
+														BoxCorners[11].From = BoxCorners[3].From + NewVector2(2, 0)
+														BoxCorners[11].To = BoxCorners[3].To + NewVector2(-1, 0)
+														BoxCorners[11].Color = BoxColor2
+														--
+														BoxCorners[12].Visible = true
+														BoxCorners[12].From = BoxCorners[4].From
+														BoxCorners[12].To = BoxCorners[4].To + NewVector2(0, 1)
+														BoxCorners[12].Color = BoxColor2
+														--
+														BoxCorners[13].Visible = true
+														BoxCorners[13].From = BoxCorners[5].From
+														BoxCorners[13].To = BoxCorners[5].To + NewVector2(0, -1)
+														BoxCorners[13].Color = BoxColor2
+														--
+														BoxCorners[14].Visible = true
+														BoxCorners[14].From = BoxCorners[6].From + NewVector2(2, 0)
+														BoxCorners[14].To = BoxCorners[6].To + NewVector2(-1, 0)
+														BoxCorners[14].Color = BoxColor2
+														--
+														BoxCorners[15].Visible = true
+														BoxCorners[15].From = BoxCorners[7].From
+														BoxCorners[15].To = BoxCorners[7].To + NewVector2(0, -1)
+														BoxCorners[15].Color = BoxColor2
+														--
+														BoxCorners[16].Visible = true
+														BoxCorners[16].From = BoxCorners[8].From + NewVector2(-1, 0)
+														BoxCorners[16].To = BoxCorners[8].To + NewVector2(1, 0)
+														BoxCorners[16].Color = BoxColor2
+													end
+													--
+													for Index = 1, 16 do
+														BoxCorners[Index].Transparency = GeneralOpacity
+													end
+												else
+													local Box = Renders.BoxInline
+													local BoxOutline = Renders.BoxOutline
+													--
+													Box.Size = BoxSize
+													Box.Position = BoxPosition
+													Box.Transparency = GeneralOpacity
+													Box.Color = flags["PlayerESP_Box_Color1"].Color
+													Box.Visible = true
+													--
+													BoxOutline.Size = BoxSize
+													BoxOutline.Position = BoxPosition
+													BoxOutline.Transparency = GeneralOpacity
+													BoxOutline.Color = flags["PlayerESP_Box_Color2"].Color
+													BoxOutline.Visible = true
+												end
+											end
+											--
+											if flags["PlayerESP_BoxFill"] then
+												local BoxFill = Renders.BoxFill
+												--
+												BoxFill.Size = BoxSize
+												BoxFill.Position = BoxPosition
+												BoxFill.Transparency = TransparencyMultplier - flags["PlayerESP_BoxFill_Color"].Transparency
+												BoxFill.Color = flags["PlayerESP_BoxFill_Color"].Color
+												BoxFill.Visible = true
+											end
+										end
+										--
+										do -- // HeatlhBar
+											if flags["PlayerESP_HealthBar"] then
+												local ArmorColor = flags["PlayerESP_ArmorBarColor"].Color
+												local HealthSize = (Floor(BoxSize.Y * (Info.Health / Info.MaxHealth)))
+												local Color = utility:Lerp(Info.Health / Info.MaxHealth, flags["PlayerESP_HealthBar_Color_Higher"].Color, flags["PlayerESP_HealthBar_Color_Low"].Color)
+												local Height = ((BoxPosition.Y + BoxSize.Y) - HealthSize)
+												--
+												-- // Bars
+												local HealthBarInline, HealthBarOutline, HealthBarValue = Renders.Health, Renders.HealthOutline, Renders.HealthText
+												local HealthBarTransparency = GeneralOpacity
+												--
+												HealthBarInline.Color = Color
+												HealthBarInline.Size = NewVector2(2, HealthSize)
+												HealthBarInline.Position = NewVector2(BoxPosition.X - 5, Height)
+												HealthBarInline.Visible = true
+												HealthBarInline.Transparency = HealthBarTransparency
+												--
+												HealthBarOutline.Size = NewVector2(4, BoxSize.Y + 2)
+												HealthBarOutline.Position = NewVector2(BoxPosition.X - 6, BoxPosition.Y - 1)
+												HealthBarOutline.Visible = true
+												HealthBarOutline.Transparency = HealthBarTransparency
+												--
+												do -- // Value
+													if flags["PlayerESP_HealthNumber"] then
+														local Text = Floor(Info.Health), BoxSize.Y
+														local ArmorText = Renders.ArmorBarText
+														local HealthNumberPosition = NewVector2((BoxPosition.X + 1), BoxPosition.Y + BoxSize.Y)
+														local Offset = flags["PlayerESP_ArmorBar"] and 23 or 18 
+														--
+														HealthBarValue.Text = Text
+														HealthBarValue.Color = Color
+														HealthBarValue.Position = NewVector2(HealthNumberPosition.X - Offset, HealthNumberPosition.Y - (Info.Health / Info.MaxHealth) * BoxSize.Y)
+														HealthBarValue.Visible = true
+														HealthBarValue.Transparency = HealthBarTransparency
+														-- 
+														if flags["PlayerESP_ArmorBar"] then 
+															ArmorText.Text = tostring(Info.ArmorValue)
+															ArmorText.Color = ArmorColor
+															ArmorText.Position = NewVector2(HealthNumberPosition.X - Offset, HealthNumberPosition.Y - (Info.ArmorValue / 200) * BoxSize.Y)
+															ArmorText.Visible = true
+															ArmorText.Transparency = HealthBarTransparency
+														end 
+													end
+												end
+												-- 
+												do 
+													if flags["PlayerESP_ArmorBar"] then 
+														local ArmorBar, ArmorBarOutline = Renders.ArmorBar, Renders.ArmorBarOutline
+														-- 
+														local ArmorSize = (Floor(BoxSize.Y * (Info.ArmorValue / 200)))
+														local ArmorHeight = ((BoxPosition.Y + BoxSize.Y) - ArmorSize)
+														-- 
+														ArmorBar.Color = ArmorColor
+														ArmorBar.Size = NewVector2(2, ArmorSize)
+														ArmorBar.Position = NewVector2(BoxPosition.X - 10, ArmorHeight)
+														ArmorBar.Visible = true
+														ArmorBar.Transparency = HealthBarTransparency
+														--
+														ArmorBarOutline.Size = NewVector2(4, BoxSize.Y + 2)
+														ArmorBarOutline.Position = NewVector2(BoxPosition.X - 11, BoxPosition.Y - 1)
+														ArmorBarOutline.Visible = true
+														ArmorBarOutline.Transparency = HealthBarTransparency
+													end 
+												end 
+											end
+										end
+										-- 
+										do -- // Gun Icons 
+											if flags["PlayerESP_GunIcons"] and Info.ToolHeld ~= "None" and images[Info.ToolHeld] ~= nil then 
+												local Gun = Renders.GunIcon
+												-- 
+												if tick() - Info.gunTick > 0.2 then 
+													Info.gunTick = tick()
+													Gun.Data = images[Info.ToolHeld] 
+												end 
+												Gun.Visible = true 
+												Gun.Size = NewVector2(51.9, 22.3)
+												Gun.Position = BoxPosition + NewVector2(BoxSize.X / 2, (BoxSize.Y + 2)) - NewVector2(Gun.Size.X/2, 0)
+												Add += 22.3
+											else 
+												Add = 0 
+											end 
+										end 
+										--
+										do -- // Weapon
+											if flags["PlayerESP_Weapon"] then
+												local Weapon = Renders.Weapon
+												--
+												Weapon.Text = Info.ToolHeld
+												Weapon.Position = BoxPosition + NewVector2(BoxSize.X / 2, (BoxSize.Y + 2) + Add)
+												Weapon.Color = flags["PlayerESP_Weapon_Color"].Color
+												Weapon.Transparency = GeneralOpacity
+												Weapon.Visible = true
+											end
+										end
+										--
+										do -- // Flag
+											if flags["PlayerESP_Flags"] then
+												local Flag = Renders.Flag
+												local FlagStr = ""
+												--
+												if Find(flags["PlayerESP_Flag_Options"], "Distance") then
+													FlagStr ..= ("%sm\n"):format(Round(DistanceToPlayer))
+												end
+												-- 
+												if Find(flags["PlayerESP_Flag_Options"], "Knocked") and Player.Character.BodyEffects then
+													FlagStr ..= ("%s\n"):format(tostring(Object.BodyEffects["K.O"].Value and "KNOCKED" or ""))
+												end
+												--
+												Flag.Text = FlagStr
+												Flag.Position = NewVector2(BoxSize.X + BoxPosition.X + 3, BoxPosition.Y - 2)
+												Flag.Visible = true
+												Flag.Color = flags["PlayerESP_FlagsColor"].Color
+												Flag.Transparency = GeneralOpacity
+											end
+										end		
+									else 
+										do -- // Name
+											if flags["Self_PlayerESP_Name"] then
+												local Name = Renders.Name
+												--
+												Name.Text = Player.Name
+												Name.Position = NewVector2(BoxSize.X / 2 + BoxPosition.X, BoxPosition.Y - 16)
+												Name.Visible = true
+												Name.Transparency = GeneralOpacity
+												Name.Color = flags["Self_PlayerESP_Name_Color"].Color
+											end
+										end
+										--    
+										do -- // Highlights
+											if flags["Self_PlayerESP_Highlights"] then 
+												Highlights.Enabled = true 
+												Highlights.DepthMode = Enum.HighlightDepthMode.AlwaysOnTop
+												Highlights.FillColor = flags["Self_PlayerESP_HighlightFillSettings"].Color
+												Highlights.OutlineColor = flags["Self_PlayerESP_HighlightOutlineSettings"].Color
+												Highlights.Adornee = Object
+												Highlights.OutlineTransparency = flags["Self_PlayerESP_HighlightOutlineSettings"].Transparency
+												Highlights.FillTransparency = flags["Self_PlayerESP_HighlightOutlineSettings"].Transparency
+											end 
+										end 
+										--
+										do -- // Corner Boxes
+											if flags["Self_PlayerESP_Box"] then
+												local Box = Renders.BoxInline
+												local BoxOutline = Renders.BoxOutline
+												--
+												Box.Size = BoxSize
+												Box.Position = BoxPosition
+												Box.Transparency = GeneralOpacity
+												Box.Color = flags["Self_PlayerESP_Box_Color1"].Color
+												Box.Visible = true
+												--
+												BoxOutline.Size = BoxSize
+												BoxOutline.Position = BoxPosition
+												BoxOutline.Transparency = GeneralOpacity
+												BoxOutline.Color = flags["Self_PlayerESP_Box_Color2"].Color
+												BoxOutline.Visible = true
+											end
+											--
+											if flags["Self_PlayerESP_Box"] then
+												local BoxFill = Renders.BoxFill
+												--
+												BoxFill.Size = BoxSize
+												BoxFill.Position = BoxPosition
+												BoxFill.Transparency = TransparencyMultplier - flags["Self_PlayerESP_BoxFill_Color"].Transparency
+												BoxFill.Color = flags["Self_PlayerESP_BoxFill_Color"].Color
+												BoxFill.Visible = true
+											end
+										end
+										--
+										do -- // HeatlhBar
+											if flags["Self_PlayerESP_HealthBar"] then
+												local ArmorColor = flags["Self_PlayerESP_ArmorBarColor"].Color
+												local HealthSize = (Floor(BoxSize.Y * (Info.Health / Info.MaxHealth)))
+												local Color = utility:Lerp(Info.Health / Info.MaxHealth, flags["Self_PlayerESP_HealthBar_Color_Higher"].Color, flags["Self_PlayerESP_HealthBar_Color_Low"].Color)
+												local Height = ((BoxPosition.Y + BoxSize.Y) - HealthSize)
+												--
+												-- // Bars
+												local HealthBarInline, HealthBarOutline, HealthBarValue = Renders.Health, Renders.HealthOutline, Renders.HealthText
+												local HealthBarTransparency = GeneralOpacity
+												--
+												HealthBarInline.Color = Color
+												HealthBarInline.Size = NewVector2(2, HealthSize)
+												HealthBarInline.Position = NewVector2(BoxPosition.X - 5, Height)
+												HealthBarInline.Visible = true
+												HealthBarInline.Transparency = HealthBarTransparency
+												--
+												HealthBarOutline.Size = NewVector2(4, BoxSize.Y + 2)
+												HealthBarOutline.Position = NewVector2(BoxPosition.X - 6, BoxPosition.Y - 1)
+												HealthBarOutline.Visible = true
+												HealthBarOutline.Transparency = HealthBarTransparency
+												--
+												do -- // Value
+													if flags["Self_PlayerESP_HealthNumber"] then
+														local Text = Floor(Info.Health), BoxSize.Y
+														local ArmorText = Renders.ArmorBarText
+														local HealthNumberPosition = NewVector2((BoxPosition.X + 1), BoxPosition.Y + BoxSize.Y)
+														local Offset = flags["Self_PlayerESP_ArmorBar"] and 23 or 18 
+														--
+														HealthBarValue.Text = Text
+														HealthBarValue.Color = Color
+														HealthBarValue.Position = NewVector2(HealthNumberPosition.X - Offset, HealthNumberPosition.Y - (Info.Health / Info.MaxHealth) * BoxSize.Y)
+														HealthBarValue.Visible = true
+														HealthBarValue.Transparency = HealthBarTransparency
+														-- 
+														if flags["Self_PlayerESP_ArmorBar"] then 
+															ArmorText.Text = tostring(Info.ArmorValue)
+															ArmorText.Color = ArmorColor
+															ArmorText.Position = NewVector2(HealthNumberPosition.X - Offset, HealthNumberPosition.Y - (Info.ArmorValue / 200) * BoxSize.Y)
+															ArmorText.Visible = true
+															ArmorText.Transparency = HealthBarTransparency
+														end 
+													end
+												end
+												-- 
+												do 
+													if flags["Self_PlayerESP_ArmorBar"] then 
+														local ArmorBar, ArmorBarOutline = Renders.ArmorBar, Renders.ArmorBarOutline
+														-- 
+														local ArmorSize = (Floor(BoxSize.Y * (Info.ArmorValue / 200)))
+														local ArmorHeight = ((BoxPosition.Y + BoxSize.Y) - ArmorSize)
+														-- 
+														ArmorBar.Color = ArmorColor
+														ArmorBar.Size = NewVector2(2, ArmorSize)
+														ArmorBar.Position = NewVector2(BoxPosition.X - 10, ArmorHeight)
+														ArmorBar.Visible = true
+														ArmorBar.Transparency = HealthBarTransparency
+														--
+														ArmorBarOutline.Size = NewVector2(4, BoxSize.Y + 2)
+														ArmorBarOutline.Position = NewVector2(BoxPosition.X - 11, BoxPosition.Y - 1)
+														ArmorBarOutline.Visible = true
+														ArmorBarOutline.Transparency = HealthBarTransparency
+													end 
+												end 
+											end
+										end
+										-- 
+										do -- // Gun Icons 
+											if flags["Self_PlayerESP_GunIcons"] and Info.ToolHeld ~= "None" and images[Info.ToolHeld] ~= nil then 
+												local Gun = Renders.GunIcon
+												-- 
+												if tick() - Info.gunTick > 0.75 then 
+													Info.gunTick = tick()
+													Gun.Data = images[Info.ToolHeld] 
+												end 
+												Gun.Visible = true 
+												Gun.Size = NewVector2(51.9, 22.3)
+												Gun.Position = BoxPosition + NewVector2(BoxSize.X / 2, (BoxSize.Y + 2)) - NewVector2(Gun.Size.X/2, 0)
+												Add += 22.3
+											else 
+												Add = 0 
+											end 
+										end 
+										--
+										do -- // Weapon
+											if flags["Self_PlayerESP_Weapon"] then
+												local Weapon = Renders.Weapon
+												--
+												Weapon.Text = Info.ToolHeld
+												Weapon.Position = BoxPosition + NewVector2(BoxSize.X / 2, (BoxSize.Y + 2) + Add)
+												Weapon.Color = flags["Self_PlayerESP_Weapon_Color"].Color
+												Weapon.Transparency = GeneralOpacity
+												Weapon.Visible = true
+											end
+										end
+										--
+										do -- // Flag
+											if flags["Self_PlayerESP_Flags"] then
+												local Flag = Renders.Flag
+												local FlagStr = ""
+												--
+												if Find(flags["Self_PlayerESP_Flag_Options"], "Distance") then
+													FlagStr ..= ("%sm\n"):format(Round(DistanceToPlayer))
+												end
+												-- 
+												if Find(flags["Self_PlayerESP_Flag_Options"], "Knocked") and Player.Character.BodyEffects then
+													FlagStr ..= ("%s\n"):format(tostring(Object.BodyEffects["K.O"].Value and "KNOCKED" or ""))
+												end
+												--
+												Flag.Text = FlagStr
+												Flag.Position = NewVector2(BoxSize.X + BoxPosition.X + 3, BoxPosition.Y - 2)
+												Flag.Visible = true
+												Flag.Color = flags["Self_PlayerESP_FlagsColor"].Color
+												Flag.Transparency = GeneralOpacity
+											end
+										end		
+									end 
+									return
+								end
+							end
+						end
+						--
+						return Self:Opacity(false)
+					end
+					--
+					return Self:Remove()
+				end
+			end
+			-- 
+			function Visuals:Unload()
+				for Index, Base in pairs(Visuals.Bases) do
+					Base:Remove()
+				end
+			end
+		end 
+
+		-- // Creations + Setting Stuff 
+		do 
+			utility.drawings["Tracer"] = utility:drawObject("Line", {})
+			utility.drawings["Aim Assist FOV"] = utility:drawObject("Circle", {Visible = false, Radius = 8, Color = Color3.fromRGB(0,0,0), Filled = false})
+			utility.drawings["Sub"] = utility:drawObject("Text", {Outline = true, Text = "NeverLose", Color = Color3.new(1, 1, 1), Size = 13})
+			utility.drawings["Domain"] = utility:drawObject("Text", {Outline = true, Text = ".Wtf", Color = Color3.fromRGB(132, 108, 188), Size = 13})
+			--
+			for i,v in pairs(bodyClone:GetDescendants()) do 
+				if v:IsA("BasePart") and v.Name ~= "HumanoidRootPart" then 
+					v.CanCollide = false 
+					v.Transparency = 0
+				end 
+			end 
+			
+			-- drawing lines for crosshair
+			do 
+				for Index = 1, 4 do
+					local line = utility:drawObject("Line",{
+						Visible = false,
+						Color = Color3.fromRGB(255,255,255),
+						Thickness = 1,
+						ZIndex = 2,
+						Transparency = 1
+					})
+					--
+					crosshair_Lines[Index] = line
+					-- 
+					local line_1 = utility:drawObject("Line",{
+						Visible = false,
+						Color = Color3.fromRGB(0, 0, 0),
+						Thickness = 2.5,
+						ZIndex = 1,
+						Transparency = 1
+					})
+					--
+					crosshair_Outlines[Index] = line_1
+				end
+			end 
+			
+			-- // Chat spam framework
+			do 
+				Messages = {
+					["Scottish"] = {
+						"You Grandma Still Wears Shin Pads To Work 🤣🤣",
+						"Melon Head",
+						"Your Ma Is A Bin Man 🤣🤣",
+						"Taped You Like I Did To Your Ma",
+						"Fore Headed Mong",
+						"Such A Fruit",
+						"YoUr A BoOt",
+						"keep Trying You Jobby",
+					},
+					["NEVERLOSE"] = {
+						"Owned By NeverLose",
+						"NeverLose NeverLose NeverLose RAHHHHH",
+						"Slammed by NeverLose",
+						"YOU GOT SLAMMED BY NeverLose",
+						"SEEMS LIKE YOU NEED NeverLose GG/NeverLose.wtf",
+						"GG/NeverLose GG/NeverLose GG/NeverLose",
+						"GG/NeverLose <-- THIS WILL LET YOU COPE WITH YOUR ISSUES",
+						"WHAT YOU CANT BEAT NeverLose?",
+						"PRO TIP: BUY NeverLose",
+					},
+				}
+				utx = {
+					["symbols"] = {
+						"~",
+						"!",
+						"@",
+						"#",
+						"$",
+						"%",
+						"^",
+						"&",
+						"*",
+						"(",
+						")",
+						"_",
+						"+",
+						"{",
+						"}",
+						"|",
+						":",
+						'"',
+						"<",
+						">",
+						"?",
+						".",
+						",",
+						"/",
+						"'",
+					},
+					["emojis"] = {
+						"😎",
+						"🤣",
+						"👀",
+						"🙄",
+						"🔥",
+						"😅",
+						"😂",
+						"😹",
+						"😛",
+						"🤩",
+						"🌈",
+						"😎",
+						"🤠",
+						"😔",
+						"🤡",
+						"💤",
+						"🚶",
+						"🙀",
+						"😂",
+						"📈",
+						"🤏",
+						"🌈",
+						"😎",
+						"🤠",
+						"😔",
+					},
+				}
+			end 
+		end 
+
+		-- // Hit Reg 
+		do 
+			function HitReg:HitMarker(Gap, Color, Time) 
+				local Lines = {} 
+				local Hitmarker = true 
+				-- 
+				for i = 1, 4 do 
+					Lines[i] = utility:drawObject("Line", {Color = Color, Visible = true, Transparency = 1, Thickness = 1})
+				end 
+				-- 
+				local function setMarkerPos()
+					Lines[1].From = NewVector2(Mouse.X + Gap, (Mouse.Y + Offset) + Gap)
+					Lines[1].To = NewVector2(Mouse.X + (Gap * 2.5), (Mouse.Y + Offset) + (Gap * 2.5))
+					--
+					Lines[2].From = NewVector2(Mouse.X + Gap, (Mouse.Y + Offset) - Gap)
+					Lines[2].To = NewVector2(Mouse.X + (Gap * 2.5), (Mouse.Y + Offset) - (Gap * 2.5))
+					--
+					Lines[3].From = NewVector2(Mouse.X - Gap, (Mouse.Y + Offset) + Gap)
+					Lines[3].To = NewVector2(Mouse.X - (Gap * 2.5), (Mouse.Y + Offset) + (Gap * 2.5))
+					--
+					Lines[4].From = NewVector2(Mouse.X - Gap, (Mouse.Y + Offset) - Gap)
+					Lines[4].To = NewVector2(Mouse.X - (Gap * 2.5), (Mouse.Y + Offset) - (Gap * 2.5))
+				end 
+				-- 
+				delay(Time, function()
+					for i = Time, 0, -0.1 do
+						task.wait()
+						for _, Value in next, Lines do
+							Value.Transparency = i
+						end
+						setMarkerPos()
+					end
+					-- 
+					for _, Value in next, Lines do
+						Value:Remove()
+					end
+					-- 
+					Hitmarker = false 
+				end)
+			end 
+			-- 
+			function HitReg:HitMarker3D(Gap, Color, Time, Hit) 
+				local Lines = {} 
+				local Hitmarker = true 
+				-- 
+				for i = 1, 4 do 
+					Lines[i] = utility:drawObject("Line", {Color = Color, Visible = true, Transparency = 1, Thickness = 1})
+				end     
+				-- 
+				task.spawn(function()
+					while Hitmarker do 
+						local Position3D, OnScreen = Camera:WorldToViewportPoint(Hit)
+						-- 
+						Lines[1].From = NewVector2(Position3D.X + Gap, Position3D.Y + Gap)
+						Lines[1].To = NewVector2(Position3D.X + (Gap * 2.5), Position3D.Y + (Gap * 2.5))
+						--
+						Lines[2].From = NewVector2(Position3D.X + Gap, Position3D.Y - Gap)
+						Lines[2].To = NewVector2(Position3D.X + (Gap * 2.5), Position3D.Y - (Gap * 2.5))
+						--
+						Lines[3].From = NewVector2(Position3D.X - Gap, Position3D.Y + Gap)
+						Lines[3].To = NewVector2(Position3D.X - (Gap * 2.5), Position3D.Y + (Gap * 2.5))
+						--
+						Lines[4].From = NewVector2(Position3D.X - Gap, Position3D.Y - Gap)
+						Lines[4].To = NewVector2(Position3D.X - (Gap * 2.5), Position3D.Y - (Gap * 2.5))
+						-- 
+						for _, Value in next, Lines do
+							Value.Visible = OnScreen
+						end
+						-- 
+						task.wait()
+					end 
+				end)
+				-- 
+				delay(Time, function()
+					for i = Time, 0, -0.1 do
+						task.wait()
+						for _, Value in next, Lines do
+							Value.Transparency = i
+						end
+					end
+					-- 
+					for _, Value in next, Lines do
+						Value:Remove()
+					end
+					-- 
+					Hitmarker = false 
+				end)
+			end 
+			--
+			function HitReg:HitEffect(Type, Character)
+				local function convert(color)
+					return color.r/5, color.g/5, color.b/5
+				end 
+				-- 
+				local function Weld(x,y)
+					local W = Instance.new("Weld")
+					W.Part0 = x
+					W.Part1 = y
+					local CJ = NewCFrame(x.Position)
+					local C0 = x.CFrame:inverse()*CJ
+					local C1 = y.CFrame:inverse()*CJ
+					W.C0 = C0
+					W.C1 = C1
+					W.Parent = x
+				end
+				-- 
+				if Type == "Confetti" then 
+					task.spawn(function()
+						local Confetti_Amount = 20000
+						local RootPart = Character.HumanoidRootPart
+						local ConfettiClone = hitmodule:Clone()
+						ConfettiClone.RainbowParticles.Rate = Confetti_Amount
+						ConfettiClone.Parent = workspace
+						ConfettiClone.CanCollide = false
+						ConfettiClone.CFrame = RootPart.CFrame
+						-- 
+						for i = Confetti_Amount, 0 , -(Confetti_Amount/50) do 
+							task.wait()
+							ConfettiClone.RainbowParticles.Rate = i
+						end 
+						-- 
+						delay(5, function()
+							ConfettiClone:Destroy()
+						end)
+					end)
+				elseif Type == "Nova" then 
+					local Effect = Nova:Clone() 
+					Effect.Parent = Character.HumanoidRootPart
+					--	
+					for i,v in pairs(Effect:GetChildren()) do 
+						v.Rate = 0
+						v.Color = ColorSequence.new({ColorSequenceKeypoint.new(0, Color3.new(0, 0, 0)), ColorSequenceKeypoint.new(0.5, Color3.new(convert(flags["Hit Effect Settings"].Color))),ColorSequenceKeypoint.new(1, Color3.new(0, 0, 0)),})
+						v:Emit()
+					end 
+					-- 	
+					delay(2, function()
+						Effect:Destroy()
+					end)
+				else 
+					local Clone = SparklesEffect:Clone() 
+					Clone.Parent = Character.HumanoidRootPart
+					Clone.LockedToPart = false 
+					Clone.Acceleration = Vector3.new(0,-100,0)
+					-- 
+					Clone:Emit(15)
+					--
+					delay(5, function() Clone:Destroy() end)
+				end 
+			end 
+			-- 
+			function HitReg:HitSound(Id, Volume, Pitch)
+				local Sound = Instance.new("Sound", game:GetService("SoundService")); local PitchSound = Instance.new("PitchShiftSoundEffect", Sound)
+				-- 
+				Sound.SoundId = "rbxassetid://".. Id ..""
+				--[[writefile("song.mp3", game:HttpGet("https://lunar.feet.media/osiris/cmwr7ecb.mp3"))
+				Sound.SoundId = getcustomasset("song.mp3")]]
+				Sound.Volume = Volume
+				PitchSound.Octave = Pitch
+				Sound.PlayOnRemove = true
+				Sound:Destroy()
+			end 
+		end 
+
+		for i,v in pairs(LocalPlayer.Character:GetChildren()) do 
+			if v:IsA("BasePart") then 
+				table.insert(utility.bodyParts, v.Name)
+			end 
+		end 
+
+		-- // Tweens 
+		do
+			Tween.EasingStyles = {
+				[Enum.EasingStyle.Linear] = {
+					[Enum.EasingDirection.In] = function(Delta)
+						return Delta
+					end,
+					[Enum.EasingDirection.Out] = function(Delta)
+						return Delta
+					end,
+					[Enum.EasingDirection.InOut] = function(Delta)
+						return Delta
+					end
+				},
+				[Enum.EasingStyle.Cubic] = {
+					[Enum.EasingDirection.In] = function(Delta)
+						return Delta ^ 3
+					end,
+					[Enum.EasingDirection.Out] = function(Delta)
+						return ((Delta - 1) ^ 3) + 1
+					end,
+					[Enum.EasingDirection.InOut] = function(Delta)
+						if 0 <= Delta and Delta <= 0.5 then
+							return (4 * Delta ^ 3)
+						elseif 0.5 <= Delta and Delta <= 1 then
+							return (4 * (Delta - 1) ^ 3) + 1
+						end
+					end
+				},
+				[Enum.EasingStyle.Quad] = {
+					[Enum.EasingDirection.In] = function(Delta)
+						return Delta ^ 2
+					end,
+					[Enum.EasingDirection.Out] = function(Delta)
+						return (-(Delta - 1) ^ 2) + 1
+					end,
+					[Enum.EasingDirection.InOut] = function(Delta)
+						if 0 <= Delta and Delta <= 0.5 then
+							return (2 * Delta ^ 2)
+						elseif 0.5 <= Delta and Delta <= 1 then
+							return -(2 * (Delta - 1) ^ 2) + 1
+						end
+					end
+				},
+				[Enum.EasingStyle.Quart] = {
+					[Enum.EasingDirection.In] = function(Delta)
+						return Delta ^ 4
+					end,
+					[Enum.EasingDirection.Out] = function(Delta)
+						return (-(Delta - 1) ^ 4) + 1
+					end,
+					[Enum.EasingDirection.InOut] = function(Delta)
+						if 0 <= Delta and Delta <= 0.5 then
+							return (8 * Delta ^ 4)
+						elseif 0.5 <= Delta and Delta <= 1 then
+							return -(8 * (Delta - 1) ^ 4) + 1
+						end
+					end
+				},
+				[Enum.EasingStyle.Quint] = {
+					[Enum.EasingDirection.In] = function(Delta)
+						return Delta ^ 5
+					end,
+					[Enum.EasingDirection.Out] = function(Delta)
+						return ((Delta - 1) ^ 5) + 1
+					end,
+					[Enum.EasingDirection.InOut] = function(Delta)
+						if 0 <= Delta and Delta <= 0.5 then
+							return (16 * Delta ^ 5)
+						elseif 0.5 <= Delta and Delta <= 1 then
+							return (16 * (Delta - 1) ^ 5) + 1
+						end
+					end
+				},
+				[Enum.EasingStyle.Sine] = {
+					[Enum.EasingDirection.In] = function(Delta)
+						return Sin(((Pi / 2) * Delta) - (Pi / 2)) + 1
+					end,
+					[Enum.EasingDirection.Out] = function(Delta)
+						return Sin((Pi / 2) * Delta)
+					end,
+					[Enum.EasingDirection.InOut] = function(Delta)
+						return (0.5 * Sin((Pi * Delta) - (Pi / 2))) + 0.5
+					end
+				},
+				[Enum.EasingStyle.Exponential] = {
+					[Enum.EasingDirection.In] = function(Delta)
+						return (2 ^ ((10 * Delta) - 10)) - 0.001
+					end,
+					[Enum.EasingDirection.Out] = function(Delta)
+						return 1.001 * (-2 ^ -(10 * Delta)) + 1
+					end,
+					[Enum.EasingDirection.InOut] = function(Delta)
+						if 0 <= Delta and Delta <= 0.5 then
+							return 0.5 * (2 ^ ((20 * Delta) - 10)) - 0.0005
+						elseif 0.5 <= Delta and Delta <= 1 then
+							return 0.50025 * (-2 ^ (-(20 * Delta) + 10)) + 1
+						end
+					end
+				},
+				[Enum.EasingStyle.Back] = {
+					[Enum.EasingDirection.In] = function(Delta)
+						return (Delta * Delta) * (Delta * (1.70158 + 1) - 1.70158)
+					end,
+					[Enum.EasingDirection.Out] = function(Delta)
+						return ((Delta - 1) ^ 2) * ((Delta - 1) * (1.70158 + 1) + 1.70158) + 1
+					end,
+					[Enum.EasingDirection.InOut] = function(Delta)
+						if 0 <= Delta and Delta <= 0.5 then
+							return (2 * (Delta * Delta)) * ((2 * Delta) * (2.5949095 + 1) - 2.5949095)
+						elseif 0.5 <= Delta and Delta <= 1 then
+							return (0.5 * ((2 * Delta) - 2) ^ 2) * (((2 * Delta) - 2) * (2.5949095 + 1) + 2.5949095) + 1
+						end
+					end
+				},
+				[Enum.EasingStyle.Bounce] = {
+					[Enum.EasingDirection.In] = function(Delta)
+						if 0 <= Delta and Delta <= (1 / 2.75) then
+							return 7.5625 * (Delta * Delta)
+						elseif (1 / 2.75) <= Delta and Delta <= (2 / 2.75) then
+							return 7.5625 * (Delta - (1.5 / 2.75)) ^ 2 + 0.75
+						elseif (2 / 2.75) <= Delta and Delta <= (2.5 / 2.75) then
+							return 7.5625 * (Delta - (2.25 / 2.75)) ^ 2 + 0.9375
+						elseif (2.5 / 2.75) <= Delta and Delta <= 1 then
+							return 7.5625 * (Delta - (2.625 / 2.75)) ^ 2 + 0.984375
+						end
+					end,
+					[Enum.EasingDirection.Out] = function(Delta)
+						if 0 <= Delta and Delta <= (0.25 / 2.75) then
+							return -7.5625 * (1 - Delta - (2.625 / 2.75)) ^ 2 + 0.015625
+						elseif (0.25 / 2.75) <= Delta and Delta <= (0.75 / 2.75) then
+							return -7.5625 * (1 - Delta - (2.25 / 2.75)) ^ 2 + 0.0625
+						elseif (0.75 / 2.75) <= Delta and Delta <= (1.75 / 2.75) then
+							return -7.5625 * (1 - Delta - (1.5 / 2.75)) ^ 2 + 0.25
+						elseif (1.75 / 2.75) <= Delta and Delta <= 1 then
+							return 1 - 7.5625 * (1 - Delta) ^ 2
+						end
+					end,
+					[Enum.EasingDirection.InOut] = function(Delta)
+						if 0 <= Delta and Delta <= (0.125 / 2.75) then
+							return 0.5 * (-7.5625 * (1 - (2 * Delta) - (2.625 / 2.75)) ^ 2 + 0.015625)
+						elseif (0.125 / 2.75) <= Delta and Delta <= (0.375 / 2.75) then
+							return 0.5 * (-7.5625 * (1 - (2 * Delta) - (2.25 / 2.75)) ^ 2 + 0.0625)
+						elseif (0.375 / 2.75) <= Delta and Delta <= (0.875 / 2.75) then
+							return 0.5 * (-7.5625 * (1 - (2 * Delta) - (1.5 / 2.75)) ^ 2 + 0.25)
+						elseif (0.875 / 2.75) <= Delta and Delta <= 0.5 then
+							return 0.5 * (1 - 7.5625 * (1 - (2 * Delta)) ^ 2)
+						elseif 0.5 <= Delta and Delta <= (1.875 / 2.75) then
+							return 0.5 + 3.78125 * ((2 * Delta) - 1) ^ 2
+						elseif (1.875 / 2.75) <= Delta and Delta <= (2.375 / 2.75) then
+							return 3.78125 * ((2 * Delta) - (4.25 / 2.75)) ^ 2 + 0.875
+						elseif (2.375 / 2.75) <= Delta and Delta <= (2.625 / 2.75) then
+							return 3.78125 * ((2 * Delta) - (5 / 2.75)) ^ 2 + 0.96875
+						elseif (2.625 / 2.75) <= Delta and Delta <= 1 then
+							return 3.78125 * ((2 * Delta) - (5.375 / 2.75)) ^ 2 + 0.9921875
+						end
+					end
+				},
+				[Enum.EasingStyle.Elastic] = {
+					[Enum.EasingDirection.In] = function(Delta)
+						return (-2 ^ (10 * (Delta - 1))) * Sin(((2 * Pi) * (Delta - 1 - (0.3 / 4))) / 0.3)
+					end,
+					[Enum.EasingDirection.Out] = function(Delta)
+						return (2 ^ (-10 * Delta)) * Sin(((2 * Pi) * (Delta - (0.3 / 4))) / 0.3) + 1
+					end,
+					[Enum.EasingDirection.InOut] = function(Delta)
+						if 0 <= Delta and Delta <= 0.5 then
+							return -0.5 * (2 ^ ((20 * Delta) - 10)) * Sin(((2 * Pi) * ((2 * Delta) - 1.1125)) / 0.45)
+						elseif 0.5 <= Delta and Delta <= 1 then
+							return 0.5 * (2 ^ ((-20 * Delta) + 10)) * Sin(((2 * Pi) * ((2 * Delta) - 1.1125)) / 0.45) + 1
+						end
+					end
+				},
+				[Enum.EasingStyle.Circular] = {
+					[Enum.EasingDirection.In] = function(Delta)
+						return -Sqrt(1 - Delta ^ 2) + 1
+					end,
+					[Enum.EasingDirection.Out] = function(Delta)
+						return Sqrt(-(Delta - 1) ^ 2 + 1)
+					end,
+					[Enum.EasingDirection.InOut] = function(Delta)
+						if 0 <= Delta and Delta <= 0.5 then
+							return -Sqrt(-Delta ^ 2 + 0.25) + 0.5
+						elseif 0.5 <= Delta and Delta <= 1 then
+							return Sqrt(-(Delta - 1) ^ 2 + 0.25) + 0.5
+						end
+					end
+				}
+			}
+		end
+	end
+end 
+--
+local crosshair_lineOffsets = utility:generateAngles(4); 
+local Window = Library:Window({Size = UDim2.new(0,580,0,600)}) do 
+	-- // Rage
+	local aiming = Window:Page({Name = "Rage", Weapons = true}) do
+		local Settings = aiming:Weapon({Icon = "rbxassetid://6031280882"})
+		local Visuals = aiming:Weapon({Icon = "rbxassetid://7300480952"})
+		-- 
+		local mainTarget = Settings:Section({Name = "Main", Size = 330}) do 
+			mainTarget:Toggle({Name = "Enabled", Flag = "Silent Enabled", Risk = true})
+			mainTarget:Keybind({Name = "Key", Flag = "Silent_Bind", Mode = "Toggle", callback = function()
+				framework:selectTarget(); 
+				bodyClone:SetPrimaryPartCFrame(NewCFrame(9959,9999,9990))
+			end})
+		end 
+		-- 
+		local targetSettings = Settings:Section({Name = "Settings", Size = 330}) do 
+			targetSettings:Toggle({Name = "Look At", Flag = "Look At"})
+			targetSettings:Toggle({Name = "Auto Shoot", Flag = "Auto Shoot"})
+			targetSettings:Toggle({Name = "Spectate", Flag = "Spectate"})
+ 			targetSettings:Toggle({Name = "Notify", Flag = "Notify"}) flags["Aim Viewer Bypass"] = true 
+		end 
+		-- 
+		local targetMethods = Settings:Section({Name = "Methods", Size = 330}) do 
+			targetMethods:Toggle({Name = "Resolver", Flag = "Resolver"})
+			targetMethods:Dropdown({Name = "Resolver Method", Flag = "Resolver Method", Options = {"Recalculate Velocity", "Suppress Velocity", "Move Direction"}, Default = "Recalculate Velocity"})
+		end 
+		-- 
+		local targetPrediction = Settings:Section({Name = "Prediction", Size = 330, Side = "Right"}) do 
+			targetPrediction:Toggle({Name = "Auto Prediction", Flag = "Auto Prediction"})
+			targetPrediction:Textbox({Name = "Prediction", Flag = "Manual Prediction Value", Placeholder = "Prediction"})
+			targetPrediction:Dropdown({Name = "Hit-Part", Flag = "Single Hit Part", Options = utility.bodyParts, Default = "HumanoidRootPart"})
+			targetPrediction:Toggle({Name = "Nearest Part", Flag = "Nearest Part"})
+			targetPrediction:Dropdown({Name = "Closest Hit Part", Flag = "Closest Hit Part", Options = utility.bodyParts, Default = {"HumanoidRootPart"}, Max = 9e9})
+			targetPrediction:Toggle({Name = "Jump Prediction", Flag = "Jump Prediction"})
+			targetPrediction:Textbox({Name = "Jump Prediction", Flag = "Manual Offset Value", Placeholder = "Jump Offset"})
+			targetPrediction:Dropdown({Name = "Air Hit-Part", Flag = "Air Hit Part", Options = utility.bodyParts, Default = "RightFoot"})
+		end 
+		-- 
+		local targetChecks = Settings:Section({Name = "Checks", Size = 330, Side = "Right"}) do 
+			targetChecks:Dropdown({Name = "Checks", Flag = "Silent Checks", Options = {"Knocked Check", "Wall Check", "Friend Check", "Grabbed Check"}, Max = 9e9})
+		end 
+		-- 
+		local targetAutoSelect = Settings:Section({Name = "Auto Select", Size = 330, Side = "Right"}) do 
+			targetAutoSelect:Toggle({Name = "Enabled", Flag = "Target Auto Select"})
+			targetAutoSelect:Slider({Name = "Delay", Suffix = "ms", Flag = 'Auto Select Delay', Min = 0, Max = 1000, Default = 100, Decimals = 1})
+		end 	
+		-- 
+		local targetStrafe = Settings:Section({Name = "Target Strafe", Size = 330, Side = "Left"}) do 
+			targetStrafe:Toggle({Name = "Enabled", Flag = "Target Strafe Enabled", Risk = true})
+			targetStrafe:Slider({Name = "Radius", Flag = 'Target Strafe Distance', Min = -15, Max = 15, Default = 10, Decimals = 1})
+			targetStrafe:Slider({Name = "Speed", Flag = 'Target Strafe Speed', Min = -15, Max = 15, Default = 10, Decimals = 1})
+			targetStrafe:Slider({Name = "Height", Flag = 'Target Strafe Height', Min = -15, Max = 15, Default = 0, Decimals = 1})
+		end
+		-- 
+		local targetVisuals = Visuals:Section({Name = "Visuals", Size = 330, Side = "Left"}) do 
+			local line1 = targetVisuals:Toggle({Name = "Line", Flag = "Line Enabled"})
+			line1:Colorpicker({Default = Color3.fromRGB(255,0,0), Flag = "Line Settings"});
+			targetVisuals:Slider({Name = "Thickness", Flag = 'Line Thickness', Min = 0, Max = 2, Default = 1, Decimals = 0.01, Callback = function(Int)
+				utility.drawings["Tracer"].Thickness = Int
+			end})
+			local highlight = targetVisuals:Toggle({Name = "Highlight", Flag = "Highlight Enabled"})
+			highlight:Colorpicker({Default = Color3.fromRGB(0,255,0), Alpha = 0.5, Flag = "Highlight Fill Color"});
+			highlight:Colorpicker({Default = Color3.fromRGB(0,125,0), Flag = "Highlight Outline Color"});
+			local backtrack = targetVisuals:Toggle({Name = "Backtrack", Flag = "Back Track Enabled"})
+			backtrack:Colorpicker({Default = Color3.fromRGB(255, 0, 0), alpha = 0.65, Flag = "Back Track Settings"});
+			targetVisuals:Dropdown({Name = "Method", Flag = "Back Track Method", Options = {"Clone", "Follow"}, Default = "Follow"})
+			targetVisuals:Dropdown({Name = "Material", Flag = "Back Track Material", Options = {"Neon", "Plastic", "ForceField"}, Default = "Neon"})
+			targetVisuals:Slider({Name = "Delay", Flag = 'Back Track Delay', Min = 0, Max = 1, Default = 1, Decimals = 0.05})
+			targetVisuals:Toggle({Name = "Target Esp", Flag = "Target Esp"})
+		end 
+	end
+	-- // Legit  
+	local legit = Window:Page({Name = "Legit"}) do 
+		local Vertical;
+		local Horizontal;
+		local Smoothness;
+		-- 
+		local aimAssist = legit:Section({Name = "Aim Assist", Size = 330}) do 
+			aimAssist:Toggle({Name = "Enabled", Flag = "Aim Assist"}):Keybind({Name = "Aim Assist", Flag = "Aim Assist Bind", Mode = "Toggle", Callback = function()
+				aimAssistTarget = utility.target or utility:getClosestPlayerToCursor(math.huge)
+			end}) -- portal is a fuckin g
+			local Vertical = aimAssist:Slider({Name = "Horizontal Smoothness", Flag = "Horizontal Smoothness", Min = 0, Max = 100, Default = 20, Decimals = 1})
+			Vertical:SetVisible(false)
+			local Horizontal = aimAssist:Slider({Name = "Vertical Smoothness", Flag = 'Vertical Smoothness', Min = 0, Max = 100, Default = 20, Decimals = 1})
+			Horizontal:SetVisible(false)
+			local Smoothness = aimAssist:Slider({Name = "Smoothness", Flag = 'Smoothness', Min = 0, Max = 100, Default = 50, Decimals = 1})
+			aimAssist:Dropdown({Name = "Method", Flag = "Aim Assist Method", Options = {"Use Mouse", "Use Camera"}, Default = "Use Camera", Callback = function(Option)
+				if Option == "Use Mouse" then 
+					Vertical:SetVisible(true)
+					Horizontal:SetVisible(true)
+					Smoothness:SetVisible(false)
+				else 
+					Vertical:SetVisible(false)
+					Horizontal:SetVisible(false)
+					Smoothness:SetVisible(true)
+				end 
+			end})
+		end 
+		-- 
+		local aimAssist_Settings = legit:Section({Name = "Settings", Size = 330}) do 
+			aimAssist_Settings:Dropdown({Name = "Hit-Part", Flag = "Aim Assist Single Hit Part", Options = utility.bodyParts, Default = "HumanoidRootPart"})
+			aimAssist_Settings:Toggle({Name = "Jump Prediction", Flag = "Aim Assist Jump Prediction"})
+			aimAssist_Settings:Textbox({Name = "Prediction", Flag = "Aim Assist Manual Prediction Value", Placeholder = "Prediction"})
+			aimAssist_Settings:Textbox({Name = "Jump Offset", Flag = "Aim Assist Manual Offset Value", Placeholder = "Jump Offset"})
+		end 
+		-- 
+		local aimAssistFov = legit:Section({Name = "Field Of View", Size = 330}) do 
+			aimAssistFov:Toggle({Name = "Enabled", Flag = "Aim Assist Field Of View", Callback = function(Bool)
+				utility.drawings["Aim Assist FOV"].Visible = Bool 
+			end}):Colorpicker({Default = Color3.fromRGB(255, 0, 0), alpha = 0.65, Flag = "Field Of View Color", Callback = function()
+				utility.drawings["Aim Assist FOV"].Color = flags["Field Of View Color"].Color
+				utility.drawings["Aim Assist FOV"].Transparency = 1 - flags["Field Of View Color"].Transparency
+			end});
+			aimAssistFov:Slider({Name = "Radius", Flag = 'Aim Assist Field Of View Radius', Min = 0.1, Max = 500, Default = 50, Decimals = 0.1, Callback = function(Int)
+				utility.drawings["Aim Assist FOV"].Radius = Int
+			end})
+			aimAssistFov:Toggle({Name = "Enabled", Flag = "Aim Assist Field Of View Filled", Callback = function(Bool)
+				utility.drawings["Aim Assist FOV"].Filled = Bool
+			end})
+			aimAssistFov:Slider({Name = "Thickness", Flag = 'Aim Assist Field Of View Thickness', Min = 0.1, Max = 3, Default = 1, Decimals = 0.01, Callback = function(Int)
+				utility.drawings["Aim Assist FOV"].Thickness = Int
+			end})
+		end 
+		-- 
+		local aimAssistChecks = legit:Section({Name = "Checks", Size = 330}) do 
+			aimAssistChecks:Dropdown({Name = "Checks", Flag = "Aim Assist Checks", Options = {"Knocked Check", "Wall Check", "Friend Check", "Grabbed Check"}, Max = 9e9})
+		end 
+	end 	
+	-- 	// Esp 
+	local esp = Window:Page({Name = "Visuals", Weapons = true}) do 
+		local ESP = esp:Weapon({Icon = "rbxassetid://6034281935"})
+		local World = esp:Weapon({Icon = "rbxassetid://16997762295"})
+		-- 
+		local playerEsp = ESP:Section({Name = "Player Esp", Size = 330, Side = "Left"}) do 
+			playerEsp:Toggle({Name = "Enabled", Flag = "PlayerESP_Enabled", Callback = function(Bool)
+				if Bool then 
+					for i,v in next, Players:GetPlayers() do 
+						if v ~= LocalPlayer and not Visuals.Bases[v] then 
+							Visuals:Create({Player = v})
+						end 
+					end 
+				else 
+					Visuals:Unload()
+				end 
+			end})
+			playerEsp:Slider({Name = "Distance", Flag = 'ESP Distance', Min = 0, Max = 5000, Default = 5000, Decimals = 5})
+			local box = playerEsp:Toggle({Name = "Boxes", Flag = "PlayerESP_Box"})
+			box:Colorpicker({Default = Color3.fromRGB(255, 255, 255), Flag = "PlayerESP_Box_Color1"});
+			box:Colorpicker({Default = Color3.fromRGB(0, 0, 0), Flag = "PlayerESP_Box_Color2"});
+			playerEsp:Toggle({Name = "Box-Fill", Flag = "PlayerESP_BoxFill"}):Colorpicker({Default = Color3.fromRGB(255, 255, 255), Transparency = 0.7, Flag = "PlayerESP_BoxFill_Color"});
+			playerEsp:Dropdown({Name = "Box Type", Flag = "PlayerESP_Box_Type", Options = {"Bounding", "Corner"}, Default = "Bounding"})
+			playerEsp:Toggle({Name = "Name", Flag = "PlayerESP_Name"}):Colorpicker({Default = Color3.fromRGB(255, 255, 255), Flag = "PlayerESP_Name_Color"});
+			playerEsp:Toggle({Name = "Weapons", Flag = "PlayerESP_Weapon"}):Colorpicker({Default = Color3.fromRGB(255, 255, 255), Flag = "PlayerESP_Weapon_Color"});
+			playerEsp:Toggle({Name = "Flags", Flag = "PlayerESP_Flags"}):Colorpicker({Default = Color3.fromRGB(255, 255, 255), Flag = "PlayerESP_FlagsColor"});
+			playerEsp:Dropdown({Name = "Flags", Flag = "PlayerESP_Flag_Options", Options = {"Distance", "Knocked"}, Max = 9e9})
+			playerEsp:Toggle({Name = "Gun Icons", Flag = "PlayerESP_GunIcons"})
+			local highlight = playerEsp:Toggle({Name = "Chams", Flag = "PlayerESP_Highlights"})
+			highlight:Colorpicker({Default = Color3.fromHex("#7D0DC3"), Transparency = 0.7, Flag = "PlayerESP_HighlightFillSettings"});
+			highlight:Colorpicker({Default = Color3.new(0,0,0), Flag = "PlayerESP_HighlightOutlineSettings"});
+		end 
+		-- 
+		local Properties = ESP:Section({Name = "Properties", Size = 330, Side = "Left"})
+			local health = Properties:Toggle({Name = "Health Bar", Flag = "PlayerESP_HealthBar"})
+			health:Colorpicker({Default = Color3.fromRGB(0,255,0), Flag = "PlayerESP_HealthBar_Color_Higher"});
+			health:Colorpicker({Default = Color3.fromRGB(255,0,0), Flag = "PlayerESP_HealthBar_Color_Low"});
+			Properties:Toggle({Name = "Health Number", Flag = "PlayerESP_HealthNumber"})
+			Properties:Toggle({Name = "Armor Bar", Flag = "PlayerESP_ArmorBar"}):Colorpicker({Default = Color3.fromRGB(0,0,255), Flag = "PlayerESP_ArmorBarColor"});
+		-- 
+		local selfEsp = ESP:Section({Name = "Self Esp", Size = 330, Side = "Right"}) do 
+			selfEsp:Toggle({Name = "Enabled", Flag = "Self_PlayerESP_Enabled", Callback = function(Bool)
+					if Bool then 
+						Visuals:Create({Player = LocalPlayer})
+					else 
+						Visuals.Bases[LocalPlayer]:Remove()
+					end 
+				end})
+			selfEsp:Slider({Name = "Distance", Flag = 'Self_ESP Distance', Min = 0, Max = 5000, Default = 5000, Decimals = 5})
+			local box = selfEsp:Toggle({Name = "Boxes", Flag = "Self_PlayerESP_Box"})
+			selfEsp:Colorpicker({Default = Color3.fromRGB(255, 255, 255), Flag = "Self_PlayerESP_Box_Color1"});
+			selfEsp:Colorpicker({Default = Color3.fromRGB(0, 0, 0), Flag = "Self_PlayerESP_Box_Color2"});
+			selfEsp:Toggle({Name = "Box-Fill", Flag = "Self_PlayerESP_BoxFill"}):Colorpicker({Default = Color3.fromRGB(255, 255, 255), Transparency = 0.7, Flag = "Self_PlayerESP_BoxFill_Color"});
+			selfEsp:Toggle({Name = "Name", Flag = "Self_PlayerESP_Name"}):Colorpicker({Default = Color3.fromRGB(255, 255, 255), Flag = "Self_PlayerESP_Name_Color"});
+			selfEsp:Toggle({Name = "Weapons", Flag = "Self_PlayerESP_Weapon"}):Colorpicker({Default = Color3.fromRGB(255, 255, 255), Flag = "Self_PlayerESP_Weapon_Color"});
+			selfEsp:Toggle({Name = "Flags", Flag = "Self_PlayerESP_Flags"}):Colorpicker({Default = Color3.fromRGB(255, 255, 255), Flag = "Self_PlayerESP_FlagsColor"});
+			selfEsp:Dropdown({Name = "Flags", Flag = "Self_PlayerESP_Flag_Options", Options = {"Distance", "Knocked"}, Max = 9e9})
+			selfEsp:Toggle({Name = "Gun Icons", Flag = "Self_PlayerESP_GunIcons"})
+			local highlight = selfEsp:Toggle({Name = "Chams", Flag = "Self_PlayerESP_Highlights"})
+			highlight:Colorpicker({Default = Color3.fromHex("#7D0DC3"), Transparency = 0.7, Flag = "Self_PlayerESP_HighlightFillSettings"});
+			highlight:Colorpicker({Default = Color3.new(0,0,0), Flag = "Self_PlayerESP_HighlightOutlineSettings"});
+		end 
+		-- 
+		local selfEspProperties = ESP:Section({Name = "Properties", Size = 330, Side = "Right"}) do 
+			local health = selfEspProperties:Toggle({Name = "Health Bar", Flag = "Self_PlayerESP_HealthBar"})
+			health:Colorpicker({Default = Color3.fromRGB(0,255,0), Flag = "Self_PlayerESP_HealthBar_Color_Higher"});
+			health:Colorpicker({Default = Color3.fromRGB(255,0,0), Flag = "Self_PlayerESP_HealthBar_Color_Low"});
+			selfEspProperties:Toggle({Name = "Health Number", Flag = "Self_PlayerESP_HealthNumber"})
+			selfEspProperties:Toggle({Name = "Armor Bar", Flag = "Self_PlayerESP_ArmorBar"}):Colorpicker({Default = Color3.fromRGB(0,0,255), Flag = "Self_PlayerESP_ArmorBarColor"});
+		end 
+		--  seperate here
+		local worldVisuals = World:Section({Name = "Lighting", Size = 330, Side = "Left"}) do 
+			worldVisuals:Toggle({Name = "Master Switch", Flag = "Master Switch", Callback = function()
+				for i,v in pairs(Lighting_Save) do 
+					Lighting[i] = v 
+				end 
+			end})
+			worldVisuals:Toggle({Name = "Clock Time", Flag = "Clock Time Enabled"})
+			worldVisuals:Slider({Name = "Clock Time", Flag = 'Clock Time', Min = 0, Max = 24, Default = 12, Decimals = 0.1})
+			worldVisuals:Toggle({Name = "Color Shift Bottom", Flag = "Color Shift Bottom"}):Colorpicker({Default = Color3.fromRGB(255, 255, 255), Flag = "Color Shift Bottom Color"});
+			worldVisuals:Toggle({Name = "Ambient", Flag = "Ambient"}):Colorpicker({Default = Color3.fromRGB(255, 255, 255), Flag = "Ambience Color"});
+			worldVisuals:Toggle({Name = "Outdoor Ambience", Flag = "Outdoor Ambience"}):Colorpicker({Default = Color3.fromRGB(255, 255, 255), Flag = "Outdoor Ambience color"});
+			worldVisuals:Toggle({Name = "Brightness", Flag = "Brightness Enabled"})
+			worldVisuals:Slider({Name = "Brightness", Flag = 'Brightness', Min = 0, Max = 20, Default = 3, Decimals = 1})
+			worldVisuals:Toggle({Name = "Color Shift Top", Flag = "Color Shift Top"}):Colorpicker({Default = Color3.fromRGB(255, 255, 255), Flag = "Color Shift Top Color"});
+			worldVisuals:Toggle({Name = "Fog", Flag = "Fog"}):Colorpicker({Default = Color3.fromRGB(255, 255, 255), Flag = "Fog Color"});
+		end 
+		-- 
+		local bulletTracers = World:Section({Name = "Bullet Modification", Size = 330, Side = "Left"}) do 
+			bulletTracers:Toggle({Name = "Bullet Tracers", Flag = "Bullet Tracers"}):Colorpicker({Default = Color3.new(1,1,1), Flag = "Bullet Tracers Color"});
+			bulletTracers:Slider({Name = "Lifetime", Flag = 'Tracers Life Time', Min = 0, Max = 10, Default = 2, Decimals = 0.1})
+			bulletTracers:Toggle({Name = "Face Camera", Flag = "Face Camera", Default = true})
+			bulletTracers:Slider({Name = "Brightness", Flag = 'Bullet Brightness', Min = 0, Max = 20, Default = 6, Decimals = 1})
+			bulletTracers:Slider({Name = "Speed", Flag = 'Bullet Speed', Min = 0, Max = 20, Default = 3, Decimals = 0.01})
+			bulletTracers:Slider({Name = "Size", Flag = 'Bullet Size', Min = 1, Max = 20, Default = 1, Decimals = 0.01})
+			bulletTracers:Toggle({Name = "Bullet Impacts", Flag = "Bullet Impacts"}):Colorpicker({Default = Color3.new(1,1,1), Alpha = 0, Flag = "Bullet Impacts Color"});
+			bulletTracers:Slider({Name = "Size", Flag = 'Impact Size', Min = 0.01, Max = 5, Default = 0.25, Decimals = 0.01})
+		end 
+		-- 
+		local crosshairSection = World:Section({Name = "Crosshair", Size = 330, Side = "Right"}) do 
+			crosshairSection:Toggle({Name = "Crosshair", Flag = "Crosshair", Callback = function()
+				for i = 1, #crosshair_Lines do
+					crosshair_Lines[i].Visible = false; 
+				end 
+				--
+				for i = 1, #crosshair_Outlines do
+					crosshair_Outlines[i].Visible = false; 
+				end 
+			end}):Colorpicker({Default = Color3.fromRGB(255,255,255), Flag = "Crosshair Color", Callback = function()
+				for i = 1, #crosshair_Lines do 
+					crosshair_Lines[i].Color = flags["Crosshair Color"].Color;
+					crosshair_Lines[i].Transparency = flags["Crosshair Color"].Transparency;
+				end 
+			end});
+			crosshairSection:Toggle({Name = "Always Rotating", Flag = "Crosshair Always Rotating"})
+			crosshairSection:Slider({Name = "Speed", Flag = 'Crosshair Speed', Min = 0, Max = 24, Default = 12, Decimals = 0.1})
+			crosshairSection:Slider({Name = "Gap Size", Flag = 'Crosshair Gap Size', Min = 0, Max = 30, Default = 12, Decimals = 1})
+			crosshairSection:Slider({Name = "Length", Flag = 'Crosshair Length', Min = 0, Max = 30, Default = 12, Decimals = 1})
+			crosshairSection:Slider({Name = "Thickness", Flag = 'Crosshair Thickness', Min = 0.1, Max = 5, Default = 1.5, Decimals = 0.1, Callback = function(Int)
+				for i = 1, #crosshair_Lines do
+					crosshair_Lines[i].Thickness = Int; 
+					crosshair_Outlines[i].Thickness = Int; 
+				end 
+			end})
+			crosshairSection:Slider({Name = "Sides", Flag = 'Crosshair Sides', Min = 1, Max = 10, Default = 4, Decimals = 1, callback = function(Int)
+				crosshair_LineAmount = Int
+				-- 
+				crosshair_lineOffsets = utility:generateAngles(Int)
+				--
+				for i = 1, #crosshair_Lines do
+					crosshair_Lines[i]:Remove(); 
+					crosshair_Lines[i] = nil; 
+				end 
+				-- 
+				for i = 1, #crosshair_Outlines do
+					crosshair_Outlines[i]:Remove(); 
+					crosshair_Outlines[i] = nil; 
+				end 
+				-- 
+				do 
+					for Index = 1, Int do
+						local line = utility:drawObject("Line",{
+							Visible = false,
+							Color = flags["Crosshair Color"].Color,
+							Thickness = flags["Crosshair Thickness"],
+							ZIndex = 2,
+							Transparency = 1
+						})
+						--
+						crosshair_Lines[Index] = line
+						--
+						local line_1 = utility:drawObject("Line",{
+							Visible = false,
+							Color = Color3.fromRGB(0, 0, 0),
+							Thickness = flags["Crosshair Thickness"] * 2.5,
+							ZIndex = 1,
+							Transparency = 1
+						})
+						-- 
+						crosshair_Outlines[Index] = line_1
+					end
+				end 
+			end})
+			crosshairSection:Dropdown({Name = "Sizing Easing Style", Flag = "Crosshair Sizing Easing Style", Options = {"Off", "Linear", "Cubic", "Quad", "Quart", "Quint", "Sine", "Exponential", "Back", "Bounce", "Elastic", "Circular"}, Default = "Off"})
+			crosshairSection:Dropdown({Name = "Speed Easing Style", Flag = "Crosshair Speed Easing Style", Options = {"Off", "Linear", "Cubic", "Quad", "Quart", "Quint", "Sine", "Exponential", "Back", "Bounce", "Elastic", "Circular"}, Default = "Off"})
+			crosshairSection:Toggle({Name = "Show Text", Flag = "Script Name", Callback = function(Bool)
+				local sub = utility.drawings["Sub"]
+				local domain = utility.drawings["Domain"]
+				-- 
+				sub.Visible = Bool 
+				domain.Visible = Bool 
+			end})
+			crosshairSection:Toggle({Name = "Pulse", Flag = "Pulse"})
+			crosshairSection:Toggle({Name = "Attach to target", Flag = "Attach to target"})
+		end 
+		-- 
+		local ingameCrosshair = World:Section({Name = "In-Game Crosshair", Size = 330, Side = "Right"}) do 
+			ingameCrosshair:Toggle({Name = "Spinning", Flag = "In-Game Crosshair Spin", Callback = function()
+				game:GetService("Players").LocalPlayer.PlayerGui.MainScreenGui.Aim.Rotation = 0 
+			end})
+			ingameCrosshair:Slider({Name = "Speed", Flag = 'In-Game Crosshair Spin Speed', Min = 0, Max = 30, Default = 1, Decimals = 1})
+			ingameCrosshair:Toggle({Name = "Dont Show", Flag = "In-Game Crosshair Invisible"}) 
+		end 
+	end 
+	-- // Visuals 
+	local misc = Window:Page({Name = "Misc", Weapons = true}) do 
+		local Movement = misc:Weapon({Icon = "rbxassetid://6034509993"})
+		local Exploits = misc:Weapon({Icon = "rbxassetid://16997954488"})
+		local movementSection = Movement:Section({Name = "General", Size = 330}) do 
+			movementSection:Toggle({Name = "Speed", Flag = "Speed Enabled"}):Keybind({Name = "Speed", Flag = "Speed Key", Mode = "Toggle", Callback = function()
+				if Chatting then return end 
+			end})
+			movementSection:Slider({Name = "Speed", Flag = 'Speed', Min = 0, Max = 100, Default = 20, Decimals = 1})
+			movementSection:Toggle({Name = "Fly", Flag = "Fly Enabled"}):Keybind({Name = "Fly", Flag = "Fly Key", Mode = "Toggle", Callback = function()
+				if Chatting then return end
+				LocalPlayer.Character.HumanoidRootPart.Anchored = false; 
+			end})	
+			movementSection:Slider({Name = "Fly", Flag = 'Fly Speed', Min = 0, Max = 100, Default = 20, Decimals = 1})
+		end 
+		-- 
+		local hitEffects = Movement:Section({Name = "Hit Effects", Size = 330, Side = "Right"}) do 
+			hitEffects:Toggle({Name = "Hit Marker", Flag = "Hit Marker"}):Colorpicker({Default = Color3.fromRGB(255,255,255), Flag = "Hit Marker Settings"});
+			hitEffects:Toggle({Name = "3D Hit Marker", Flag = "3D Hit Marker"}):Colorpicker({Default = Color3.fromRGB(255,255,255), Flag = "3D Hit Marker Settings"});
+			hitEffects:Slider({Name = "Fading Time", Flag = 'Hit Markers Time', Min = 0.1, Max = 10.0, Default = 5.0, Decimals = 0.1})
+			hitEffects:Toggle({Name = "Hit Sounds", Flag = "Hit Sounds"})
+			hitEffects:Dropdown({Name = "Hit Sounds", Flag = "Hit Sounds Sound", Options = sfx_names, Default = "Neverlose"})
+			hitEffects:Slider({Name = "Volume", Flag = 'Hit Sounds Volume', Min = 0.1, Max = 10.0, Default = 5.0, Decimals = 0.1})
+			hitEffects:Slider({Name = "Pitch", Flag = 'Hit Sounds Pitch', Min = 0.1, Max = 10.0, Default = 1.0, Decimals = 0.1})
+			hitEffects:Toggle({Name = "Hit Effects", Flag = "Hit Effects"}):Colorpicker({Default = Color3.fromRGB(255,255,255), Flag = "Hit Effect Settings"});
+			hitEffects:Dropdown({Name = "Hit Effects", Flag = "Hit Effects Option", Options = {"Confetti", "Nova", "Sparkle"}, Default = "Confetti"})
+			hitEffects:Toggle({Name = "Hit Chams", Flag = "Hit Chams"}):Colorpicker({Default = Color3.fromRGB(255, 0, 0), Transparency = 0.8, Flag = "Hit Chams Settings"});
+			hitEffects:Dropdown({Name = "Material", Flag = "Hit Chams Material", Options = {"ForceField", "Neon", "Plastic"}, Default = "Neon"})
+			hitEffects:Slider({Name = "Fading Time", Flag = 'Hit Chams Fading Time', Min = 0.1, Max = 10.0, Default = 5.0, Decimals = 0.1})
+			hitEffects:Toggle({Name = "Hit-Logs", Flag = "Hit Notify"})
+		end 
+		-- 
+		local chatSpam = Movement:Section({Name = "Chat Spam", Size = 330, Side = "Left"}) do
+			chatSpam:Toggle({Name = "Enabled", Flag = "Chat Spam"})
+			chatSpam:Dropdown({Name = "Type", Flag = "Chat Spam Type", Options = {"NeverLose", "Scottish"}, Default = "NeverLose"})
+			chatSpam:Slider({Name = "Delay", Flag = 'Chat Spam Delay', Suffix = "s", Min = 0.1, Max = 10.0, Default = 5.0, Decimals = 0.1})
+			chatSpam:Toggle({Name = "Symbols", Flag = "Symbol"})
+			chatSpam:Toggle({Name = "Repeat", Flag = "Repeat"})
+		end 
+		-- 
+		local characterMods = Movement:Section({Name = "Character", Size = 330, Side = "Left"}) do 
+			characterMods:Toggle({Name = "Remove Chairs", Flag = "Remove Chairs", Callback = function(Bool)
+				for i,v in pairs(Workspace:GetDescendants()) do 
+					if v:IsA("Seat") then 
+						v.Disabled = Bool
+					end 
+				end 
+			end})
+			characterMods:Toggle({Name = "No Slow", Flag = "No Slow"})		
+			characterMods:Toggle({Name = "Auto Reload", Flag = "Auto Reload"})	
+			characterMods:Toggle({Name = "Auto Armor", Flag = "Auto Armor"})	
+			characterMods:Toggle({Name = "Anti Void Kill", Flag = "Anti Void Kill", Callback = function(Bool)
+				Workspace.FallenPartsDestroyHeight = Bool and -50000 or -500
+			end})	
+		end 
+		-- 
+		local cframeDesync = Exploits:Section({Name = "Desync", Size = 330, Side = "Left"}) do
+			local customSliders, strafeSliders, randomSliders = {}, {}, {}
+			cframeDesync:Toggle({Name = "Enabled", Flag = "Desync"}):Keybind({Name = "Desync Key", Flag = "Desync Key", Mode = "Toggle", Callback = function()
+				if flags["Desync Key"] == false and C_Desync["OldPosition"] then 
+					LocalPlayer.Character.HumanoidRootPart.CFrame = C_Desync["OldPosition"]
+					C_Desync["OldPosition"] = nil 
+				end 
+			end}) 
+			local Vis = cframeDesync:Toggle({Name = "Visualize", Flag = "Desync Visualize"}); Vis:Colorpicker({Default = Color3.fromRGB(0,0,0), Flag = "Desync Visualize Outline", Alpha = 0}); Vis:Colorpicker({Default = Color3.fromHex("#7D0DC3"), Flag = "Desync Visualize Fill", Alpha = 0.7});
+			cframeDesync:Toggle({Name = "Attach onto target", Flag = "Attach Target"});
+			cframeDesync:Dropdown({Name = "Type", Flag = "Desync Type", Options = {"Custom", "Random", "Target Strafe", "Roll"}, Default = "Target Strafe", Callback = function(Option)
+				if #customSliders ~= 0 then 
+					for _,v in pairs(customSliders) do v:SetVisible(Option == "Custom" and true or false) end; for _,v in pairs(strafeSliders) do v:SetVisible(Option == "Target Strafe" and true or false) end; for _,v in pairs(randomSliders) do v:SetVisible(Option == "Random" and true or false) end 		
+				end 
+			end})
+			-- // Dropdown Sliders
+			do 
+				local _ = cframeDesync:Slider({Name = "Position X", Flag = 'Desync X', Min = -15, Max = 15, Default = 0, Decimals = 1, Suffix = "m"}) table.insert(customSliders, _)
+				local _ = cframeDesync:Slider({Name = "Position Y", Flag = 'Desync Y', Min = -15, Max = 15, Default = 0, Decimals = 1, Suffix = "m"}) table.insert(customSliders, _)
+				local _ = cframeDesync:Slider({Name = "Position Z", Flag = 'Desync Z', Min = -15, Max = 15, Default = 0, Decimals = 1, Suffix = "m"}) table.insert(customSliders, _)
+				-- 		
+				local _ = cframeDesync:Slider({Name = "Rotation X", Flag = 'Rotation X', Min = -180, Max = 180, Default = 0, Decimals = 1, Suffix = "°"}) table.insert(customSliders, _)
+				local _ = cframeDesync:Slider({Name = "Rotation Y", Flag = 'Rotation Y', Min = -180, Max = 180, Default = 0, Decimals = 1, Suffix = "°"}) table.insert(customSliders, _)
+				local _ = cframeDesync:Slider({Name = "Rotation Z", Flag = 'Rotation Z', Min = -180, Max = 180, Default = 0, Decimals = 1, Suffix = "°"}) table.insert(customSliders, _)
+				-- 
+				local _ = cframeDesync:Slider({Name = "Radius", Flag = 'Desync Strafe Radius', Min = -15, Max = 15, Default = 10, Decimals = 1, Suffix = "m"}) table.insert(strafeSliders, _)
+				local _ = cframeDesync:Slider({Name = "Speed", Flag = 'Desync Strafe Speed', Min = -15, Max = 15, Default = 10, Decimals = 1, Suffix = "m/s"}) table.insert(strafeSliders, _)
+				local _ = cframeDesync:Slider({Name = "Height", Flag = 'Desync Strafe Height', Min = -15, Max = 15, Default = 0, Decimals = 1, Suffix = "m"}) table.insert(strafeSliders, _)
+				-- 
+				local _ = cframeDesync:Slider({Name = "Random Range", Flag = 'Desync Random Range', Min = 0, Max = 50, Default = 0, Decimals = 1, Suffix = "st"}) table.insert(randomSliders, _)
+				-- 
+				for _,v in pairs(customSliders) do v:SetVisible(false) end 		
+				for _,v in pairs(strafeSliders) do v:SetVisible(true) end 	
+				for _,v in pairs(randomSliders) do v:SetVisible(false) end 
+			end 	
+		end	
+	end 
+
+	
+
+	-- // Settings
+	local Config = Window:Page({Name = "Settings"}) do
+		local Menu = Config:Section({Name = "Menu", Size = 120})
+		local Cfgs = Config:Section({Name = "Configs", Size = 200, Side = "Right"})
+		--
+		local abc = false 
+		Menu:Keybind({Name = "Menu key", Flag = "MenuKey", Default = Enum.KeyCode.End, Mode = "Toggle", Callback = function() abc = not abc Library:SetOpen(abc) end})
+		Menu:Dropdown({Name = "Notification Position", Flag = "Notification Position", Options = {"Top Left", "Middle"}, Default = "Top Left"})
+		Menu:Label({Centered = true, Name = "Credits: \nPortal : User Interface"})
+		--
+		local CFGList = Cfgs:Dropdown({Name = "Cfg List", Flag = "SettingConfigurationList", Options = {}})
+		Cfgs:Textbox({Flag = "SettingsConfigurationName", Placeholder = "Config name"})
+		--
+		local CurrentList = {};
+		if not isfolder("Lunar") then 
+			makefolder("Lunar")
+		end 
+		if not isfolder("Lunar/Configs") then 
+			makefolder("Lunar/Configs")
+		end 
+		local function UpdateConfigList()
+			local List = {};
+			for idx, file in ipairs(listfiles("Lunar/Configs")) do
+				local FileName = file:gsub("Lunar/Configs\\", ""):gsub(".cfg", "")
+				List[#List + 1] = FileName;
+			end;
+
+			local IsNew = #List ~= #CurrentList
+			if not IsNew then
+				for idx, file in ipairs(List) do
+					if file ~= CurrentList[idx] then
+						IsNew = true;
+						break;
+					end;
+				end;
+			end;
+
+			if IsNew then
+				CurrentList = List;
+				CFGList:Refresh(CurrentList);
+			end;
+		end;
+		--
+		Cfgs:Button({Name = "Create", Callback = function()
+			local ConfigName = flags.SettingsConfigurationName;
+			if ConfigName == "" or isfile("Lunar/Configs/" .. ConfigName .. ".cfg") then
+				return;
+			end;
+			writefile("Lunar/Configs/" .. ConfigName .. ".cfg", Library:GetConfig());
+			UpdateConfigList();
+		end})
+		Cfgs:Button({Name = "Save", Callback = function()
+			local SelectedConfig = flags.SettingConfigurationList;
+			if SelectedConfig then
+				writefile("Lunar/Configs/" .. SelectedConfig .. ".cfg", Library:GetConfig())
+			end;
+		end})
+		Cfgs:Button({Name = "Load", Callback = function()
+			local SelectedConfig = flags.SettingConfigurationList;
+			if SelectedConfig then
+				Library:LoadConfig(readfile("Lunar/Configs/" .. SelectedConfig .. ".cfg"))
+			end
+		end})
+		Cfgs:Button({Name = "Delete", Callback = function()
+			local SelectedConfig = flags.SettingConfigurationList;
+			if SelectedConfig then
+				delfile("Lunar/Configs/" .. SelectedConfig .. ".cfg")
+			end
+			UpdateConfigList();
+		end})
+		Cfgs:Button({Name = "Refresh", Callback = function()
+			UpdateConfigList();
+		end})
+		Cfgs:Toggle({Name = "Keybind List", Flag = "Keybind List", Callback = function(Bool)
+			PlaceHolderUI.Enabled = Bool
+		end})
+		UpdateConfigList();
+	end
+end 
+
+-- // Framework
+do 
+	getgenv().offset = nil; 
+	local Origin; 
+	local Position, OnScreen, PreviousGun, PreviousAmmo, Sine, Radians = nil, nil, nil, nil, 0, 1; 
+	local NetworkTick, Networking = 0, false; 
+	local chatTick = 0; 
+	-- // Loops
+	do
+		framework["connections"]["Main Loop"] = RunService.Heartbeat:Connect(LPH_NO_VIRTUALIZE(function(Fps)
+			-- // Framework Calls
+			do 
+				framework:aimAssist() 
+				framework:worldVisuals()
+			end 
+			--// Auto Armor
+			do 
+				if flags["Auto Armor"] then 
+					if LocalPlayer.Character.BodyEffects.Armor.Value < 100 then 
+						local Pos = LocalPlayer.Character.HumanoidRootPart.CFrame
+						LocalPlayer.Character.HumanoidRootPart.CFrame = workspace.Ignored.Shop["[High-Medium Armor] - $2440"].Head.CFrame
+						fireclickdetector(workspace.Ignored.Shop["[High-Medium Armor] - $2440"].ClickDetector)
+						RunService.RenderStepped:Wait()
+						LocalPlayer.Character.HumanoidRootPart.CFrame = Pos 
+					end 
+				end 
+			end 
+			-- // No Slow Down 
+			do 
+				if flags["No Slow"] then 
+					if LocalPlayer.Character.BodyEffects.Reload.Value then
+						LocalPlayer.Character.BodyEffects.Reload.Value = false
+					end
+					--
+					local Slowdowns = LocalPlayer.Character.BodyEffects.Movement:FindFirstChild('NoJumping') or LocalPlayer.Character.BodyEffects.Movement:FindFirstChild('NoWalkSpeed') or LocalPlayer.Character.BodyEffects.Movement:FindFirstChild('ReduceWalk')
+					if Slowdowns then
+						Slowdowns:Destroy()
+					end
+				end 
+			end 
+			-- // Target Framework
+			do 
+				if utility.target and utility:ValidateClient(utility.target) and flags["Silent_Bind"] then
+					Position, OnScreen = Camera:WorldToViewportPoint(utility.target.Character.HumanoidRootPart.Position);
+					prediction = framework:selectPrediction()
+					-- 
+					if flags["Target Auto Select"] then 
+						framework:autoSelect()
+					end 
+					--
+					if flags["Resolver"] then 
+						offset = framework:calculateResolverOffset(utility.target); 
+					end      
+					--
+					if flags["Highlight Enabled"] then 
+						targetHighlight.Enabled = true 
+						targetHighlight.DepthMode = Enum.HighlightDepthMode.AlwaysOnTop
+						targetHighlight.FillColor = flags["Highlight Fill Color"].Color
+						targetHighlight.OutlineColor = flags["Highlight Outline Color"].Color
+						targetHighlight.Adornee = utility.target.Character
+						targetHighlight.OutlineTransparency = flags["Highlight Outline Color"].Transparency
+						targetHighlight.FillTransparency = flags["Highlight Fill Color"].Transparency 
+					else 
+						targetHighlight.Enabled = false 
+					end 
+					-- 
+					if flags["Nearest Part"] then 
+						partClosest = framework:calculateNearestPart(utility.target, flags["Closest Hit Part"]).Name
+					end 
+					--
+					checks = framework:getChecks(utility.target, table.find(flags["Silent Checks"], "Friend Check"), table.find(flags["Silent Checks"], "Wall Check"), table.find(flags["Silent Checks"], "Knocked Check"), table.find(flags["Silent Checks"], "Grabbed Check"));
+					-- 
+					if flags["Line Enabled"] then 
+						utility.drawings["Tracer"].Visible = OnScreen and true or false  
+						utility.drawings["Tracer"].From = NewVector2(Mouse.X, Mouse.Y + Offset)
+						utility.drawings["Tracer"].To = NewVector2(Position.X, Position.Y)
+						utility.drawings["Tracer"].Color = flags["Line Settings"].Color
+						utility.drawings["Tracer"].Transparency = flags["Line Settings"].Transparency
+					end
+					--
+					if flags["Target Strafe Enabled"] then 
+						utility.angle = utility.angle + flags["Target Strafe Speed"]
+						local strafe = utility.target.Character.HumanoidRootPart.CFrame * CFrame.Angles(0, math.rad(utility.angle), 0) * NewCFrame(0, flags["Target Strafe Height"], flags["Target Strafe Distance"])
+						-- 
+						LocalPlayer.Character.HumanoidRootPart.CFrame = strafe
+					end 
+					-- 
+					if flags["Back Track Enabled"] and flags["Back Track Method"] == "Follow" then 
+						for _, Part in pairs(utility.folders["Part Chams"]:GetChildren()) do 
+							if Part:IsA("BasePart") and table.find(utility.bodyParts, Part.Name) then 
+								Part.Position = utility.target.Character[Part.Name].Position + utility.target.Character.HumanoidRootPart.Velocity * 0.1413
+								Part.Rotation = utility.target.Character[Part.Name].Rotation
+							end     
+						end 
+					end 
+					-- 
+					if flags["Look At"] then 
+						LocalPlayer.Character.Humanoid.AutoRotate = false;
+						local OldCframe = LocalPlayer.Character.PrimaryPart;
+						local NearestRoot = utility.target.Character.HumanoidRootPart
+						local NearestPos = NewCFrame(LocalPlayer.Character.PrimaryPart.Position, Vector3.new(NearestRoot.Position.X, OldCframe.Position.Y, NearestRoot.Position.Z));
+						LocalPlayer.Character:SetPrimaryPartCFrame(NearestPos);
+					end 
+					-- 
+					if flags["Auto Shoot"] then 
+						local Tool = utility:getHeld(); 
+						if Tool then 
+							Tool:Activate()
+						end 
+					end 
+				else 
+					-- 
+					if (utility.drawings["Tracer"].Visible == true) then 
+						utility.drawings["Tracer"].Visible = false 
+					end 
+					-- 
+					targetHighlight.Enabled = false 
+				end 
+			end 
+			-- // Anti Cheat Bypass
+			do 
+				if tick() - antiCheattick > 1 and LocalPlayer.Character then 
+					antiCheattick = tick() 
+					-- 
+					for _, Script in pairs(LocalPlayer.Character:GetChildren()) do
+						if Script:IsA("Script") and Script.Name ~= "Health" and Script.Name ~= "Sound" and Script:FindFirstChild("LocalScript") then
+							Script:Destroy()
+						end
+					end
+				end 	
+			end 
+			-- // Movement
+			do 
+				if LocalPlayer.Character and not (flags["Desync"] and flags["Desync Key"]) then 
+					framework:cframeSpeed() 
+					framework:fly(Fps)			
+				end 
+			end 
+			-- // Physics and Network shits
+			do 
+				if flags["Fast Flags"] and getfflag("S2PhysicsSenderRate") ~= flags["Fast Flags Amount"] then 
+					setfflag("S2PhysicsSenderRate", flags["Fast Flags Amount"])
+				end 
+				-- 
+				if flags["Network Desync"] then 
+					if tick() - NetworkTick > flags["Network Delay"] then 
+						NetworkTick = tick() 
+						Networking = not Networking
+						sethiddenproperty(LocalPlayer.Character.HumanoidRootPart, "NetworkIsSleeping", Networking)
+					end 
+				end 
+			end 
+			-- // Chat Spam
+			do 
+				if flags["Chat Spam"] then 
+					if tick() - chatTick > flags["Chat Spam Delay"] then 
+						chatTick = tick()
+						local Message = framework:chatSpam(flags["Chat Spam Type"], flags["Repeat"], flags["Emojis"], flags["Symbol"])
+						ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(Message, "All")
+					end 
+				end 
+			end 
+		end))
+		framework["connections"]["Desync"] = RunService.Heartbeat:Connect(LPH_NO_VIRTUALIZE(function(delta)
+			-- // Desync
+			do 
+				if ((flags["Desync"] and flags["Desync Key"]) or (flags["Destroy Cheaters"] and flags["Destroy Cheaters Key"]) and LocalPlayer.Character) then 
+					C_Desync["OldPosition"] = LocalPlayer.Character.HumanoidRootPart.CFrame
+					local Origin = (flags["Attach Target"] and checks and utility.target and utility.target.Character and utility.target.Character.HumanoidRootPart) or LocalPlayer.Character.HumanoidRootPart
+					local randomRange = flags["Desync Random Range"]
+					Radians += flags["Desync Strafe Speed"]
+					local calculatedPositions = {
+						["Random"] = (NewCFrame(Origin.Position) + Vector3.new(Random(-randomRange, randomRange), Random(-randomRange, randomRange), Random(-randomRange, randomRange))) * CFrame.Angles(Rad(Random(-180, 180)), Rad(Random(-180, 180)), Rad(Random(-180, 180))),
+						["Roll"] = Origin.CFrame * NewCFrame(0, -4 ,0) * CFrame.Angles(0, Rad(Random(1, 360)), Rad(-180)),
+						["Target Strafe"] = Origin.CFrame * CFrame.Angles(0, Rad(Radians), 0) * NewCFrame(0, flags["Desync Strafe Height"], flags["Desync Strafe Radius"]),
+						["Custom"] = Origin.CFrame * NewCFrame(flags["Desync X"], flags["Desync Y"], flags["Desync Z"]) * CFrame.Angles(Rad(flags["Rotation X"]), Rad(flags["Rotation Y"]), Rad(flags["Rotation Z"])), 
+						["Destroy Cheaters"] = Origin.CFrame * NewCFrame(9e9, 9e9, 9e9)
+					}
+					--
+					C_Desync["PredictedPosition"] = flags["Destroy Cheaters"] and flags["Destroy Cheaters Key"] and calculatedPositions["Destroy Cheaters"] or calculatedPositions[flags["Desync Type"]]
+					-- 
+					LocalPlayer.Character.HumanoidRootPart.CFrame = C_Desync["PredictedPosition"]
+					-- 
+					if flags["Desync Visualize"] then 
+						bodyClone:SetPrimaryPartCFrame(LocalPlayer.Character.HumanoidRootPart.CFrame)	
+						visualizeChams.FillColor = flags["Desync Visualize Fill"].Color;
+						visualizeChams.FillTransparency = flags["Desync Visualize Fill"].Transparency; 
+						visualizeChams.OutlineColor = flags["Desync Visualize Outline"].Color; 
+						visualizeChams.OutlineTransparency = flags["Desync Visualize Outline"].Transparency; 			
+					end  		
+					-- 
+					game:GetService("RunService").RenderStepped:Wait()
+					-- 
+					print((LocalPlayer.Character.HumanoidRootPart.Position).Magnitude)
+					-- 	
+					LocalPlayer.Character.HumanoidRootPart.CFrame = C_Desync["OldPosition"]
+					--
+					framework:cframeSpeed() 
+					framework:fly(delta)	
+				else 
+					bodyClone:SetPrimaryPartCFrame(NewCFrame(9999,9999,9999))	
+				end 
+			end
+		end)) 
+		framework["connections"]["ESP Loop"] = RunService.RenderStepped:Connect(LPH_NO_VIRTUALIZE(function(Fps)
+			for Index, Base in pairs(Visuals.Bases) do
+				Base:Update()
+			end 
+			-- // Crosshair Visuals
+			do 
+				crosshair_SpinAngle = flags["Crosshair Always Rotating"] and crosshair_SpinAngle + math.rad((flags["Crosshair Speed"] * 10) * Fps) or 0;  
+				-- // Crosshair 
+				do 
+					if flags["Crosshair"] then 
+						local Radius = flags["Crosshair Length"] * 5
+						local Gap = flags["Crosshair Gap Size"] 
+						--
+						if flags["Attach to target"] and utility.target ~= nil and utility.target.Character and OnScreen then 
+							Origin = NewVector2(Position.X, Position.Y)
+						else 
+							Origin = NewVector2(Mouse.X, Mouse.Y + Offset)
+						end 
+						-- 
+						CursorSize += 0.025
+						-- 
+						local SmoothAngle = flags["Crosshair Speed Easing Style"] ~= "Off" and Tween.EasingStyles[Enum.EasingStyle[flags["Crosshair Speed Easing Style"]]][Enum.EasingDirection.InOut](utility:Shift(crosshair_SpinAngle)) * (Pi * Pi/2) or crosshair_SpinAngle
+						local Dynamic = Cos(CursorSize)
+						local SmoothSize =  flags["Crosshair Sizing Easing Style"] ~= "Off" and ((Radius / 2) * (Tween.EasingStyles[Enum.EasingStyle[flags["Crosshair Sizing Easing Style"]]][Enum.EasingDirection.In](utility:Shift(Dynamic)))) or 0 
+						local localRadius = Radius - SmoothSize
+						--
+						for i = 1, #crosshair_Lines do 
+							local Positions = NewVector2(Cos(SmoothAngle + crosshair_lineOffsets[i]), (Sin(SmoothAngle + crosshair_lineOffsets[i])))
+							-- 
+							crosshair_Lines[i].From = Origin + NewVector2(Positions.X, Positions.Y) * Gap 
+							crosshair_Lines[i].To = crosshair_Lines[i].From + NewVector2(Positions.X, Positions.Y) * localRadius
+							-- 
+							crosshair_Outlines[i].From = Origin + NewVector2(Positions.X, Positions.Y) * (Gap - 1)
+							crosshair_Outlines[i].To = crosshair_Lines[i].From + NewVector2(Positions.X, Positions.Y) * (localRadius + 1)
+							-- 
+							crosshair_Lines[i].Visible = true 
+							crosshair_Outlines[i].Visible = true 
+						end 
+					end 
+				end 
+				-- // Crosshair Text 
+				do
+					if flags["Script Name"] then 
+						local sub = utility.drawings["Sub"]
+						local domain = utility.drawings["Domain"]
+						-- 
+						local yOffset = flags["Crosshair"] and ((flags["Crosshair Length"] * 5) + flags["Crosshair Gap Size"]) or 30
+						-- 
+						local textOrigin; 
+						if flags["Attach to target"] and utility.target ~= nil and utility.target.Character and OnScreen then 
+							textOrigin = NewVector2(Position.X - 23, Position.Y + yOffset)
+						else 
+							textOrigin = NewVector2(Mouse.X - 23, Mouse.Y + Offset + yOffset)
+						end 
+						-- 
+						sub.Visible = true 
+						domain.Visible = true    
+						-- 
+						sub.Position = textOrigin
+						domain.Position = sub.Position + NewVector2(sub.TextBounds.X, 0)
+					end 
+					-- 
+					if flags["Pulse"] and flags["Script Name"] then 
+						local sub = utility.drawings["Sub"]
+						-- 
+						Sine = flags["Pulse"] and math.abs(math.sin(tick() * 4)) or 1 
+						sub.Transparency = Sine
+					end 
+				end
+				-- // In-Game Crosshair Shit 
+				do 
+					if flags["In-Game Crosshair Spin"] and not flags["In-Game Crosshair Invisible"] then 
+						LocalPlayer.PlayerGui.MainScreenGui.Aim.Rotation += flags["In-Game Crosshair Spin Speed"]
+					end 
+					-- 
+					if flags["In-Game Crosshair Invisible"] and LocalPlayer.PlayerGui.MainScreenGui.Aim.Visible == true then 
+						Players.LocalPlayer.PlayerGui.MainScreenGui.Aim.Visible = false 
+					end 
+				end 
+			end 
+			-- // Hit Detection 
+			do 
+				local Gun = LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+				local Connection = framework["connections"]["Hit Detection"]
+				
+				if Gun ~= PreviousGun and Connection then
+					PreviousGun = Gun
+					PreviousAmmo = 999
+					Connection:Disconnect()
+					framework["connections"]["Hit Detection"] = nil
+				end
+			
+				if not framework["connections"]["Hit Detection"] and Gun and Gun.Ammo.Value then
+					framework["connections"]["Hit Detection"] = Gun.Ammo:GetPropertyChangedSignal("Value"):Connect(function()
+						local CurrentAmmo = Gun.Ammo.Value
+						if CurrentAmmo < PreviousAmmo then
+							local ChildrenAdded = 0;
+							local ChildAdded;
+							local IgnoreList = {LocalPlayer.Character, Gun.Handle};
+							ChildAdded = Workspace.Ignored.Siren.Radius.ChildAdded:Connect(function(Object)
+								if Object.Name == "BULLET_RAYS" then
+									ChildrenAdded += 1;
+									if (table.find({"[Double-Barrel SG]", "[TacticalShotgun]", "[Shotgun]"}, Gun.Name) and ChildrenAdded <= 5) or (ChildrenAdded == 1) then
+										local Pos = Object.CFrame.Position
+										local LookVector = Object.CFrame.LookVector
+										-- 
+										local RayCastParams = RaycastParams.new()
+										RayCastParams.FilterType = Enum.RaycastFilterType.Exclude
+										RayCastParams.IgnoreWater = true
+										RayCastParams.FilterDescendantsInstances = IgnoreList
+										local Ray = Workspace:Raycast(Pos, LookVector * 1000, RayCastParams)
+										if not Ray then return end 
+										local HitPosition = Ray.Position
+										local HitInstance = Ray.Instance
+										-- 	
+										delay(0.001, function()
+											if flags["Bullet Tracers"] then 	
+												Object:Destroy() 	
+												utility:CreateBeam(Pos, HitPosition, flags["Bullet Tracers Color"].Color, flags["Face Camera"], flags["Bullet Size"], flags["Bullet Speed"], flags["Bullet Brightness"])
+											end 
+											-- 
+											if flags["Bullet Impacts"] then 
+												local Impact = Instance.new("Part")
+												Impact.Anchored = true 
+												Impact.CanCollide = false 
+												Impact.Parent = game.Workspace
+												Impact.Material = "Neon"
+												Impact.Shape = Enum.PartType.Block 
+												Impact.Transparency = flags["Bullet Impacts Color"].Transparency
+												Impact.Color = flags["Bullet Impacts Color"].Color
+												Impact.Size = NewVector3(flags["Impact Size"], flags["Impact Size"], flags["Impact Size"])
+												Impact.CFrame = NewCFrame(HitPosition)
+												delay(3, function()
+													Impact:Destroy()
+												end)
+											end 
+											-- 
+											if HitInstance then
+												local InstanceHit = HitInstance:FindFirstAncestorOfClass('Model')
+												if not InstanceHit then return end 
+												
+												if InstanceHit:FindFirstChild("Humanoid") and InstanceHit:FindFirstChild("HumanoidRootPart") then 
+													if flags["Hit Sounds"] then 
+														HitReg:HitSound(sfx[flags["Hit Sounds Sound"]], flags["Hit Sounds Volume"], flags["Hit Sounds Pitch"])
+													end 
+													-- 
+													if flags["Hit Chams"] then 
+														local Model = Instance.new("Model", utility.folders["Hit Chams"]) 
+														utility:characterClone(Players[InstanceHit.Name], flags["Hit Chams Settings"].Color, flags["Hit Chams Material"], flags["Hit Chams Settings"].Transparency, Model);
+														delay(flags["Hit Chams Fading Time"], function()
+															Model:Destroy()
+														end)
+													end
+													-- 
+													if flags["Hit Notify"] then 
+														local Text = string.format("You Hit %s in the %s!", Players[InstanceHit.Name].Name, HitInstance.Name)
+														Library:Notification(Text, 3, Library.Accent, flags["Notification Position"])
+													end 
+													-- 
+													if flags["Hit Marker"] then 
+														HitReg:HitMarker(4, flags["Hit Marker Settings"].Color, flags["Hit Markers Time"])
+													end 
+													-- 
+													if flags["3D Hit Marker"] then 
+														HitReg:HitMarker3D(4, flags["3D Hit Marker Settings"].Color, flags["Hit Markers Time"], HitPosition) 
+													end 
+													-- 
+													if flags["Hit Effects"] then 
+														HitReg:HitEffect(flags["Hit Effects Option"], Players[InstanceHit.Name].Character)
+													end 
+												end 
+											end 
+											ChildAdded:Disconnect()
+										end)
+									end
+								else
+									ChildAdded:Disconnect()
+								end
+							end)
+						end
+						PreviousAmmo = CurrentAmmo
+					end)
+				end
+			end 
+		end)) 
+		framework["connections"]["Typing Check"] = InputService.InputBegan:Connect(function(_, Chatting)
+			Typing = Chatting
+		end)
+		framework["connections"]["Text"] = InputService.InputChanged:Connect(function(_)
+			if utility.drawings["Aim Assist FOV"].Visible then 
+				utility.drawings["Aim Assist FOV"].Position = NewVector2(Mouse.X, Mouse.Y + Offset)
+			end 
+		end) 
+		framework["connections"]["ESP Player Find Loop"] = Players.PlayerAdded:Connect(LPH_NO_VIRTUALIZE(function(Player)
+			if flags["PlayerESP_Enabled"] then 
+				Visuals:Create({Player = Player})
+			end 
+		end))
+	end 
+	-- // Target Back Track
+	do 
+		task.spawn(function()
+			while true do 
+				task.wait(flags["Back Track Delay"]/2)
+				if utility.target and utility:ValidateClient(utility.target) then 
+					if flags["Back Track Enabled"] and flags["Back Track Method"] == "Clone" then
+						utility:characterClone(utility.target, flags["Back Track Settings"].Color, flags["Back Track Material"], flags["Back Track Settings"].Transparency, utility.folders["Part Chams"]);
+						task.wait(flags["Back Track Delay"]/2)
+						utility.folders["Part Chams"]:ClearAllChildren(); 
+					end     
+				end 
+			end 
+		end)
+	end 
+	-- // Gun Handling
+	do  
+		local function Aimbot() 
+			utility:calculateAimViewerEndPoint()
+		end 	
+		-- 	
+		local function Ammo()
+			framework:autoReload()            
+		end 	
+		-- 
+		framework["connections"]["Anti Aim Viewer"] = {} 
+		framework["connections"]["auto reload >_< :3"] = {}
+		for i, v in pairs(LocalPlayer.Backpack:GetChildren()) do
+			if v:IsA("Tool") and v:FindFirstChild("Ammo") then
+				if not framework["connections"]["Anti Aim Viewer"][v] then 
+					framework["connections"]["Anti Aim Viewer"][v] = v.Activated:Connect(Aimbot)
+				end 
+				--
+				if not framework["connections"]["auto reload >_< :3"][v] then 
+					framework["connections"]["auto reload >_< :3"][v] = v.Ammo:GetPropertyChangedSignal("Value"):Connect(Ammo)
+				end 
+			end
+		end
+		for i, v in pairs(LocalPlayer.Character:GetChildren()) do
+			if v:IsA("Tool") and v:FindFirstChild("Ammo") then
+				if not framework["connections"]["Anti Aim Viewer"][v] then 
+					framework["connections"]["Anti Aim Viewer"][v] = v.Activated:Connect(Aimbot)
+				end 
+				--
+				if not framework["connections"]["auto reload >_< :3"][v] then 
+					framework["connections"]["auto reload >_< :3"][v] = v.Ammo:GetPropertyChangedSignal("Value"):Connect(Ammo)
+				end 
+			end
+		end
+		LocalPlayer.Character.ChildAdded:connect(function(v)
+			if v:IsA("Tool") and v:FindFirstChild("Ammo") then
+				if not framework["connections"]["Anti Aim Viewer"][v] then 
+					framework["connections"]["Anti Aim Viewer"][v] = v.Activated:Connect(Aimbot)
+				end 
+				--
+				if not framework["connections"]["auto reload >_< :3"][v] then 
+					framework["connections"]["auto reload >_< :3"][v] = v.Ammo:GetPropertyChangedSignal("Value"):Connect(Ammo)
+				end 
+			end
+		end)
+		LocalPlayer.CharacterAdded:connect(function(v)
+			for i = 1, #framework["connections"]["Anti Aim Viewer"], 1 do
+				framework["connections"]["Anti Aim Viewer"][i]:Disconnect()
+				framework["connections"]["Anti Aim Viewer"][i] = nil
+				framework["connections"]["auto reload >_< :3"][i]:Disconnect()
+				framework["connections"]["auto reload >_< :3"][i] = nil
+			end
+			v.ChildAdded:connect(function(v)
+				if v:IsA("Tool") and v:FindFirstChild("Ammo") then
+					if not framework["connections"]["Anti Aim Viewer"][v] then 
+						framework["connections"]["Anti Aim Viewer"][v] = v.Activated:Connect(Aimbot)
+					end 
+					--
+					if not framework["connections"]["auto reload >_< :3"][v] then 
+						framework["connections"]["auto reload >_< :3"][v] = v.Ammo:GetPropertyChangedSignal("Value"):Connect(Ammo)
+					end 
+				end
+			end)
+		end)
+	end 	
+end 
+
+Library:Notification("Loaded Neverlose.wtf in " .. Floor((tick() - loadingTime) * 1000)  .."ms", 3, Library.Accent, flags["Notification Position"])
+Library:Notification("WARNING: MAKE SURE YOU ARE USING THE CORRECT ARGUMENT FOR THE TARGET AIM OR YOU WILL GET BANNED", 3, Library.Accent, 5, Color3.new(1, 0, 0), flags["Notification Position"])
+delay(3, function()
+	Library:Notification("Message from finobe\n Fixed several things including: Removing unsupported features, target aim, text on cursor, previous ragebot not working", 10, Library.Accent, flags["Notification Position"])
+end)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--[[
+
+NICE TRY POORON >_< :3333
+
+]]
