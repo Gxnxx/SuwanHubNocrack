@@ -1,1 +1,10 @@
-{ "Suwan": "Normal", "Private": "Dev" }
+{
+  "Suwan": {
+    "version": "Normal",
+    "hwids": ["8917659252"]
+  },
+  "OtherKey": {
+    "version": "Pro",
+    "hwids": ["55555555"]
+  }
+}
